@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2021,8,DST,nfl,Philadelphia Eagles,PHI,DET,away,24.00,6.0,0,0,1,0,1,6,171,57,228
+2021,8,DST,nfl,Denver Broncos,DEN,WAS,home,20.00,5.0,2,0,0,2,0,10,230,112,342
+2021,8,DST,nfl,New Orleans Saints,NO,TB,home,16.00,3.0,2,0,1,0,1,27,350,71,421
+2021,8,DST,nfl,Seattle Seahawks,SEA,JAX,home,16.00,1.0,1,0,0,0,1,7,227,82,309
+2021,8,DST,nfl,Buffalo Bills,BUF,MIA,home,15.00,2.0,1,0,1,1,0,11,194,68,262
+2021,8,DST,nfl,New England Patriots,NE,LAC,away,14.00,3.0,2,0,0,0,1,24,206,163,369
+2021,8,DST,nfl,Carolina Panthers,CAR,ATL,away,14.00,3.0,2,0,0,0,0,13,131,82,213
+2021,8,DST,nfl,Tennessee Titans,TEN,IND,away,13.00,1.0,2,0,1,0,1,31,224,83,307
+2021,8,DST,nfl,Pittsburgh Steelers,PIT,CLE,away,13.00,4.0,0,0,1,0,0,10,210,96,306
+2021,8,DST,nfl,Minnesota Vikings,MIN,DAL,home,11.00,3.0,1,0,1,0,0,20,341,78,419
+2021,8,DST,nfl,Washington Football Team,WAS,DEN,away,10.00,4.0,0,0,1,0,0,17,190,83,273
+2021,8,DST,nfl,New York Giants,NYG,KC,away,10.00,2.0,1,0,1,0,0,20,261,107,368
+2021,8,DST,nfl,Kansas City Chiefs,KC,NYG,home,9.00,3.0,1,0,0,0,0,17,228,72,300
+2021,8,DST,nfl,Green Bay Packers,GB,ARI,away,9.00,2.0,2,0,1,0,0,21,260,74,334
+2021,8,DST,nfl,Cincinnati Bengals,CIN,NYJ,away,8.00,2.0,2,0,1,0,0,34,414,97,511
+2021,8,DST,nfl,Los Angeles Rams,LA,HOU,away,8.00,5.0,1,0,0,0,0,22,279,44,323
+2021,8,DST,nfl,Indianapolis Colts,IND,TEN,home,7.00,3.0,2,0,0,0,0,34,247,93,340
+2021,8,DST,nfl,San Francisco 49ers,SF,CHI,away,7.00,4.0,1,0,0,0,0,22,148,176,324
+2021,8,DST,nfl,Cleveland Browns,CLE,PIT,home,6.00,2.0,0,0,0,0,0,15,255,115,370
+2021,8,DST,nfl,Atlanta Falcons,ATL,CAR,home,6.00,0.0,0,0,1,0,0,19,129,203,332
+2021,8,DST,nfl,Dallas Cowboys,DAL,MIN,away,5.00,1.0,0,0,0,0,0,16,177,101,278
+2021,8,DST,nfl,New York Jets,NYJ,CIN,home,5.00,3.0,1,0,0,0,0,31,277,41,318
+2021,8,DST,nfl,Los Angeles Chargers,LAC,NE,home,4.00,1.0,0,0,1,0,0,27,210,142,352
+2021,8,DST,nfl,Jacksonville Jaguars,JAX,SEA,away,3.00,3.0,0,0,0,0,0,31,160,69,229
+2021,8,DST,nfl,Arizona Cardinals,ARI,GB,home,2.00,1.0,0,0,0,0,0,24,184,151,335
+2021,8,DST,nfl,Tampa Bay Buccaneers,TB,NO,away,1.00,1.0,0,0,0,0,0,36,209,152,361
+2021,8,DST,nfl,Houston Texans,HOU,LA,home,1.00,1.0,0,0,0,0,0,38,302,165,467
+2021,8,DST,nfl,Miami Dolphins,MIA,BUF,away,1.00,0.0,0,0,0,0,0,26,249,102,351
+2021,8,DST,nfl,Detroit Lions,DET,PHI,home,0.00,0.0,0,0,0,0,0,44,114,236,350
+2021,8,DST,nfl,Chicago Bears,CHI,SF,home,0.00,0.0,0,0,0,0,0,33,322,145,467

@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2020,4,DST,nfl,Kansas City Chiefs,KC,NE,home,23.00,2.0,3,0,1,0,1,10,172,185,357
+2020,4,DST,nfl,Philadelphia Eagles,PHI,SF,away,21.00,5.0,2,0,1,0,1,20,301,116,417
+2020,4,DST,nfl,Los Angeles Rams,LA,NYG,home,14.00,5.0,1,0,0,0,0,9,159,136,295
+2020,4,DST,nfl,New York Jets,NYJ,DEN,home,12.00,0.0,3,0,0,0,1,37,242,117,359
+2020,4,DST,nfl,Indianapolis Colts,IND,CHI,away,10.00,1.0,1,0,0,0,0,11,241,28,269
+2020,4,DST,nfl,Cleveland Browns,CLE,DAL,away,9.00,3.0,1,0,2,0,0,38,481,85,566
+2020,4,DST,nfl,Baltimore Ravens,BAL,WAS,away,9.00,3.0,0,0,1,0,0,17,274,69,343
+2020,4,DST,nfl,New York Giants,NYG,LA,away,8.00,2.0,0,0,1,0,0,17,182,58,240
+2020,4,DST,nfl,Los Angeles Chargers,LAC,TB,away,8.00,0.0,1,0,0,0,1,38,369,115,484
+2020,4,DST,nfl,Green Bay Packers,GB,ATL,home,8.00,4.0,0,0,0,0,0,16,249,78,327
+2020,4,DST,nfl,Buffalo Bills,BUF,LV,away,7.00,2.0,0,0,2,0,0,23,297,86,383
+2020,4,DST,nfl,Cincinnati Bengals,CIN,JAX,home,6.00,3.0,1,0,0,0,0,25,340,89,429
+2020,4,DST,nfl,Tampa Bay Buccaneers,TB,LAC,home,6.00,2.0,1,0,1,0,0,31,278,46,324
+2020,4,DST,nfl,Denver Broncos,DEN,NYJ,away,6.00,6.0,0,0,0,0,0,28,192,129,321
+2020,4,DST,nfl,Minnesota Vikings,MIN,HOU,away,6.00,3.0,0,0,1,0,0,23,290,96,386
+2020,4,DST,nfl,Seattle Seahawks,SEA,MIA,away,6.00,1.0,2,0,0,0,0,23,312,103,415
+2020,4,DST,nfl,San Francisco 49ers,SF,PHI,home,6.00,3.0,1,0,0,0,0,25,174,93,267
+2020,4,DST,nfl,Washington Football Team,WAS,BAL,home,5.00,1.0,2,0,0,0,0,31,206,144,350
+2020,4,DST,nfl,New Orleans Saints,NO,DET,away,5.00,3.0,1,0,0,0,0,29,191,90,281
+2020,4,DST,nfl,Chicago Bears,CHI,IND,home,5.00,1.0,0,0,0,0,0,19,186,103,289
+2020,4,DST,nfl,Detroit Lions,DET,NO,home,4.00,2.0,1,0,0,0,0,35,228,164,392
+2020,4,DST,nfl,New England Patriots,NE,KC,away,4.00,1.0,0,0,1,0,0,26,229,94,323
+2020,4,DST,nfl,Carolina Panthers,CAR,ARI,home,4.00,1.0,0,0,1,0,0,21,133,129,262
+2020,4,DST,nfl,Miami Dolphins,MIA,SEA,home,4.00,2.0,1,0,0,0,0,31,343,98,441
+2020,4,DST,nfl,Jacksonville Jaguars,JAX,CIN,away,3.00,1.0,1,0,0,0,0,33,300,205,505
+2020,4,DST,nfl,Houston Texans,HOU,MIN,home,3.00,3.0,0,0,0,0,0,31,248,162,410
+2020,4,DST,nfl,Arizona Cardinals,ARI,CAR,away,2.00,0.0,1,0,0,0,0,31,276,168,444
+2020,4,DST,nfl,Dallas Cowboys,DAL,CLE,home,2.00,2.0,0,0,0,0,0,49,201,307,508
+2020,4,DST,nfl,Atlanta Falcons,ATL,GB,away,1.00,1.0,0,0,0,0,0,30,315,88,403
+2020,4,DST,nfl,Las Vegas Raiders,LV,BUF,home,1.00,1.0,0,0,0,0,0,30,274,63,337

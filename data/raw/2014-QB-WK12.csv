@@ -1,0 +1,32 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pass_attempts,pass_completions,pass_yards,pass_touchdowns,pass_interceptions,pass_2points,rush_attempts,rush_yards,rush_touchdowns,rush_2points,receptions,reception_yards,reception_touchdowns,reception_2points,fumbles_lost,fumble_recovery_touchdowns
+2014,12,QB,peyton-manning-mannipe01,Peyton Manning,DEN,MIA,home,36.00,35,28,257,4,0,1,2,-2,0,0,0,0,0,0,0,0
+2014,12,QB,tony-romo-romoto01,Tony Romo,DAL,NYG,away,34.00,26,18,275,4,0,0,1,-2,0,0,0,0,0,0,1,0
+2014,12,QB,drew-brees-breesdr01,Drew Brees,NO,BAL,home,33.00,45,35,420,3,1,0,3,15,0,0,0,0,0,0,0,0
+2014,12,QB,ryan-tannehill-tannery01,Ryan Tannehill,MIA,DEN,away,32.00,36,26,228,3,1,0,4,15,1,0,0,0,0,0,0,0
+2014,12,QB,eli-manning-manniel01,Eli Manning,NYG,DAL,home,29.00,40,29,338,3,1,0,0,0,0,0,0,0,0,0,0,0
+2014,12,QB,tom-brady-bradyto01,Tom Brady,NE,DET,home,23.00,53,38,349,2,1,0,0,0,0,0,0,0,0,0,0,0
+2014,12,QB,teddy-bridgewater-bridgte01,Teddy Bridgewater,MIN,GB,home,23.00,37,21,210,2,1,1,5,32,0,0,0,0,0,0,0,0
+2014,12,QB,zach-mettenberger-metteza01,Zach Mettenberger,TEN,PHI,away,23.00,39,20,345,2,1,0,2,-2,0,0,0,0,0,0,0,0
+2014,12,QB,aaron-rodgers-rodgeaa01,Aaron Rodgers,GB,MIN,away,23.00,29,19,209,2,0,0,6,34,0,0,0,0,0,0,0,0
+2014,12,QB,kyle-orton-ortonky01,Kyle Orton,BUF,NYJ,home,22.00,32,24,230,2,0,0,1,10,0,0,0,0,0,0,0,0
+2014,12,QB,alex-smith-smithal04,Alex Smith,KC,OAK,away,21.00,36,20,234,2,0,0,2,5,0,0,0,0,0,0,0,0
+2014,12,QB,russell-wilson-wilsoru01,Russell Wilson,SEA,ARI,home,21.00,22,17,211,1,0,0,10,73,0,0,0,0,0,0,0,0
+2014,12,QB,matt-ryan-ryanma01,Matt Ryan,ATL,CLE,home,19.00,43,27,273,2,1,0,2,6,0,0,0,0,0,0,1,0
+2014,12,QB,andrew-luck-luckan01,Andrew Luck,IND,JAX,home,18.00,32,21,253,1,0,0,8,49,0,0,0,0,0,0,2,0
+2014,12,QB,joe-flacco-flaccjo01,Joe Flacco,BAL,NO,away,15.00,24,18,243,1,0,0,2,2,0,0,0,0,0,0,0,0
+2014,12,QB,colin-kaepernick-kaepeco01,Colin Kaepernick,SF,WAS,home,15.00,29,20,256,1,1,0,9,14,0,0,0,0,0,0,0,0
+2014,12,QB,josh-mccown-mccowjo01,Josh McCown,TB,CHI,away,15.00,48,25,341,1,2,0,3,12,0,0,0,0,0,0,1,0
+2014,12,QB,philip-rivers-riverph01,Philip Rivers,SD,STL,home,15.00,35,29,291,1,1,0,3,-1,0,0,0,0,0,0,0,0
+2014,12,QB,mark-sanchez-sanchma01,Mark Sanchez,PHI,TEN,home,14.00,43,30,307,1,2,0,4,4,0,0,0,0,0,0,0,0
+2014,12,QB,andy-dalton-daltoan02,Andy Dalton,CIN,HOU,away,13.00,35,24,233,1,1,0,7,6,0,0,0,0,0,0,0,0
+2014,12,QB,derek-carr-carrde03,Derek Carr,OAK,KC,home,12.00,35,18,174,1,0,0,3,2,0,0,0,0,0,0,0,0
+2014,12,QB,jay-cutler-cutleja01,Jay Cutler,CHI,TB,home,10.00,27,17,130,1,0,0,0,0,0,0,0,0,0,0,1,0
+2014,12,QB,matthew-stafford-staffma01,Matthew Stafford,DET,NE,away,9.00,46,18,264,0,1,0,3,18,0,0,0,0,0,0,0,0
+2014,12,QB,shaun-hill-hillsh01,Shaun Hill,STL,SD,away,8.00,35,18,198,1,2,0,1,0,0,0,0,0,0,0,1,0
+2014,12,QB,brian-hoyer-hoyerbr01,Brian Hoyer,CLE,ATL,away,7.00,40,23,322,0,3,0,3,12,0,0,0,0,0,0,0,0
+2014,12,QB,blake-bortles-bortlbl01,Blake Bortles,JAX,IND,away,5.00,27,15,146,0,1,0,5,24,0,0,0,0,0,0,0,0
+2014,12,QB,ryan-mallett-mallery01,Ryan Mallett,CIN,HOU,away,5.00,45,21,189,0,1,0,1,2,0,0,0,0,0,0,0,0
+2014,12,QB,drew-stanton-stantdr01,Drew Stanton,ARI,SEA,away,5.00,26,14,149,0,1,0,4,23,0,0,0,0,0,0,0,0
+2014,12,QB,robert-griffin-griffro02,Robert Griffin III,WAS,SF,away,4.00,19,11,106,0,0,0,4,11,0,0,0,0,0,0,1,0
+2014,12,QB,geno-smith-smithge04,Geno Smith,NYJ,BUF,away,3.00,12,10,89,0,0,0,2,4,0,0,0,0,0,0,0,0
+2014,12,QB,michael-vick-vickmi01,Michael Vick,NYJ,BUF,away,1.00,19,7,76,0,1,0,2,4,0,0,0,0,0,0,0,0

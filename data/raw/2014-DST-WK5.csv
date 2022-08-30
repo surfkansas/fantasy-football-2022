@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2014,5,DST,nfl,Green Bay Packers,GB,MIN,home,25.00,6.0,2,0,1,0,1,10,188,111,299
+2014,5,DST,nfl,Philadelphia Eagles,PHI,STL,home,24.00,4.0,0,0,3,1,2,28,341,125,466
+2014,5,DST,nfl,Carolina Panthers,CAR,CHI,home,19.00,4.0,2,0,2,0,1,24,262,85,347
+2014,5,DST,nfl,Pittsburgh Steelers,PIT,JAX,away,18.00,1.0,2,0,0,0,1,9,187,56,243
+2014,5,DST,nfl,Indianapolis Colts,IND,BAL,home,17.00,4.0,1,0,2,0,0,13,197,90,287
+2014,5,DST,nfl,New England Patriots,NE,CIN,home,17.00,1.0,0,0,3,0,1,17,241,79,320
+2014,5,DST,nfl,San Diego Chargers,SD,NYJ,home,16.00,2.0,1,0,1,0,0,0,60,91,151
+2014,5,DST,nfl,Buffalo Bills,BUF,DET,away,14.00,6.0,1,0,1,0,0,14,204,69,273
+2014,5,DST,nfl,Detroit Lions,DET,BUF,home,14.00,2.0,1,0,0,0,1,17,294,49,343
+2014,5,DST,nfl,Baltimore Ravens,BAL,IND,away,13.00,1.0,2,0,2,0,0,20,305,127,432
+2014,5,DST,nfl,Tampa Bay Buccaneers,TB,NO,away,12.00,0.0,3,0,0,0,1,37,371,140,511
+2014,5,DST,nfl,Houston Texans,HOU,DAL,away,11.00,1.0,1,0,2,0,0,20,316,140,456
+2014,5,DST,nfl,Jacksonville Jaguars,JAX,PIT,home,10.00,4.0,0,0,1,0,0,17,261,111,372
+2014,5,DST,nfl,Chicago Bears,CHI,CAR,away,8.00,2.0,1,0,2,0,0,31,231,91,322
+2014,5,DST,nfl,Cleveland Browns,CLE,TEN,away,7.00,3.0,0,1,0,1,0,28,261,149,410
+2014,5,DST,nfl,New York Giants,NYG,ATL,home,7.00,1.0,1,0,0,0,0,20,307,90,397
+2014,5,DST,nfl,Denver Broncos,DEN,ARI,home,7.00,3.0,0,0,0,0,0,20,178,37,215
+2014,5,DST,nfl,Dallas Cowboys,DAL,HOU,home,6.00,0.0,1,0,0,0,0,17,154,176,330
+2014,5,DST,nfl,St. Louis Rams,STL,PHI,away,6.00,0.0,1,0,2,0,0,34,207,145,352
+2014,5,DST,nfl,San Francisco 49ers,SF,KC,home,6.00,0.0,1,0,0,0,0,17,158,107,265
+2014,5,DST,nfl,Seattle Seahawks,SEA,WAS,away,5.00,1.0,0,0,0,0,0,17,275,32,307
+2014,5,DST,nfl,New York Jets,NYJ,SD,away,5.00,3.0,1,0,0,0,0,31,277,162,439
+2014,5,DST,nfl,Atlanta Falcons,ATL,NYG,away,5.00,1.0,0,0,2,0,0,30,193,124,317
+2014,5,DST,nfl,Arizona Cardinals,ARI,DEN,away,5.00,1.0,2,0,0,0,0,41,476,92,568
+2014,5,DST,nfl,New Orleans Saints,NO,TB,home,5.00,1.0,1,1,0,0,0,31,248,66,314
+2014,5,DST,nfl,Minnesota Vikings,MIN,GB,away,4.00,2.0,1,0,0,0,0,42,164,156,320
+2014,5,DST,nfl,Washington Redskins,WAS,SEA,home,4.00,3.0,0,0,0,0,0,27,178,225,403
+2014,5,DST,nfl,Kansas City Chiefs,KC,SF,away,4.00,3.0,0,0,0,0,0,22,186,171,357
+2014,5,DST,nfl,Tennessee Titans,TEN,CLE,home,3.00,1.0,1,0,0,0,0,29,284,176,460
+2014,5,DST,nfl,Cincinnati Bengals,CIN,NE,away,1.00,1.0,0,0,0,0,0,43,285,220,505

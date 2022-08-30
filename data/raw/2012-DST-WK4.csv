@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2012,4,DST,nfl,San Francisco 49ers,SF,NYJ,away,29.00,3.0,1,0,3,1,1,0,100,45,145
+2012,4,DST,nfl,Chicago Bears,CHI,DAL,away,27.00,1.0,5,0,0,0,2,18,389,41,430
+2012,4,DST,nfl,Houston Texans,HOU,TEN,home,26.00,4.0,2,0,1,0,2,14,167,158,325
+2012,4,DST,nfl,Minnesota Vikings,MIN,DET,away,26.00,5.0,0,0,1,0,2,13,286,55,341
+2012,4,DST,nfl,San Diego Chargers,SD,KC,away,24.00,2.0,3,0,3,0,1,20,234,115,349
+2012,4,DST,nfl,Cincinnati Bengals,CIN,JAX,away,17.00,6.0,1,0,1,0,0,10,143,69,212
+2012,4,DST,nfl,New England Patriots,NE,BUF,away,15.00,3.0,4,0,2,0,0,28,340,98,438
+2012,4,DST,nfl,St. Louis Rams,STL,SEA,home,15.00,2.0,3,0,0,0,0,13,140,179,319
+2012,4,DST,nfl,Baltimore Ravens,BAL,CLE,home,15.00,1.0,1,0,1,0,1,16,314,43,357
+2012,4,DST,nfl,Miami Dolphins,MIA,ARI,away,13.00,8.0,2,0,0,0,0,24,269,28,297
+2012,4,DST,nfl,Arizona Cardinals,ARI,MIA,home,13.00,4.0,2,0,2,0,0,21,394,86,480
+2012,4,DST,nfl,Denver Broncos,DEN,OAK,home,13.00,3.0,0,0,0,0,0,6,181,56,237
+2012,4,DST,nfl,Carolina Panthers,CAR,ATL,away,9.00,7.0,1,0,0,0,0,30,305,121,426
+2012,4,DST,nfl,Seattle Seahawks,SEA,STL,away,8.00,2.0,1,0,0,0,0,19,211,75,286
+2012,4,DST,nfl,Cleveland Browns,CLE,BAL,away,7.00,4.0,1,0,0,0,0,23,337,101,438
+2012,4,DST,nfl,Detroit Lions,DET,MIN,home,6.00,2.0,0,0,0,0,0,20,100,127,227
+2012,4,DST,nfl,New York Giants,NYG,PHI,away,6.00,2.0,0,0,0,0,0,19,231,191,422
+2012,4,DST,nfl,Philadelphia Eagles,PHI,NYG,home,6.00,0.0,1,0,0,0,0,17,309,57,366
+2012,4,DST,nfl,Atlanta Falcons,ATL,CAR,home,5.00,3.0,0,0,1,0,0,28,205,199,404
+2012,4,DST,nfl,Kansas City Chiefs,KC,SD,home,5.00,3.0,1,0,0,0,0,37,189,104,293
+2012,4,DST,nfl,Jacksonville Jaguars,JAX,CIN,home,5.00,0.0,1,0,1,0,0,27,244,138,382
+2012,4,DST,nfl,Buffalo Bills,BUF,NE,home,5.00,1.0,0,0,2,0,0,52,333,247,580
+2012,4,DST,nfl,Washington Redskins,WAS,TB,away,4.00,1.0,1,0,0,0,0,22,293,80,373
+2012,4,DST,nfl,New Orleans Saints,NO,GB,away,4.00,0.0,1,0,1,0,0,28,319,102,421
+2012,4,DST,nfl,Dallas Cowboys,DAL,CHI,home,4.00,2.0,0,0,1,0,0,34,267,93,360
+2012,4,DST,nfl,Green Bay Packers,GB,NO,home,3.00,2.0,0,0,0,0,0,27,429,45,474
+2012,4,DST,nfl,New York Jets,NYJ,SF,home,2.00,2.0,0,0,0,0,0,34,134,247,381
+2012,4,DST,nfl,Tampa Bay Buccaneers,TB,WAS,home,2.00,1.0,0,0,0,0,0,24,321,153,474
+2012,4,DST,nfl,Oakland Raiders,OAK,DEN,away,2.00,0.0,0,0,1,0,0,37,338,165,503
+2012,4,DST,nfl,Tennessee Titans,TEN,HOU,away,0.00,0.0,0,0,0,0,0,38,202,95,297

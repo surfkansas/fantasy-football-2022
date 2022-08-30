@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2019,9,DST,nfl,Houston Texans,HOU,JAX,away,22.00,4.0,2,0,2,0,0,3,282,74,356
+2019,9,DST,nfl,Dallas Cowboys,DAL,NYG,away,21.00,5.0,1,0,2,0,1,18,171,100,271
+2019,9,DST,nfl,Pittsburgh Steelers,PIT,IND,home,20.00,5.0,1,0,2,1,1,24,189,139,328
+2019,9,DST,nfl,Baltimore Ravens,BAL,NE,home,16.00,2.0,1,0,1,0,1,20,268,74,342
+2019,9,DST,nfl,Carolina Panthers,CAR,TEN,home,14.00,4.0,2,0,1,0,0,20,310,121,431
+2019,9,DST,nfl,Buffalo Bills,BUF,WAS,home,11.00,4.0,0,0,0,0,0,9,116,127,243
+2019,9,DST,nfl,Miami Dolphins,MIA,NYJ,home,11.00,3.0,1,1,0,0,0,18,238,83,321
+2019,9,DST,nfl,Los Angeles Chargers,LAC,GB,home,10.00,3.0,0,0,0,0,0,11,139,45,184
+2019,9,DST,nfl,Philadelphia Eagles,PHI,CHI,home,9.00,3.0,0,0,1,0,0,14,102,62,164
+2019,9,DST,nfl,Indianapolis Colts,IND,PIT,away,8.00,1.0,1,1,1,0,0,26,183,90,273
+2019,9,DST,nfl,Minnesota Vikings,MIN,KC,away,8.00,5.0,0,0,1,0,0,26,230,147,377
+2019,9,DST,nfl,Tennessee Titans,TEN,CAR,away,7.00,3.0,1,0,0,1,0,30,214,156,370
+2019,9,DST,nfl,Oakland Raiders,OAK,DET,home,7.00,2.0,1,0,1,0,0,24,383,90,473
+2019,9,DST,nfl,New York Jets,NYJ,MIA,away,7.00,4.0,0,1,0,0,0,26,266,50,316
+2019,9,DST,nfl,Jacksonville Jaguars,JAX,HOU,home,6.00,1.0,0,0,1,1,0,26,194,216,410
+2019,9,DST,nfl,Denver Broncos,DEN,CLE,home,6.00,2.0,0,0,0,0,0,19,261,90,351
+2019,9,DST,nfl,Cleveland Browns,CLE,DEN,away,6.00,3.0,0,0,1,0,0,24,175,127,302
+2019,9,DST,nfl,Chicago Bears,CHI,PHI,away,5.00,4.0,0,0,0,0,0,22,227,146,373
+2019,9,DST,nfl,New England Patriots,NE,BAL,away,5.00,1.0,0,0,2,0,0,37,162,210,372
+2019,9,DST,nfl,Tampa Bay Buccaneers,TB,SEA,away,5.00,3.0,0,0,1,0,0,40,347,145,492
+2019,9,DST,nfl,New York Giants,NYG,DAL,home,4.00,0.0,1,0,1,0,0,37,257,172,429
+2019,9,DST,nfl,Seattle Seahawks,SEA,TB,home,4.00,2.0,0,0,1,0,0,34,319,99,418
+2019,9,DST,nfl,San Francisco 49ers,SF,ARI,away,4.00,3.0,0,0,0,0,0,25,204,153,357
+2019,9,DST,nfl,Green Bay Packers,GB,LAC,away,3.00,2.0,0,0,0,0,0,26,283,159,442
+2019,9,DST,nfl,Washington Redskins,WAS,BUF,away,3.00,2.0,0,0,0,0,0,24,146,122,268
+2019,9,DST,nfl,Kansas City Chiefs,KC,MIN,home,2.00,1.0,0,0,0,0,0,23,212,96,308
+2019,9,DST,nfl,Detroit Lions,DET,OAK,away,1.00,1.0,0,0,0,0,0,31,279,171,450
+2019,9,DST,nfl,Arizona Cardinals,ARI,SF,home,1.00,1.0,0,0,0,0,0,28,310,101,411

@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2020,13,DST,nfl,New England Patriots,NE,LAC,away,31.00,3.0,2,0,0,1,2,0,188,70,258
+2020,13,DST,nfl,Miami Dolphins,MIA,CIN,home,17.00,6.0,2,0,0,0,0,7,156,40,196
+2020,13,DST,nfl,New York Giants,NYG,SEA,away,16.00,5.0,1,0,1,0,0,12,216,111,327
+2020,13,DST,nfl,Jacksonville Jaguars,JAX,MIN,away,15.00,4.0,1,0,1,0,1,27,275,145,420
+2020,13,DST,nfl,Indianapolis Colts,IND,HOU,away,15.00,5.0,1,1,1,0,0,20,308,90,398
+2020,13,DST,nfl,Green Bay Packers,GB,PHI,home,13.00,7.0,1,0,0,0,0,16,161,117,278
+2020,13,DST,nfl,Minnesota Vikings,MIN,JAX,home,13.00,2.0,2,1,2,0,0,24,266,124,390
+2020,13,DST,nfl,Los Angeles Rams,LA,ARI,away,12.00,2.0,1,0,1,0,1,28,140,92,232
+2020,13,DST,nfl,Seattle Seahawks,SEA,NYG,home,12.00,2.0,1,1,0,1,0,17,100,190,290
+2020,13,DST,nfl,Cleveland Browns,CLE,TEN,away,9.00,3.0,1,0,2,0,0,35,369,62,431
+2020,13,DST,nfl,New Orleans Saints,NO,ATL,away,9.00,3.0,0,0,1,0,0,16,262,70,332
+2020,13,DST,nfl,Las Vegas Raiders,LV,NYJ,away,9.00,3.0,1,0,2,0,0,28,170,206,376
+2020,13,DST,nfl,Kansas City Chiefs,KC,DEN,home,8.00,0.0,2,0,0,0,0,16,151,179,330
+2020,13,DST,nfl,Philadelphia Eagles,PHI,GB,away,8.00,2.0,0,0,0,0,1,30,288,149,437
+2020,13,DST,nfl,Baltimore Ravens,BAL,DAL,home,7.00,1.0,1,0,0,0,0,17,277,111,388
+2020,13,DST,nfl,New York Jets,NYJ,LV,home,6.00,2.0,1,0,1,0,0,31,368,72,440
+2020,13,DST,nfl,Washington Football Team,WAS,PIT,away,6.00,0.0,1,0,0,0,0,17,305,21,326
+2020,13,DST,nfl,Cincinnati Bengals,CIN,MIA,away,6.00,0.0,0,0,1,0,0,19,296,110,406
+2020,13,DST,nfl,Detroit Lions,DET,CHI,away,6.00,2.0,0,0,1,1,0,30,249,140,389
+2020,13,DST,nfl,Atlanta Falcons,ATL,NO,home,5.00,2.0,0,0,1,0,0,21,217,207,424
+2020,13,DST,nfl,Buffalo Bills,BUF,SF,away,5.00,0.0,2,0,0,0,0,24,316,86,402
+2020,13,DST,nfl,Pittsburgh Steelers,PIT,WAS,home,4.00,3.0,0,0,0,0,0,23,273,45,318
+2020,13,DST,nfl,Chicago Bears,CHI,DET,home,4.00,2.0,1,0,0,0,0,34,400,60,460
+2020,13,DST,nfl,Houston Texans,HOU,IND,home,4.00,3.0,0,0,0,0,0,26,262,109,371
+2020,13,DST,nfl,Arizona Cardinals,ARI,LA,home,3.00,1.0,0,0,1,0,0,38,344,119,463
+2020,13,DST,nfl,San Francisco 49ers,SF,BUF,home,3.00,1.0,0,0,1,0,0,34,368,81,449
+2020,13,DST,nfl,Tennessee Titans,TEN,CLE,home,2.00,0.0,0,0,1,0,0,41,340,118,458
+2020,13,DST,nfl,Denver Broncos,DEN,KC,away,2.00,1.0,0,0,0,0,0,22,313,134,447
+2020,13,DST,nfl,Dallas Cowboys,DAL,BAL,away,2.00,0.0,1,0,0,0,0,34,107,294,401
+2020,13,DST,nfl,Los Angeles Chargers,LAC,NE,home,1.00,1.0,0,0,0,0,0,45,126,165,291

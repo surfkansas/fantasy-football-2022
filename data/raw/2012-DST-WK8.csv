@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2012,8,DST,nfl,Miami Dolphins,MIA,NYJ,away,25.00,4.0,1,0,1,2,1,9,258,105,363
+2012,8,DST,nfl,New York Giants,NYG,DAL,away,23.00,4.0,4,0,2,0,1,24,415,19,434
+2012,8,DST,nfl,San Francisco 49ers,SF,ARI,away,16.00,4.0,1,0,0,0,0,3,258,7,265
+2012,8,DST,nfl,Green Bay Packers,GB,JAX,home,16.00,2.0,0,0,1,1,1,15,279,62,341
+2012,8,DST,nfl,Oakland Raiders,OAK,KC,away,15.00,3.0,2,0,2,0,0,16,197,102,299
+2012,8,DST,nfl,Tampa Bay Buccaneers,TB,MIN,away,13.00,3.0,1,0,2,0,0,17,229,140,369
+2012,8,DST,nfl,Carolina Panthers,CAR,CHI,away,13.00,6.0,1,0,2,0,0,23,131,79,210
+2012,8,DST,nfl,New England Patriots,NE,STL,away,13.00,2.0,2,0,0,0,0,7,219,107,326
+2012,8,DST,nfl,Cleveland Browns,CLE,SD,home,13.00,1.0,0,0,1,0,0,6,148,117,265
+2012,8,DST,nfl,Chicago Bears,CHI,CAR,home,13.00,2.0,2,0,0,0,1,22,297,119,416
+2012,8,DST,nfl,Pittsburgh Steelers,PIT,WAS,home,10.00,1.0,0,0,0,1,0,12,169,86,255
+2012,8,DST,nfl,Tennessee Titans,TEN,IND,home,10.00,2.0,1,0,0,1,0,19,286,171,457
+2012,8,DST,nfl,San Diego Chargers,SD,CLE,away,9.00,2.0,0,0,0,0,0,7,117,133,250
+2012,8,DST,nfl,Indianapolis Colts,IND,TEN,away,9.00,2.0,0,0,0,0,0,13,227,112,339
+2012,8,DST,nfl,Denver Broncos,DEN,NO,home,7.00,1.0,1,0,0,0,0,14,201,51,252
+2012,8,DST,nfl,Atlanta Falcons,ATL,PHI,away,7.00,3.0,0,0,0,0,0,17,178,92,270
+2012,8,DST,nfl,Detroit Lions,DET,SEA,home,5.00,0.0,1,0,1,0,0,24,236,133,369
+2012,8,DST,nfl,Jacksonville Jaguars,JAX,GB,away,5.00,2.0,0,0,1,0,0,24,172,66,238
+2012,8,DST,nfl,Dallas Cowboys,DAL,NYG,home,5.00,1.0,1,0,1,0,0,29,190,103,293
+2012,8,DST,nfl,Arizona Cardinals,ARI,SF,home,5.00,4.0,0,0,0,0,0,24,204,113,317
+2012,8,DST,nfl,Philadelphia Eagles,PHI,ATL,home,4.00,2.0,0,0,0,1,0,30,246,146,392
+2012,8,DST,nfl,Seattle Seahawks,SEA,DET,away,4.00,2.0,1,0,0,0,0,28,331,84,415
+2012,8,DST,nfl,New York Jets,NYJ,MIA,home,4.00,2.0,0,0,1,0,0,30,139,97,236
+2012,8,DST,nfl,Kansas City Chiefs,KC,OAK,home,3.00,0.0,1,0,0,0,0,26,209,135,344
+2012,8,DST,nfl,New Orleans Saints,NO,DEN,away,2.00,0.0,0,0,1,0,0,34,305,225,530
+2012,8,DST,nfl,Washington Redskins,WAS,PIT,away,2.00,1.0,0,0,0,0,0,27,215,140,355
+2012,8,DST,nfl,Minnesota Vikings,MIN,TB,home,1.00,1.0,0,0,0,0,0,36,257,159,416
+2012,8,DST,nfl,St. Louis Rams,STL,NE,home,0.00,0.0,0,0,0,0,0,45,321,152,473

@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2018,11,DST,nfl,Los Angeles Rams,LA,KC,home,25.00,3.0,3,0,2,0,2,51,448,98,546
+2018,11,DST,nfl,Chicago Bears,CHI,MIN,home,18.00,2.0,2,0,1,0,1,20,246,22,268
+2018,11,DST,nfl,Indianapolis Colts,IND,TEN,home,16.00,5.0,2,0,0,0,0,10,176,87,263
+2018,11,DST,nfl,New Orleans Saints,NO,PHI,home,16.00,3.0,3,0,0,0,0,7,138,58,196
+2018,11,DST,nfl,Houston Texans,HOU,WAS,away,16.00,5.0,2,0,0,0,1,21,154,124,278
+2018,11,DST,nfl,Kansas City Chiefs,KC,LA,away,15.00,5.0,0,0,2,0,1,54,379,76,455
+2018,11,DST,nfl,New York Giants,NYG,TB,home,15.00,1.0,4,0,0,0,1,35,359,151,510
+2018,11,DST,nfl,Jacksonville Jaguars,JAX,PIT,home,12.00,2.0,3,0,0,0,0,20,297,26,323
+2018,11,DST,nfl,Pittsburgh Steelers,PIT,JAX,away,12.00,6.0,0,0,1,0,0,16,64,179,243
+2018,11,DST,nfl,Washington Redskins,WAS,HOU,home,10.00,3.0,2,0,1,0,0,23,181,139,320
+2018,11,DST,nfl,Detroit Lions,DET,CAR,home,9.00,3.0,1,0,0,0,0,19,331,56,387
+2018,11,DST,nfl,Dallas Cowboys,DAL,ATL,away,9.00,3.0,1,0,0,0,0,19,274,80,354
+2018,11,DST,nfl,Minnesota Vikings,MIN,CHI,away,8.00,1.0,2,0,1,0,0,25,160,148,308
+2018,11,DST,nfl,Denver Broncos,DEN,LAC,away,8.00,3.0,2,0,0,0,0,22,384,95,479
+2018,11,DST,nfl,Cincinnati Bengals,CIN,BAL,away,6.00,3.0,1,0,0,0,0,24,136,267,403
+2018,11,DST,nfl,Green Bay Packers,GB,SEA,away,6.00,3.0,0,0,1,0,0,27,205,173,378
+2018,11,DST,nfl,Oakland Raiders,OAK,ARI,away,6.00,1.0,2,0,0,0,0,21,128,154,282
+2018,11,DST,nfl,Seattle Seahawks,SEA,GB,home,6.00,5.0,0,0,0,0,0,24,311,48,359
+2018,11,DST,nfl,Arizona Cardinals,ARI,OAK,home,5.00,4.0,0,0,0,0,0,23,173,152,325
+2018,11,DST,nfl,Carolina Panthers,CAR,DET,away,5.00,1.0,0,0,0,0,0,20,215,94,309
+2018,11,DST,nfl,Tampa Bay Buccaneers,TB,NYG,away,4.00,4.0,0,0,0,0,0,38,196,163,359
+2018,11,DST,nfl,Atlanta Falcons,ATL,DAL,home,3.00,2.0,0,0,0,0,0,22,191,132,323
+2018,11,DST,nfl,Baltimore Ravens,BAL,CIN,home,2.00,1.0,0,0,0,0,0,21,207,48,255
+2018,11,DST,nfl,Los Angeles Chargers,LAC,DEN,home,1.00,0.0,0,0,0,0,0,23,217,108,325
+2018,11,DST,nfl,Philadelphia Eagles,PHI,NO,away,0.00,0.0,0,0,0,0,0,48,373,173,546
+2018,11,DST,nfl,Tennessee Titans,TEN,IND,away,0.00,0.0,0,0,0,0,0,38,295,102,397

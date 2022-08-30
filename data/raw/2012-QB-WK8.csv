@@ -1,0 +1,35 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pass_attempts,pass_completions,pass_yards,pass_touchdowns,pass_interceptions,pass_2points,rush_attempts,rush_yards,rush_touchdowns,rush_2points,receptions,reception_yards,reception_touchdowns,reception_2points,fumbles_lost,fumble_recovery_touchdowns
+2012,8,QB,matthew-stafford-staffma01,Matthew Stafford,DET,SEA,home,37.00,49,34,352,3,1,0,4,12,1,0,0,0,0,0,0,0
+2012,8,QB,tom-brady-bradyto01,Tom Brady,NE,STL,away,36.00,35,23,304,4,0,0,1,3,0,0,0,0,0,0,0,0
+2012,8,QB,peyton-manning-mannipe01,Peyton Manning,DEN,NO,home,30.00,30,22,305,3,0,0,1,4,0,0,0,0,0,0,0,0
+2012,8,QB,matt-ryan-ryanma01,Matt Ryan,ATL,PHI,away,29.00,29,22,262,3,0,0,3,18,0,0,0,0,0,0,0,0
+2012,8,QB,josh-freeman-freemjo01,Josh Freeman,TB,MIN,away,28.00,36,19,262,3,0,0,3,-1,0,0,0,0,0,0,0,0
+2012,8,QB,alex-smith-smithal04,Alex Smith,SF,ARI,away,27.00,19,18,232,3,0,0,1,6,0,0,0,0,0,0,0,0
+2012,8,QB,ben-roethlisberger-roethbe01,Ben Roethlisberger,PIT,WAS,home,26.00,33,24,222,3,0,0,2,6,0,0,0,0,0,0,0,0
+2012,8,QB,tony-romo-romoto01,Tony Romo,DAL,NYG,home,21.00,62,36,437,1,4,0,2,0,1,0,0,0,0,0,0,0
+2012,8,QB,russell-wilson-wilsoru01,Russell Wilson,SEA,DET,away,19.00,35,25,236,2,1,0,1,9,0,0,0,0,0,0,0,0
+2012,8,QB,drew-brees-breesdr01,Drew Brees,NO,DEN,away,18.00,42,22,213,2,1,0,2,2,0,0,0,0,0,0,0,0
+2012,8,QB,blaine-gabbert-gabbebl01,Blaine Gabbert,JAX,GB,away,18.00,49,27,303,1,0,0,1,0,0,0,0,0,0,0,0,0
+2012,8,QB,carson-palmer-palmeca01,Carson Palmer,OAK,KC,away,18.00,28,14,209,2,1,0,1,-1,0,0,0,0,0,0,0,0
+2012,8,QB,aaron-rodgers-rodgeaa01,Aaron Rodgers,GB,JAX,home,18.00,35,22,186,2,0,0,3,4,0,0,0,0,0,0,1,0
+2012,8,QB,andrew-luck-luckan01,Andrew Luck,IND,TEN,away,17.00,38,26,297,1,1,0,6,28,0,0,0,0,0,0,0,0
+2012,8,QB,michael-vick-vickmi01,Michael Vick,PHI,ATL,home,17.00,35,21,191,1,0,0,7,42,0,0,0,0,0,0,0,0
+2012,8,QB,matt-hasselbeck-hassema01,Matt Hasselbeck,TEN,IND,home,16.00,29,22,236,1,0,0,2,10,0,0,0,0,0,0,0,0
+2012,8,QB,christian-ponder-pondech01,Christian Ponder,MIN,TB,home,15.00,35,19,251,1,1,0,4,12,0,0,0,0,0,0,0,0
+2012,8,QB,matt-cassel-cassema01,Matt Cassel,KC,OAK,home,14.00,30,20,218,1,1,0,7,35,0,0,0,0,0,0,1,0
+2012,8,QB,mark-sanchez-sanchma01,Mark Sanchez,NYJ,MIA,home,14.00,54,28,283,1,1,0,1,6,0,0,0,0,0,0,1,0
+2012,8,QB,robert-griffin-griffro02,Robert Griffin III,WAS,PIT,away,13.00,34,16,177,1,0,0,6,8,0,0,0,0,0,0,0,0
+2012,8,QB,sam-bradford-bradfsa01,Sam Bradford,STL,NE,home,12.00,30,22,205,1,1,0,3,3,0,0,0,0,0,0,0,0
+2012,8,QB,matt-moore-moorema07,Matt Moore,MIA,NYJ,away,11.00,19,11,131,1,0,0,4,-4,0,0,0,0,0,0,0,0
+2012,8,QB,cam-newton-newtoca02,Cam Newton,CAR,CHI,away,11.00,39,20,314,0,2,0,5,37,0,0,0,0,0,0,0,0
+2012,8,QB,jay-cutler-cutleja01,Jay Cutler,CHI,CAR,home,9.00,28,19,186,1,1,0,1,4,0,0,0,0,0,0,2,0
+2012,8,QB,john-skelton-skeltjo01,John Skelton,ARI,SF,home,9.00,52,32,290,0,1,0,1,1,0,0,0,0,0,0,0,0
+2012,8,QB,philip-rivers-riverph01,Philip Rivers,SD,CLE,away,6.00,34,18,154,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,8,QB,eli-manning-manniel01,Eli Manning,NYG,DAL,away,5.00,29,15,192,0,1,0,1,3,0,0,0,0,0,0,0,0
+2012,8,QB,brandon-weeden-weedebr01,Brandon Weeden,CLE,SD,home,5.00,27,11,129,0,0,0,4,4,0,0,0,0,0,0,0,0
+2012,8,QB,ryan-mallett-mallery01,Ryan Mallett,NE,STL,away,0.00,3,1,17,0,0,0,3,-3,0,0,0,0,0,0,0,0
+2012,8,QB,brock-osweiler-osweibr01,Brock Osweiler,DEN,NO,home,0.00,0,0,0,0,0,0,1,-1,0,0,0,0,0,0,0,0
+2012,8,QB,ryan-tannehill-tannery01,Ryan Tannehill,MIA,NYJ,away,0.00,5,2,18,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,8,QB,tim-tebow-tebowti01,Tim Tebow,NYJ,MIA,home,0.00,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+2012,8,QB,kellen-clemens-clemeke01,Kellen Clemens,STL,NE,home,-1.00,2,1,39,0,1,0,2,5,0,0,0,0,0,0,0,0
+2012,8,QB,brady-quinn-quinnbr01,Brady Quinn,KC,OAK,home,-1.00,4,2,1,0,1,0,2,18,0,0,0,0,0,0,0,0

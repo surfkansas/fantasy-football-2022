@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2019,15,DST,nfl,Minnesota Vikings,MIN,LAC,away,30.00,3.0,3,0,4,0,1,10,283,62,345
+2019,15,DST,nfl,New England Patriots,NE,CIN,away,23.00,0.0,4,0,1,0,1,13,151,164,315
+2019,15,DST,nfl,Buffalo Bills,BUF,PIT,away,21.00,4.0,4,0,1,0,0,10,178,51,229
+2019,15,DST,nfl,Tampa Bay Buccaneers,TB,DET,away,18.00,2.0,2,0,1,0,1,17,250,45,295
+2019,15,DST,nfl,Green Bay Packers,GB,CHI,home,16.00,3.0,2,0,1,0,0,13,319,96,415
+2019,15,DST,nfl,Kansas City Chiefs,KC,DEN,home,14.00,2.0,1,0,0,0,0,3,199,52,251
+2019,15,DST,nfl,Atlanta Falcons,ATL,SF,away,12.00,1.0,0,0,2,0,1,22,193,120,313
+2019,15,DST,nfl,New York Giants,NYG,MIA,home,11.00,3.0,0,1,1,0,0,20,262,122,384
+2019,15,DST,nfl,Philadelphia Eagles,PHI,WAS,away,10.00,1.0,0,0,1,0,1,27,251,101,352
+2019,15,DST,nfl,New York Jets,NYJ,BAL,away,9.00,1.0,0,0,0,1,1,42,212,218,430
+2019,15,DST,nfl,Pittsburgh Steelers,PIT,BUF,home,9.00,1.0,1,0,1,0,0,17,131,130,261
+2019,15,DST,nfl,Baltimore Ravens,BAL,NYJ,home,8.00,1.0,1,0,1,1,0,21,207,103,310
+2019,15,DST,nfl,New Orleans Saints,NO,IND,home,8.00,1.0,0,0,0,0,0,7,159,46,205
+2019,15,DST,nfl,Jacksonville Jaguars,JAX,OAK,away,8.00,4.0,0,0,0,0,0,16,236,128,364
+2019,15,DST,nfl,Seattle Seahawks,SEA,CAR,away,8.00,1.0,3,0,0,0,0,24,269,145,414
+2019,15,DST,nfl,Houston Texans,HOU,TEN,away,7.00,2.0,1,0,0,1,0,21,269,163,432
+2019,15,DST,nfl,Miami Dolphins,MIA,NYG,away,7.00,1.0,3,0,0,0,0,36,274,138,412
+2019,15,DST,nfl,Oakland Raiders,OAK,JAX,home,6.00,2.0,0,0,0,0,0,20,185,77,262
+2019,15,DST,nfl,Tennessee Titans,TEN,HOU,home,6.00,1.0,2,0,0,0,0,24,234,140,374
+2019,15,DST,nfl,Arizona Cardinals,ARI,CLE,home,6.00,1.0,1,0,1,0,0,24,241,152,393
+2019,15,DST,nfl,Denver Broncos,DEN,KC,away,6.00,3.0,1,0,0,0,0,23,327,92,419
+2019,15,DST,nfl,Dallas Cowboys,DAL,LA,home,5.00,2.0,1,0,0,0,0,21,267,22,289
+2019,15,DST,nfl,Carolina Panthers,CAR,SEA,home,4.00,2.0,1,0,0,0,0,30,274,154,428
+2019,15,DST,nfl,Washington Redskins,WAS,PHI,home,4.00,2.0,0,0,1,0,0,37,258,157,415
+2019,15,DST,nfl,San Francisco 49ers,SF,ATL,home,4.00,2.0,0,0,1,0,0,29,201,89,290
+2019,15,DST,nfl,Detroit Lions,DET,TB,home,4.00,2.0,1,0,0,0,0,38,446,49,495
+2019,15,DST,nfl,Cleveland Browns,CLE,ARI,away,2.00,0.0,1,0,0,0,0,38,219,226,445
+2019,15,DST,nfl,Los Angeles Chargers,LAC,MIN,home,2.00,0.0,1,0,0,0,0,39,207,137,344
+2019,15,DST,nfl,Cincinnati Bengals,CIN,NE,home,2.00,2.0,0,0,0,0,0,34,116,175,291
+2019,15,DST,nfl,Chicago Bears,CHI,GB,away,2.00,1.0,0,0,0,0,0,21,192,100,292
+2019,15,DST,nfl,Indianapolis Colts,IND,NO,away,0.00,0.0,0,0,0,0,0,34,307,117,424
+2019,15,DST,nfl,Los Angeles Rams,LA,DAL,away,0.00,0.0,0,0,0,0,0,44,212,263,475

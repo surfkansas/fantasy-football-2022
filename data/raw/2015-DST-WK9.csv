@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2015,9,DST,nfl,New York Giants,NYG,TB,away,16.00,0.0,0,0,3,0,1,18,247,136,383
+2015,9,DST,nfl,New York Jets,NYJ,JAX,home,15.00,6.0,2,0,2,0,0,23,338,98,436
+2015,9,DST,nfl,Philadelphia Eagles,PHI,DAL,away,13.00,4.0,1,0,0,0,1,27,277,134,411
+2015,9,DST,nfl,San Diego Chargers,SD,CHI,home,12.00,1.0,1,0,1,0,1,22,337,109,446
+2015,9,DST,nfl,New England Patriots,NE,WAS,home,12.00,1.0,1,0,1,0,0,10,213,37,250
+2015,9,DST,nfl,Tennessee Titans,TEN,NO,away,10.00,4.0,1,0,1,1,0,28,355,61,416
+2015,9,DST,nfl,Buffalo Bills,BUF,MIA,home,10.00,2.0,0,1,1,0,0,17,289,108,397
+2015,9,DST,nfl,Cincinnati Bengals,CIN,CLE,home,10.00,3.0,0,0,0,0,0,10,144,69,213
+2015,9,DST,nfl,Carolina Panthers,CAR,GB,home,9.00,5.0,1,0,1,0,0,29,331,71,402
+2015,9,DST,nfl,Pittsburgh Steelers,PIT,OAK,home,8.00,0.0,1,0,3,0,0,35,301,139,440
+2015,9,DST,nfl,Atlanta Falcons,ATL,SF,away,8.00,0.0,2,0,0,0,0,17,185,133,318
+2015,9,DST,nfl,Chicago Bears,CHI,SD,away,8.00,2.0,0,0,1,0,0,19,262,77,339
+2015,9,DST,nfl,Denver Broncos,DEN,IND,away,8.00,1.0,0,0,0,0,1,27,245,120,365
+2015,9,DST,nfl,Indianapolis Colts,IND,DEN,home,6.00,1.0,2,0,0,0,0,24,274,35,309
+2015,9,DST,nfl,San Francisco 49ers,SF,ATL,home,6.00,2.0,0,0,0,0,0,16,285,17,302
+2015,9,DST,nfl,Oakland Raiders,OAK,PIT,away,5.00,1.0,1,0,1,0,0,38,402,195,597
+2015,9,DST,nfl,Minnesota Vikings,MIN,STL,home,5.00,1.0,0,0,0,0,0,18,160,160,320
+2015,9,DST,nfl,Washington Redskins,WAS,NE,away,5.00,0.0,1,0,1,0,0,27,299,161,460
+2015,9,DST,nfl,Cleveland Browns,CLE,CIN,away,4.00,2.0,0,0,0,1,0,31,219,152,371
+2015,9,DST,nfl,Tampa Bay Buccaneers,TB,NYG,home,4.00,0.0,2,0,0,0,0,32,213,114,327
+2015,9,DST,nfl,St. Louis Rams,STL,MIN,away,4.00,1.0,1,0,0,0,0,21,148,145,293
+2015,9,DST,nfl,Miami Dolphins,MIA,BUF,away,3.00,3.0,0,0,0,0,0,33,154,266,420
+2015,9,DST,nfl,Jacksonville Jaguars,JAX,NYJ,away,2.00,2.0,0,0,0,0,0,28,261,29,290
+2015,9,DST,nfl,New Orleans Saints,NO,TEN,home,2.00,0.0,0,0,1,0,0,34,371,112,483
+2015,9,DST,nfl,Green Bay Packers,GB,CAR,away,2.00,0.0,1,0,0,0,0,37,297,130,427
+2015,9,DST,nfl,Dallas Cowboys,DAL,PHI,home,1.00,1.0,0,0,0,0,0,33,287,172,459

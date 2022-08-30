@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2020,7,DST,nfl,Kansas City Chiefs,KC,DEN,away,27.00,3.0,2,0,2,0,2,16,234,177,411
+2020,7,DST,nfl,Washington Football Team,WAS,DAL,home,20.00,6.0,1,1,0,0,0,3,59,83,142
+2020,7,DST,nfl,San Francisco 49ers,SF,NE,away,20.00,2.0,4,0,0,0,0,6,147,94,241
+2020,7,DST,nfl,Buffalo Bills,BUF,NYJ,away,17.00,6.0,2,0,0,0,0,10,91,100,191
+2020,7,DST,nfl,Los Angeles Rams,LA,CHI,home,15.00,4.0,2,0,0,0,0,10,230,49,279
+2020,7,DST,nfl,Chicago Bears,CHI,LA,away,12.00,1.0,0,0,1,1,1,24,211,160,371
+2020,7,DST,nfl,Philadelphia Eagles,PHI,NYG,home,10.00,3.0,1,0,2,0,0,21,165,160,325
+2020,7,DST,nfl,Green Bay Packers,GB,HOU,away,9.00,3.0,0,0,1,0,0,20,286,79,365
+2020,7,DST,nfl,Jacksonville Jaguars,JAX,LAC,away,9.00,1.0,0,0,0,1,1,39,349,135,484
+2020,7,DST,nfl,Tampa Bay Buccaneers,TB,LV,away,9.00,3.0,1,0,0,0,0,20,271,76,347
+2020,7,DST,nfl,Cleveland Browns,CLE,CIN,away,8.00,4.0,1,0,1,0,0,34,387,81,468
+2020,7,DST,nfl,Arizona Cardinals,ARI,SEA,home,8.00,2.0,3,0,0,0,0,34,372,200,572
+2020,7,DST,nfl,New York Jets,NYJ,BUF,home,8.00,2.0,0,0,1,0,0,18,296,126,422
+2020,7,DST,nfl,New England Patriots,NE,SF,home,7.00,1.0,2,0,0,1,0,33,270,197,467
+2020,7,DST,nfl,Tennessee Titans,TEN,PIT,home,7.00,0.0,3,0,0,0,0,27,268,94,362
+2020,7,DST,nfl,Los Angeles Chargers,LAC,JAX,home,7.00,5.0,0,0,1,0,0,29,154,140,294
+2020,7,DST,nfl,Denver Broncos,DEN,KC,home,6.00,4.0,0,0,1,0,0,43,185,101,286
+2020,7,DST,nfl,New York Giants,NYG,PHI,away,6.00,3.0,1,0,0,0,0,22,346,96,442
+2020,7,DST,nfl,Detroit Lions,DET,ATL,away,5.00,2.0,0,0,1,0,0,22,322,66,388
+2020,7,DST,nfl,Seattle Seahawks,SEA,ARI,away,4.00,0.0,1,0,1,0,0,37,360,159,519
+2020,7,DST,nfl,Carolina Panthers,CAR,NO,away,4.00,1.0,0,0,1,0,0,27,277,138,415
+2020,7,DST,nfl,Pittsburgh Steelers,PIT,TEN,away,3.00,2.0,0,0,0,0,0,24,210,82,292
+2020,7,DST,nfl,Atlanta Falcons,ATL,DET,home,3.00,2.0,0,0,0,0,0,23,322,64,386
+2020,7,DST,nfl,Dallas Cowboys,DAL,WAS,away,3.00,2.0,0,0,0,0,0,25,189,208,397
+2020,7,DST,nfl,New Orleans Saints,NO,CAR,home,2.00,1.0,0,0,0,0,0,24,246,37,283
+2020,7,DST,nfl,Cincinnati Bengals,CIN,CLE,home,2.00,0.0,1,0,0,0,0,37,316,82,398
+2020,7,DST,nfl,Houston Texans,HOU,GB,home,2.00,0.0,0,0,0,1,0,35,283,96,379
+2020,7,DST,nfl,Las Vegas Raiders,LV,TB,home,0.00,0.0,0,0,0,0,0,45,369,85,454

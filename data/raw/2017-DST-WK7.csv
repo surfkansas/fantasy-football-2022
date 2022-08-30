@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2017,7,DST,nfl,Chicago Bears,CHI,CAR,home,33.00,5.0,2,0,1,0,2,3,185,108,293
+2017,7,DST,nfl,Los Angeles Chargers,LAC,DEN,home,27.00,5.0,1,0,2,0,1,0,182,69,251
+2017,7,DST,nfl,Jacksonville Jaguars,JAX,IND,away,20.00,10.0,0,0,0,0,0,0,136,96,232
+2017,7,DST,nfl,Dallas Cowboys,DAL,SF,away,18.00,5.0,0,0,3,0,0,10,187,103,290
+2017,7,DST,nfl,Los Angeles Rams,LA,ARI,home,17.00,3.0,2,0,0,0,0,0,171,25,196
+2017,7,DST,nfl,Tennessee Titans,TEN,CLE,away,15.00,2.0,3,0,0,0,0,9,218,66,284
+2017,7,DST,nfl,Pittsburgh Steelers,PIT,CIN,home,12.00,4.0,2,0,0,0,0,14,108,71,179
+2017,7,DST,nfl,Cleveland Browns,CLE,TEN,home,11.00,2.0,0,0,1,0,0,12,189,80,269
+2017,7,DST,nfl,Carolina Panthers,CAR,CHI,away,10.00,4.0,0,0,0,1,0,17,85,68,153
+2017,7,DST,nfl,New England Patriots,NE,ATL,home,10.00,1.0,0,0,0,1,0,7,223,120,343
+2017,7,DST,nfl,Seattle Seahawks,SEA,NYG,away,10.00,1.0,0,0,1,0,0,7,131,46,177
+2017,7,DST,nfl,Minnesota Vikings,MIN,BAL,home,9.00,5.0,0,0,0,0,0,16,144,64,208
+2017,7,DST,nfl,Green Bay Packers,GB,NO,home,8.00,1.0,2,0,0,1,0,26,324,161,485
+2017,7,DST,nfl,Buffalo Bills,BUF,TB,home,8.00,1.0,1,0,2,0,0,27,378,69,447
+2017,7,DST,nfl,New York Jets,NYJ,MIA,away,7.00,3.0,2,0,0,0,0,31,304,53,357
+2017,7,DST,nfl,Miami Dolphins,MIA,NYJ,home,7.00,3.0,1,0,1,0,0,28,180,92,272
+2017,7,DST,nfl,New Orleans Saints,NO,GB,away,7.00,1.0,1,0,0,0,0,17,79,181,260
+2017,7,DST,nfl,Philadelphia Eagles,PHI,WAS,home,7.00,4.0,1,0,0,0,0,24,269,75,344
+2017,7,DST,nfl,Indianapolis Colts,IND,JAX,home,6.00,1.0,0,0,2,0,0,27,330,188,518
+2017,7,DST,nfl,Washington Redskins,WAS,PHI,away,5.00,3.0,1,0,0,0,0,34,244,127,371
+2017,7,DST,nfl,Denver Broncos,DEN,LAC,away,4.00,3.0,0,0,0,0,0,21,162,80,242
+2017,7,DST,nfl,New York Giants,NYG,SEA,home,4.00,1.0,0,0,1,0,0,24,321,104,425
+2017,7,DST,nfl,Atlanta Falcons,ATL,NE,away,3.00,2.0,0,0,0,0,0,23,241,162,403
+2017,7,DST,nfl,Arizona Cardinals,ARI,LA,away,3.00,1.0,1,0,0,0,0,33,228,197,425
+2017,7,DST,nfl,Tampa Bay Buccaneers,TB,BUF,away,3.00,1.0,0,0,1,0,0,30,261,173,434
+2017,7,DST,nfl,Baltimore Ravens,BAL,MIN,away,3.00,0.0,1,0,0,0,0,24,188,169,357
+2017,7,DST,nfl,Kansas City Chiefs,KC,OAK,away,2.00,0.0,0,0,0,1,0,31,417,88,505
+2017,7,DST,nfl,Oakland Raiders,OAK,KC,home,1.00,1.0,0,0,0,0,0,30,331,94,425
+2017,7,DST,nfl,Cincinnati Bengals,CIN,PIT,away,0.00,0.0,0,0,0,0,0,29,268,152,420
+2017,7,DST,nfl,San Francisco 49ers,SF,DAL,home,0.00,0.0,0,0,0,0,0,40,236,265,501

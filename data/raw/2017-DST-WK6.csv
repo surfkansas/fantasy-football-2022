@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2017,6,DST,nfl,New Orleans Saints,NO,DET,home,33.00,5.0,3,0,2,0,3,38,281,66,347
+2017,6,DST,nfl,Los Angeles Rams,LA,JAX,away,25.00,5.0,1,0,0,1,2,17,220,169,389
+2017,6,DST,nfl,New York Giants,NYG,DEN,away,25.00,4.0,2,0,1,1,1,10,366,46,412
+2017,6,DST,nfl,Houston Texans,HOU,CLE,home,22.00,4.0,3,1,0,0,1,17,113,134,247
+2017,6,DST,nfl,Baltimore Ravens,BAL,CHI,home,21.00,4.0,0,0,2,0,2,27,111,231,342
+2017,6,DST,nfl,Detroit Lions,DET,NO,away,18.00,0.0,2,0,1,0,2,52,186,193,379
+2017,6,DST,nfl,Minnesota Vikings,MIN,GB,home,17.00,4.0,3,0,0,0,0,10,155,72,227
+2017,6,DST,nfl,Chicago Bears,CHI,BAL,away,16.00,3.0,2,0,1,0,1,24,166,125,291
+2017,6,DST,nfl,New England Patriots,NE,NYJ,away,14.00,4.0,2,0,1,0,0,17,334,74,408
+2017,6,DST,nfl,Pittsburgh Steelers,PIT,KC,away,12.00,3.0,0,1,0,0,0,13,223,28,251
+2017,6,DST,nfl,Tampa Bay Buccaneers,TB,ARI,away,12.00,2.0,1,0,1,0,1,38,272,160,432
+2017,6,DST,nfl,Philadelphia Eagles,PHI,CAR,away,9.00,2.0,3,0,0,0,0,23,225,80,305
+2017,6,DST,nfl,Indianapolis Colts,IND,TEN,away,9.00,1.0,1,0,0,0,1,36,305,168,473
+2017,6,DST,nfl,Cleveland Browns,CLE,HOU,away,9.00,1.0,1,0,0,0,1,33,217,123,340
+2017,6,DST,nfl,Los Angeles Chargers,LAC,OAK,away,9.00,1.0,2,0,0,0,0,16,165,109,274
+2017,6,DST,nfl,Miami Dolphins,MIA,ATL,away,8.00,2.0,1,0,0,0,0,17,239,100,339
+2017,6,DST,nfl,Oakland Raiders,OAK,LAC,home,7.00,1.0,0,0,1,0,0,17,263,80,343
+2017,6,DST,nfl,Kansas City Chiefs,KC,PIT,home,7.00,1.0,1,0,0,0,0,19,245,194,439
+2017,6,DST,nfl,Denver Broncos,DEN,NYG,home,6.00,3.0,0,0,0,1,0,23,118,148,266
+2017,6,DST,nfl,Atlanta Falcons,ATL,MIA,home,6.00,0.0,1,0,0,0,0,20,151,138,289
+2017,6,DST,nfl,San Francisco 49ers,SF,WAS,away,6.00,1.0,1,0,1,0,0,26,325,94,419
+2017,6,DST,nfl,Arizona Cardinals,ARI,TB,home,6.00,2.0,2,0,0,0,0,33,344,70,414
+2017,6,DST,nfl,Washington Redskins,WAS,SF,home,6.00,3.0,1,0,0,0,0,24,250,85,335
+2017,6,DST,nfl,Jacksonville Jaguars,JAX,LA,home,6.00,3.0,0,0,1,0,0,27,107,142,249
+2017,6,DST,nfl,New York Jets,NYJ,NE,home,5.00,0.0,1,0,1,0,0,24,257,118,375
+2017,6,DST,nfl,Green Bay Packers,GB,MIN,away,5.00,0.0,1,0,1,0,0,23,239,112,351
+2017,6,DST,nfl,Carolina Panthers,CAR,PHI,home,5.00,3.0,0,0,1,0,0,28,209,101,310
+2017,6,DST,nfl,Tennessee Titans,TEN,IND,home,4.00,1.0,0,0,1,0,0,22,212,85,297

@@ -1,0 +1,37 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pass_attempts,pass_completions,pass_yards,pass_touchdowns,pass_interceptions,pass_2points,rush_attempts,rush_yards,rush_touchdowns,rush_2points,receptions,reception_yards,reception_touchdowns,reception_2points,fumbles_lost,fumble_recovery_touchdowns
+2018,13,QB,patrick-mahomes-mahompa01,Patrick Mahomes,KC,OAK,away,40.00,38,23,295,4,0,0,9,52,0,0,0,0,0,0,0,0
+2018,13,QB,josh-allen-allenjo06,Josh Allen,BUF,MIA,away,32.00,33,18,231,2,2,1,9,135,0,0,0,0,0,0,0,0
+2018,13,QB,russell-wilson-wilsoru01,Russell Wilson,SEA,SF,home,32.00,17,11,185,4,0,0,4,14,0,0,0,0,0,0,0,0
+2018,13,QB,derek-carr-carrde03,Derek Carr,OAK,KC,home,29.00,38,29,285,3,0,0,1,8,0,0,0,0,0,0,0,0
+2018,13,QB,philip-rivers-riverph01,Philip Rivers,LAC,PIT,away,27.00,36,26,299,2,0,2,0,0,0,0,0,0,0,0,0,0
+2018,13,QB,nick-mullens-mulleni01,Nick Mullens,SF,SEA,away,26.00,48,30,414,2,1,0,2,1,0,0,0,0,0,0,0,0
+2018,13,QB,marcus-mariota-marioma01,Marcus Mariota,TEN,NYJ,home,25.00,35,20,282,2,1,0,4,43,0,0,0,0,0,0,0,0
+2018,13,QB,jameis-winston-winstja01,Jameis Winston,TB,CAR,home,25.00,30,20,249,2,0,0,5,48,0,0,0,0,0,0,0,0
+2018,13,QB,carson-wentz-wentzca02,Carson Wentz,PHI,WAS,home,24.00,39,27,306,2,1,1,4,-4,0,0,0,0,0,0,0,0
+2018,13,QB,ben-roethlisberger-roethbe01,Ben Roethlisberger,PIT,LAC,home,21.00,45,29,281,2,1,0,0,0,0,0,0,0,0,0,0,0
+2018,13,QB,ryan-tannehill-tannery01,Ryan Tannehill,MIA,BUF,home,21.00,24,16,137,3,1,0,3,-5,0,0,0,0,0,0,0,0
+2018,13,QB,cam-newton-newtoca02,Cam Newton,CAR,TB,away,19.00,41,28,300,2,4,0,6,33,0,0,0,0,0,0,0,0
+2018,13,QB,lamar-jackson-jacksla06,Lamar Jackson,BAL,ATL,away,17.00,21,12,125,0,0,0,17,75,1,0,0,0,0,0,1,0
+2018,13,QB,aaron-rodgers-rodgeaa01,Aaron Rodgers,GB,ARI,home,17.00,50,31,233,1,0,0,3,20,0,0,0,0,0,0,0,0
+2018,13,QB,deshaun-watson-watsode03,Deshaun Watson,HOU,CLE,home,17.00,31,22,224,1,0,0,7,30,0,0,0,0,0,0,0,0
+2018,13,QB,tom-brady-bradyto01,Tom Brady,NE,MIN,home,16.00,32,24,311,1,1,0,2,5,0,0,0,0,0,0,0,0
+2018,13,QB,dak-prescott-prescda01,Dak Prescott,DAL,NO,home,16.00,28,24,249,1,0,0,5,22,0,0,0,0,0,0,1,0
+2018,13,QB,baker-mayfield-mayfiba01,Baker Mayfield,CLE,HOU,away,15.00,43,29,397,1,3,0,0,0,0,0,0,0,0,0,0,0
+2018,13,QB,chase-daniel-daniech01,Chase Daniel,CHI,NYG,away,13.00,39,26,285,1,2,0,4,4,0,0,0,0,0,0,0,0
+2018,13,QB,jeff-driskel-driskje01,Jeff Driskel,CIN,DEN,home,12.00,37,25,236,1,1,0,3,3,0,0,0,0,0,0,1,0
+2018,13,QB,case-keenum-keenuca01,Case Keenum,DEN,CIN,away,12.00,21,12,151,1,0,0,2,9,0,0,0,0,0,0,0,0
+2018,13,QB,matthew-stafford-staffma01,Matthew Stafford,DET,LA,home,12.00,33,20,245,1,1,0,1,2,0,0,0,0,0,0,1,0
+2018,13,QB,jared-goff-goffja01,Jared Goff,LA,DET,away,11.00,33,17,207,1,1,0,2,-2,0,0,0,0,0,0,1,0
+2018,13,QB,kirk-cousins-cousiki01,Kirk Cousins,MIN,NE,away,10.00,44,32,201,1,2,0,0,0,0,0,0,0,0,0,0,0
+2018,13,QB,eli-manning-manniel01,Eli Manning,NYG,CHI,home,10.00,35,19,170,1,1,0,0,0,0,0,0,0,0,0,0,0
+2018,13,QB,matt-ryan-ryanma01,Matt Ryan,ATL,BAL,home,10.00,26,16,131,1,0,0,2,4,0,0,0,0,0,0,1,0
+2018,13,QB,drew-brees-breesdr01,Drew Brees,NO,DAL,away,9.00,28,18,127,1,1,0,1,2,0,0,0,0,0,0,0,0
+2018,13,QB,cody-kessler-kesslco01,Cody Kessler,IND,JAX,away,8.00,24,18,150,0,0,0,5,28,0,0,0,0,0,0,0,0
+2018,13,QB,andrew-luck-luckan01,Andrew Luck,IND,JAX,away,8.00,52,33,248,0,1,0,2,16,0,0,0,0,0,0,0,0
+2018,13,QB,josh-rosen-rosenjo01,Josh Rosen,ARI,GB,away,8.00,26,11,149,0,0,0,2,32,0,0,0,0,0,0,0,0
+2018,13,QB,josh-mccown-mccowjo01,Josh McCown,NYJ,TEN,away,3.00,30,17,128,0,1,0,1,3,0,0,0,0,0,0,0,0
+2018,13,QB,colt-mccoy-mccoyco01,Colt McCoy,WAS,PHI,away,2.00,4,4,50,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,13,QB,mark-sanchez-sanchma01,Mark Sanchez,WAS,PHI,away,2.00,21,13,100,0,1,0,1,8,0,0,0,0,0,0,0,0
+2018,13,QB,blaine-gabbert-gabbebl01,Blaine Gabbert,TEN,NYJ,home,0.00,0,0,0,0,0,0,1,-1,0,0,0,0,0,0,0,0
+2018,13,QB,robert-griffin-griffro02,Robert Griffin III,BAL,ATL,away,0.00,4,2,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,13,QB,taylor-heinicke-heinita01,Taylor Heinicke,CAR,TB,away,0.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

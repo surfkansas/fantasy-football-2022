@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2015,4,DST,nfl,Detroit Lions,DET,SEA,away,25.00,6.0,0,0,3,0,1,13,235,110,345
+2015,4,DST,nfl,Atlanta Falcons,ATL,HOU,home,22.00,1.0,1,0,3,0,2,21,374,54,428
+2015,4,DST,nfl,Carolina Panthers,CAR,TB,away,19.00,2.0,4,0,1,0,1,23,270,141,411
+2015,4,DST,nfl,Green Bay Packers,GB,SF,away,18.00,6.0,1,0,0,0,0,3,119,77,196
+2015,4,DST,nfl,Washington Redskins,WAS,PHI,home,13.00,5.0,0,0,2,0,0,20,233,87,320
+2015,4,DST,nfl,New York Giants,NYG,BUF,away,13.00,2.0,1,0,1,0,0,10,258,55,313
+2015,4,DST,nfl,Denver Broncos,DEN,MIN,home,13.00,7.0,0,0,1,0,0,20,212,113,325
+2015,4,DST,nfl,Oakland Raiders,OAK,CHI,away,12.00,3.0,1,0,2,1,0,22,273,98,371
+2015,4,DST,nfl,New York Jets,NYJ,MIA,away,11.00,3.0,2,0,0,0,0,14,167,59,226
+2015,4,DST,nfl,Jacksonville Jaguars,JAX,IND,away,11.00,3.0,0,0,2,0,0,16,266,60,326
+2015,4,DST,nfl,St. Louis Rams,STL,ARI,away,11.00,4.0,1,0,2,0,0,22,334,113,447
+2015,4,DST,nfl,Chicago Bears,CHI,OAK,home,10.00,2.0,1,0,1,0,0,20,173,70,243
+2015,4,DST,nfl,Pittsburgh Steelers,PIT,BAL,home,10.00,5.0,1,0,1,0,0,23,165,191,356
+2015,4,DST,nfl,Seattle Seahawks,SEA,DET,home,9.00,0.0,0,0,1,0,0,10,203,53,256
+2015,4,DST,nfl,Baltimore Ravens,BAL,PIT,away,8.00,4.0,0,0,0,0,0,20,96,167,263
+2015,4,DST,nfl,Cincinnati Bengals,CIN,KC,home,8.00,5.0,0,0,1,0,0,21,348,113,461
+2015,4,DST,nfl,Indianapolis Colts,IND,JAX,home,8.00,1.0,0,0,0,0,0,13,289,142,431
+2015,4,DST,nfl,San Francisco 49ers,SF,GB,home,7.00,3.0,0,0,0,0,0,17,200,162,362
+2015,4,DST,nfl,San Diego Chargers,SD,CLE,home,7.00,4.0,0,0,1,0,0,27,332,100,432
+2015,4,DST,nfl,New Orleans Saints,NO,DAL,home,7.00,3.0,0,0,0,0,0,20,220,115,335
+2015,4,DST,nfl,Minnesota Vikings,MIN,DEN,away,7.00,2.0,2,0,0,0,0,23,200,144,344
+2015,4,DST,nfl,Tampa Bay Buccaneers,TB,CAR,home,4.00,2.0,0,0,1,0,0,37,111,133,244
+2015,4,DST,nfl,Philadelphia Eagles,PHI,WAS,away,4.00,1.0,0,0,1,0,0,23,290,127,417
+2015,4,DST,nfl,Dallas Cowboys,DAL,NO,away,4.00,3.0,0,0,0,0,0,26,335,103,438
+2015,4,DST,nfl,Buffalo Bills,BUF,NYG,home,4.00,1.0,1,0,0,0,0,24,211,92,303
+2015,4,DST,nfl,Miami Dolphins,MIA,NYJ,home,3.00,0.0,1,0,0,0,0,27,218,207,425
+2015,4,DST,nfl,Houston Texans,HOU,ATL,away,2.00,2.0,0,0,0,0,0,48,243,135,378
+2015,4,DST,nfl,Cleveland Browns,CLE,SD,away,2.00,2.0,0,0,0,0,0,30,347,91,438
+2015,4,DST,nfl,Arizona Cardinals,ARI,STL,home,2.00,1.0,0,0,0,0,0,24,164,164,328
+2015,4,DST,nfl,Kansas City Chiefs,KC,CIN,away,0.00,0.0,0,0,0,0,0,36,321,124,445

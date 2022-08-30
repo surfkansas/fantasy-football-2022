@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2021,13,DST,nfl,Los Angeles Chargers,LAC,CIN,away,21.00,6.0,2,0,2,0,1,22,260,96,356
+2021,13,DST,nfl,Dallas Cowboys,DAL,NO,away,20.00,2.0,4,0,0,0,1,17,252,153,405
+2021,13,DST,nfl,Kansas City Chiefs,KC,DEN,home,20.00,1.0,2,0,1,0,1,9,250,154,404
+2021,13,DST,nfl,Indianapolis Colts,IND,HOU,away,18.00,4.0,1,0,1,0,0,0,57,84,141
+2021,13,DST,nfl,Pittsburgh Steelers,PIT,BAL,home,13.00,7.0,1,0,0,0,0,19,219,107,326
+2021,13,DST,nfl,Los Angeles Rams,LA,JAX,home,13.00,2.0,0,0,2,0,0,7,136,61,197
+2021,13,DST,nfl,Arizona Cardinals,ARI,CHI,away,12.00,3.0,4,0,0,0,0,22,217,112,329
+2021,13,DST,nfl,Miami Dolphins,MIA,NYG,home,12.00,3.0,1,0,0,0,0,9,159,91,250
+2021,13,DST,nfl,New England Patriots,NE,BUF,away,11.00,2.0,0,0,1,0,0,10,131,99,230
+2021,13,DST,nfl,Tampa Bay Buccaneers,TB,ATL,away,11.00,5.0,0,0,1,0,0,17,259,121,380
+2021,13,DST,nfl,Seattle Seahawks,SEA,SF,home,10.00,1.0,2,1,1,0,0,23,294,71,365
+2021,13,DST,nfl,Cincinnati Bengals,CIN,LAC,home,10.00,4.0,1,0,2,0,0,41,284,79,363
+2021,13,DST,nfl,San Francisco 49ers,SF,SEA,away,10.00,4.0,1,0,2,0,0,30,181,146,327
+2021,13,DST,nfl,Philadelphia Eagles,PHI,NYJ,away,8.00,2.0,1,0,0,0,0,18,211,70,281
+2021,13,DST,nfl,Atlanta Falcons,ATL,TB,home,8.00,0.0,1,0,0,0,1,30,368,57,425
+2021,13,DST,nfl,Las Vegas Raiders,LV,WAS,home,7.00,1.0,1,0,0,0,0,17,186,112,298
+2021,13,DST,nfl,Minnesota Vikings,MIN,DET,away,7.00,3.0,1,0,1,0,0,29,272,100,372
+2021,13,DST,nfl,Washington Football Team,WAS,LV,away,6.00,2.0,0,0,0,0,0,15,234,76,310
+2021,13,DST,nfl,Detroit Lions,DET,MIN,home,6.00,3.0,0,0,1,0,0,27,326,100,426
+2021,13,DST,nfl,New York Giants,NYG,MIA,away,6.00,2.0,0,0,0,0,0,20,229,68,297
+2021,13,DST,nfl,Buffalo Bills,BUF,NE,home,6.00,0.0,0,0,1,0,0,14,19,222,241
+2021,13,DST,nfl,Baltimore Ravens,BAL,PIT,away,5.00,1.0,0,0,0,0,0,20,236,85,321
+2021,13,DST,nfl,Denver Broncos,DEN,KC,away,4.00,1.0,1,0,0,0,0,22,178,89,267
+2021,13,DST,nfl,New Orleans Saints,NO,DAL,home,4.00,1.0,1,0,0,0,0,27,231,146,377
+2021,13,DST,nfl,Houston Texans,HOU,IND,home,3.00,1.0,0,0,1,0,0,31,151,238,389
+2021,13,DST,nfl,New York Jets,NYJ,PHI,home,2.00,2.0,0,0,0,0,0,33,233,185,418
+2021,13,DST,nfl,Chicago Bears,CHI,ARI,home,1.00,1.0,0,0,0,0,0,33,120,137,257
+2021,13,DST,nfl,Jacksonville Jaguars,JAX,LA,away,1.00,1.0,0,0,0,0,0,37,290,128,418

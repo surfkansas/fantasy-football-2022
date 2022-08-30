@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2016,11,DST,nfl,Pittsburgh Steelers,PIT,CLE,away,25.00,8.0,1,0,1,0,1,9,176,33,209
+2016,11,DST,nfl,Detroit Lions,DET,JAX,home,22.00,0.0,2,0,1,0,2,19,202,83,285
+2016,11,DST,nfl,Minnesota Vikings,MIN,ARI,home,21.00,4.0,2,0,0,0,2,24,155,135,290
+2016,11,DST,nfl,Carolina Panthers,CAR,NO,home,13.00,3.0,1,0,1,1,0,20,264,107,371
+2016,11,DST,nfl,Buffalo Bills,BUF,CIN,away,12.00,1.0,2,0,0,0,0,12,207,93,300
+2016,11,DST,nfl,Miami Dolphins,MIA,LA,away,10.00,1.0,0,0,1,0,0,10,125,102,227
+2016,11,DST,nfl,Seattle Seahawks,SEA,PHI,home,10.00,2.0,2,0,0,0,0,15,195,113,308
+2016,11,DST,nfl,New York Giants,NYG,CHI,home,10.00,4.0,1,0,0,0,0,16,222,93,315
+2016,11,DST,nfl,Jacksonville Jaguars,JAX,DET,away,10.00,3.0,0,0,2,1,0,26,263,14,277
+2016,11,DST,nfl,Los Angeles Rams,LA,MIA,home,10.00,4.0,1,0,0,0,0,14,142,98,240
+2016,11,DST,nfl,Oakland Raiders,OAK,HOU,home,10.00,2.0,1,0,1,0,0,20,230,124,354
+2016,11,DST,nfl,New England Patriots,NE,SF,away,9.00,5.0,0,0,0,0,0,17,177,122,299
+2016,11,DST,nfl,Indianapolis Colts,IND,TEN,home,9.00,5.0,0,0,0,0,0,17,254,97,351
+2016,11,DST,nfl,Cincinnati Bengals,CIN,BUF,home,8.00,2.0,1,0,0,0,0,16,159,183,342
+2016,11,DST,nfl,Tampa Bay Buccaneers,TB,KC,away,8.00,0.0,1,0,1,0,0,17,261,82,343
+2016,11,DST,nfl,Washington Redskins,WAS,GB,home,7.00,2.0,1,0,1,0,0,24,340,84,424
+2016,11,DST,nfl,Kansas City Chiefs,KC,TB,home,7.00,1.0,0,0,1,0,0,19,326,116,442
+2016,11,DST,nfl,Arizona Cardinals,ARI,MIN,away,6.00,2.0,0,0,1,1,0,30,145,72,217
+2016,11,DST,nfl,Tennessee Titans,TEN,IND,away,5.00,2.0,1,0,0,0,0,24,251,76,327
+2016,11,DST,nfl,Dallas Cowboys,DAL,BAL,home,5.00,1.0,0,0,0,0,0,17,267,101,368
+2016,11,DST,nfl,Philadelphia Eagles,PHI,SEA,away,4.00,1.0,0,0,0,1,0,26,287,152,439
+2016,11,DST,nfl,New Orleans Saints,NO,CAR,away,3.00,2.0,0,0,0,0,0,23,173,50,223
+2016,11,DST,nfl,Houston Texans,HOU,OAK,away,3.00,0.0,1,0,0,0,0,27,295,30,325
+2016,11,DST,nfl,Green Bay Packers,GB,WAS,away,2.00,2.0,0,0,0,0,0,42,364,151,515
+2016,11,DST,nfl,Baltimore Ravens,BAL,DAL,away,2.00,1.0,0,0,0,0,0,27,299,118,417
+2016,11,DST,nfl,Chicago Bears,CHI,NYG,away,1.00,0.0,0,0,0,0,0,22,227,102,329
+2016,11,DST,nfl,San Francisco 49ers,SF,NE,home,1.00,1.0,0,0,0,0,0,30,273,171,444
+2016,11,DST,nfl,Cleveland Browns,CLE,PIT,home,1.00,0.0,0,0,0,0,0,24,167,146,313

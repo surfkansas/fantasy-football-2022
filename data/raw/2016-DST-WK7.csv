@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2016,7,DST,nfl,Philadelphia Eagles,PHI,MIN,home,27.00,6.0,1,0,3,0,1,10,189,93,282
+2016,7,DST,nfl,New York Giants,NYG,LA,away,24.00,3.0,4,0,0,0,1,10,271,74,345
+2016,7,DST,nfl,Seattle Seahawks,SEA,ARI,away,18.00,4.0,0,0,0,2,0,6,311,132,443
+2016,7,DST,nfl,Baltimore Ravens,BAL,NYJ,away,18.00,5.0,0,0,2,1,1,24,189,155,344
+2016,7,DST,nfl,Tampa Bay Buccaneers,TB,SF,away,14.00,4.0,1,0,2,0,0,17,113,160,273
+2016,7,DST,nfl,Atlanta Falcons,ATL,SD,home,14.00,4.0,1,0,1,0,1,33,348,78,426
+2016,7,DST,nfl,Chicago Bears,CHI,GB,away,13.00,2.0,0,0,1,1,1,26,303,103,406
+2016,7,DST,nfl,Green Bay Packers,GB,CHI,home,12.00,1.0,2,0,0,0,0,10,120,69,189
+2016,7,DST,nfl,Kansas City Chiefs,KC,NO,home,12.00,1.0,1,0,1,0,1,21,359,104,463
+2016,7,DST,nfl,Denver Broncos,DEN,HOU,home,12.00,1.0,0,0,2,0,0,9,131,140,271
+2016,7,DST,nfl,Indianapolis Colts,IND,TEN,away,12.00,3.0,0,0,1,0,1,26,207,124,331
+2016,7,DST,nfl,New York Jets,NYJ,BAL,home,12.00,2.0,2,0,1,0,0,16,234,11,245
+2016,7,DST,nfl,Arizona Cardinals,ARI,SEA,home,11.00,1.0,0,0,0,0,0,6,205,52,257
+2016,7,DST,nfl,Oakland Raiders,OAK,JAX,away,11.00,1.0,2,0,1,0,0,16,239,105,344
+2016,7,DST,nfl,Cincinnati Bengals,CIN,CLE,home,10.00,2.0,2,0,0,0,0,17,172,180,352
+2016,7,DST,nfl,Detroit Lions,DET,WAS,home,10.00,2.0,0,0,2,0,0,17,283,130,413
+2016,7,DST,nfl,Minnesota Vikings,MIN,PHI,away,9.00,0.0,2,0,2,0,0,21,138,101,239
+2016,7,DST,nfl,Washington Redskins,WAS,DET,away,7.00,3.0,0,0,0,0,0,20,250,94,344
+2016,7,DST,nfl,Los Angeles Rams,LA,NYG,home,6.00,0.0,0,0,1,0,0,17,196,36,232
+2016,7,DST,nfl,New England Patriots,NE,PIT,away,6.00,0.0,1,0,0,0,0,16,281,94,375
+2016,7,DST,nfl,Miami Dolphins,MIA,BUF,home,5.00,4.0,0,0,0,0,0,25,200,67,267
+2016,7,DST,nfl,San Diego Chargers,SD,ATL,away,5.00,3.0,1,0,0,0,0,30,256,130,386
+2016,7,DST,nfl,Pittsburgh Steelers,PIT,NE,home,5.00,0.0,0,0,2,0,0,27,222,140,362
+2016,7,DST,nfl,Cleveland Browns,CLE,CIN,away,5.00,3.0,0,0,1,0,0,31,288,271,559
+2016,7,DST,nfl,San Francisco 49ers,SF,TB,home,4.00,2.0,1,0,0,0,0,34,264,249,513
+2016,7,DST,nfl,Tennessee Titans,TEN,IND,home,2.00,2.0,0,0,0,0,0,34,341,81,422
+2016,7,DST,nfl,New Orleans Saints,NO,KC,away,1.00,0.0,0,0,0,0,0,27,214,112,326
+2016,7,DST,nfl,Buffalo Bills,BUF,MIA,away,1.00,1.0,0,0,0,0,0,28,198,256,454
+2016,7,DST,nfl,Houston Texans,HOU,DEN,away,1.00,0.0,0,0,0,0,0,27,157,190,347
+2016,7,DST,nfl,Jacksonville Jaguars,JAX,OAK,home,0.00,0.0,0,0,0,0,0,33,200,144,344

@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2020,3,DST,nfl,Indianapolis Colts,IND,NYJ,home,29.00,2.0,3,1,0,0,2,7,151,109,260
+2020,3,DST,nfl,Tampa Bay Buccaneers,TB,DEN,away,21.00,6.0,2,1,0,1,0,10,184,42,226
+2020,3,DST,nfl,New England Patriots,NE,LV,home,18.00,2.0,0,0,3,0,1,20,249,126,375
+2020,3,DST,nfl,Cleveland Browns,CLE,WAS,home,17.00,3.0,3,0,2,0,0,20,206,103,309
+2020,3,DST,nfl,San Francisco 49ers,SF,NYG,away,15.00,2.0,1,0,2,0,0,9,165,66,231
+2020,3,DST,nfl,Miami Dolphins,MIA,JAX,away,15.00,4.0,1,0,1,0,0,13,246,72,318
+2020,3,DST,nfl,Carolina Panthers,CAR,LAC,away,14.00,2.0,1,0,3,0,0,16,319,117,436
+2020,3,DST,nfl,Seattle Seahawks,SEA,DAL,home,12.00,2.0,2,1,1,1,0,31,461,61,522
+2020,3,DST,nfl,Kansas City Chiefs,KC,BAL,away,10.00,4.0,0,0,1,0,0,20,70,158,228
+2020,3,DST,nfl,Philadelphia Eagles,PHI,CIN,home,9.00,8.0,0,0,0,0,0,23,256,48,304
+2020,3,DST,nfl,Tennessee Titans,TEN,MIN,away,8.00,2.0,2,0,1,0,0,30,238,226,464
+2020,3,DST,nfl,Baltimore Ravens,BAL,KC,home,8.00,0.0,0,0,1,0,1,34,385,132,517
+2020,3,DST,nfl,Cincinnati Bengals,CIN,PHI,away,8.00,3.0,2,0,0,0,0,23,206,172,378
+2020,3,DST,nfl,Pittsburgh Steelers,PIT,HOU,home,8.00,5.0,1,0,0,0,0,21,231,29,260
+2020,3,DST,nfl,Detroit Lions,DET,ARI,away,8.00,1.0,3,0,0,0,0,23,268,109,377
+2020,3,DST,nfl,Los Angeles Rams,LA,BUF,away,8.00,4.0,1,0,1,0,0,35,274,101,375
+2020,3,DST,nfl,Dallas Cowboys,DAL,SEA,away,6.00,4.0,0,0,1,0,0,38,295,117,412
+2020,3,DST,nfl,Buffalo Bills,BUF,LA,home,6.00,2.0,1,0,1,0,0,32,311,167,478
+2020,3,DST,nfl,Atlanta Falcons,ATL,CHI,home,6.00,2.0,2,0,0,0,0,30,307,130,437
+2020,3,DST,nfl,Los Angeles Chargers,LAC,CAR,home,5.00,2.0,0,0,0,1,0,21,221,81,302
+2020,3,DST,nfl,Chicago Bears,CHI,ATL,away,5.00,2.0,1,0,0,0,0,26,227,144,371
+2020,3,DST,nfl,Arizona Cardinals,ARI,DET,home,5.00,4.0,0,0,0,0,0,26,232,90,322
+2020,3,DST,nfl,Las Vegas Raiders,LV,NE,away,4.00,2.0,1,0,0,0,0,36,156,250,406
+2020,3,DST,nfl,Minnesota Vikings,MIN,TEN,home,4.00,2.0,1,0,0,0,0,31,310,134,444
+2020,3,DST,nfl,Green Bay Packers,GB,NO,away,4.00,2.0,0,0,1,0,0,30,275,122,397
+2020,3,DST,nfl,Denver Broncos,DEN,TB,home,4.00,2.0,0,0,0,1,0,28,285,68,353
+2020,3,DST,nfl,Washington Football Team,WAS,CLE,away,2.00,2.0,0,0,0,0,0,34,142,158,300
+2020,3,DST,nfl,Houston Texans,HOU,PIT,away,2.00,2.0,0,0,0,0,0,28,218,169,387
+2020,3,DST,nfl,New York Giants,NYG,SF,home,2.00,2.0,0,0,0,0,0,36,327,93,420
+2020,3,DST,nfl,New Orleans Saints,NO,GB,home,1.00,1.0,0,0,0,0,0,37,271,98,369
+2020,3,DST,nfl,Jacksonville Jaguars,JAX,MIA,home,1.00,1.0,0,0,0,0,0,31,156,138,294
+2020,3,DST,nfl,New York Jets,NYJ,IND,away,0.00,0.0,0,0,0,0,0,36,234,119,353

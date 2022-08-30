@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2017,11,DST,nfl,Jacksonville Jaguars,JAX,CLE,away,28.00,5.0,2,0,3,0,1,7,134,50,184
+2017,11,DST,nfl,Los Angeles Chargers,LAC,BUF,home,26.00,1.0,5,0,1,0,2,24,220,173,393
+2017,11,DST,nfl,Baltimore Ravens,BAL,GB,away,26.00,6.0,3,0,2,0,0,0,190,75,265
+2017,11,DST,nfl,Philadelphia Eagles,PHI,DAL,away,25.00,4.0,3,0,1,0,1,9,113,112,225
+2017,11,DST,nfl,Tampa Bay Buccaneers,TB,MIA,away,21.00,1.0,3,0,2,0,1,20,365,83,448
+2017,11,DST,nfl,Pittsburgh Steelers,PIT,TEN,home,19.00,5.0,4,0,0,1,0,17,264,52,316
+2017,11,DST,nfl,New York Giants,NYG,KC,home,14.00,1.0,3,0,0,0,0,9,229,134,363
+2017,11,DST,nfl,Atlanta Falcons,ATL,SEA,away,13.00,3.0,1,0,1,0,1,31,224,136,360
+2017,11,DST,nfl,Cincinnati Bengals,CIN,DEN,away,13.00,3.0,1,0,1,1,0,17,229,112,341
+2017,11,DST,nfl,New England Patriots,NE,OAK,away,12.00,1.0,1,0,1,0,0,8,235,109,344
+2017,11,DST,nfl,Minnesota Vikings,MIN,LA,home,11.00,2.0,0,0,1,0,0,7,209,45,254
+2017,11,DST,nfl,Detroit Lions,DET,CHI,away,10.00,1.0,0,0,1,0,1,24,176,222,398
+2017,11,DST,nfl,Kansas City Chiefs,KC,NYG,away,9.00,0.0,1,0,0,0,0,12,205,112,317
+2017,11,DST,nfl,Denver Broncos,DEN,CIN,home,8.00,2.0,0,0,0,1,0,20,141,49,190
+2017,11,DST,nfl,Cleveland Browns,CLE,JAX,home,8.00,2.0,0,0,1,0,0,19,145,139,284
+2017,11,DST,nfl,Houston Texans,HOU,ARI,home,7.00,2.0,2,0,0,0,0,21,244,48,292
+2017,11,DST,nfl,Chicago Bears,CHI,DET,home,6.00,3.0,0,0,1,0,0,27,287,65,352
+2017,11,DST,nfl,Green Bay Packers,GB,BAL,home,6.00,3.0,1,0,0,0,0,23,161,58,219
+2017,11,DST,nfl,Arizona Cardinals,ARI,HOU,away,5.00,1.0,1,0,1,0,0,31,223,134,357
+2017,11,DST,nfl,Washington Redskins,WAS,NO,away,4.00,2.0,1,0,0,0,0,34,375,160,535
+2017,11,DST,nfl,Tennessee Titans,TEN,PIT,away,3.00,3.0,0,0,0,0,0,40,284,65,349
+2017,11,DST,nfl,Seattle Seahawks,SEA,ATL,home,3.00,1.0,0,0,1,0,0,34,190,89,279
+2017,11,DST,nfl,New Orleans Saints,NO,WAS,home,2.00,2.0,0,0,0,0,0,31,300,156,456
+2017,11,DST,nfl,Buffalo Bills,BUF,LAC,away,1.00,1.0,0,0,0,0,0,54,283,146,429
+2017,11,DST,nfl,Los Angeles Rams,LA,MIN,away,1.00,0.0,0,0,0,0,0,24,280,171,451
+2017,11,DST,nfl,Oakland Raiders,OAK,NE,home,1.00,1.0,0,0,0,0,0,33,332,89,421
+2017,11,DST,nfl,Miami Dolphins,MIA,TB,home,1.00,1.0,0,0,0,0,0,30,268,53,321
+2017,11,DST,nfl,Dallas Cowboys,DAL,PHI,home,0.00,0.0,0,0,0,0,0,37,168,215,383

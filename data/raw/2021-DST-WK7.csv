@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2021,7,DST,nfl,Tampa Bay Buccaneers,TB,CHI,home,24.00,4.0,3,0,2,0,0,3,168,143,311
+2021,7,DST,nfl,New York Giants,NYG,CAR,home,20.00,6.0,1,1,0,0,0,3,117,56,173
+2021,7,DST,nfl,Tennessee Titans,TEN,KC,home,20.00,4.0,1,0,2,0,0,3,257,77,334
+2021,7,DST,nfl,Green Bay Packers,GB,WAS,home,17.00,4.0,1,0,1,1,0,10,235,195,430
+2021,7,DST,nfl,New England Patriots,NE,NYJ,home,15.00,2.0,2,0,1,0,0,13,237,62,299
+2021,7,DST,nfl,Indianapolis Colts,IND,SF,away,14.00,2.0,2,0,2,0,0,18,169,111,280
+2021,7,DST,nfl,Arizona Cardinals,ARI,HOU,home,14.00,2.0,0,0,1,0,0,5,118,42,160
+2021,7,DST,nfl,New Orleans Saints,NO,SEA,away,12.00,5.0,0,0,0,0,0,10,129,90,219
+2021,7,DST,nfl,Seattle Seahawks,SEA,NO,home,11.00,2.0,0,0,1,0,0,13,210,94,304
+2021,7,DST,nfl,Los Angeles Rams,LA,DET,home,10.00,2.0,2,0,0,0,0,19,278,137,415
+2021,7,DST,nfl,Cincinnati Bengals,CIN,BAL,away,9.00,5.0,0,0,0,0,0,17,278,115,393
+2021,7,DST,nfl,Washington Football Team,WAS,GB,away,8.00,3.0,0,0,1,1,0,24,247,57,304
+2021,7,DST,nfl,Cleveland Browns,CLE,DEN,home,8.00,2.0,1,0,0,0,0,14,182,41,223
+2021,7,DST,nfl,Houston Texans,HOU,ARI,away,8.00,4.0,1,1,0,0,0,31,225,172,397
+2021,7,DST,nfl,Denver Broncos,DEN,CLE,away,7.00,1.0,0,0,0,1,0,17,194,182,376
+2021,7,DST,nfl,Atlanta Falcons,ATL,MIA,away,7.00,1.0,2,0,0,1,0,28,281,132,413
+2021,7,DST,nfl,Las Vegas Raiders,LV,PHI,home,7.00,2.0,0,0,2,0,0,22,223,135,358
+2021,7,DST,nfl,San Francisco 49ers,SF,IND,home,5.00,1.0,0,0,2,0,0,30,147,148,295
+2021,7,DST,nfl,Miami Dolphins,MIA,ATL,home,5.00,1.0,1,0,1,0,0,30,325,72,397
+2021,7,DST,nfl,Kansas City Chiefs,KC,TEN,away,4.00,1.0,1,0,0,0,0,27,266,103,369
+2021,7,DST,nfl,Baltimore Ravens,BAL,CIN,home,3.00,1.0,1,0,0,0,0,41,409,111,520
+2021,7,DST,nfl,Carolina Panthers,CAR,NYG,away,3.00,2.0,0,0,0,0,0,25,199,103,302
+2021,7,DST,nfl,Philadelphia Eagles,PHI,LV,away,2.00,0.0,1,0,0,0,0,33,323,119,442
+2021,7,DST,nfl,Chicago Bears,CHI,TB,away,2.00,0.0,0,0,1,0,0,38,226,182,408
+2021,7,DST,nfl,Detroit Lions,DET,LA,away,1.00,1.0,0,0,0,0,0,28,327,47,374
+2021,7,DST,nfl,New York Jets,NYJ,NE,away,1.00,1.0,0,0,0,0,0,54,403,148,551

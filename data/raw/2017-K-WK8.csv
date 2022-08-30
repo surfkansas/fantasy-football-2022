@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pat_attempts,pat_made,field_goal_att,field_goal_made,field_goal_made_50_yards
+2017,8,K,harrison-butker-butkeha01,Harrison Butker,DEN,KC,away,19.00,2,2,5,5,1
+2017,8,K,matt-prater-pratema01,Matt Prater,DET,PIT,home,17.00,0,0,5,5,1
+2017,8,K,kai-forbath-forbaka01,Kai Forbath,MIN,CLE,away,15.00,2,1,4,4,1
+2017,8,K,mike-nugent-nugenmi01,Mike Nugent,DAL,WAS,away,15.00,3,3,5,4,0
+2017,8,K,matt-bryant-bryanma01,Matt Bryant,ATL,NYJ,away,13.00,1,1,4,4,0
+2017,8,K,stephen-gostkowski-gostkst01,Stephen Gostkowski,NE,LAC,home,13.00,1,1,6,4,0
+2017,8,K,justin-tucker-tuckeju01,Justin Tucker,BAL,MIA,home,12.00,4,4,3,2,1
+2017,8,K,adam-vinatieri-vinatad01,Adam Vinatieri,IND,CIN,away,11.00,2,2,3,3,0
+2017,8,K,blair-walsh-walshbl01,Blair Walsh,SEA,HOU,home,11.00,5,5,2,2,0
+2017,8,K,stephen-hauschka-hauscst01,Stephen Hauschka,BUF,OAK,home,10.00,4,4,2,2,0
+2017,8,K,jake-elliott-ellioja04,Jake Elliott,SF,PHI,away,9.00,3,1,2,2,1
+2017,8,K,chris-boswell-boswech01,Chris Boswell,PIT,DET,away,8.00,2,2,2,2,0
+2017,8,K,chandler-catanzaro-catanch01,Chandler Catanzaro,NYJ,ATL,home,8.00,2,2,4,2,0
+2017,8,K,kaimi-fairbairn-fairbka01,Ka'imi Fairbairn,HOU,SEA,away,8.00,5,5,1,1,0
+2017,8,K,wil-lutz-lutzwi01,Wil Lutz,NO,CHI,home,8.00,2,2,2,2,0
+2017,8,K,brandon-mcmanus-mcmanbr01,Brandon McManus,DEN,KC,away,7.00,1,1,2,2,0
+2017,8,K,nick-rose-roseni01,Nick Rose,DAL,WAS,away,7.00,2,1,3,2,0
+2017,8,K,connor-barth-barthco01,Connor Barth,CHI,NO,away,6.00,0,0,3,2,0
+2017,8,K,randy-bullock-bullora01,Randy Bullock,CIN,IND,home,6.00,3,3,2,1,0
+2017,8,K,robbie-gould-gouldro01,Robbie Gould,SF,PHI,away,6.00,1,1,2,1,1
+2017,8,K,graham-gano-ganogr01,Graham Gano,CAR,TB,away,5.00,2,2,1,1,0
+2017,8,K,zane-gonzalez-gonzaza01,Zane Gonzalez,CLE,MIN,home,4.00,2,1,2,1,0
+2017,8,K,patrick-murray-murrapa02,Patrick Murray,CAR,TB,away,3.00,0,0,1,1,0
+2017,8,K,giorgio-tavecchio-tavecgi01,Giorgio Tavecchio,OAK,BUF,away,2.00,2,2,0,0,0
+2017,8,K,nick-novak-novakni01,Nick Novak,LAC,NE,away,1.00,1,1,1,0,0
+2017,8,K,cody-parkey-parkeco02,Cody Parkey,MIA,BAL,away,0.00,0,0,1,0,0

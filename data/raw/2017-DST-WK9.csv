@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2017,9,DST,nfl,New Orleans Saints,NO,TB,home,21.00,4.0,0,0,1,1,1,10,113,87,200
+2017,9,DST,nfl,Arizona Cardinals,ARI,SF,away,16.00,5.0,1,0,1,0,0,10,266,63,329
+2017,9,DST,nfl,Houston Texans,HOU,IND,home,15.00,3.0,0,0,1,0,1,20,279,92,371
+2017,9,DST,nfl,Jacksonville Jaguars,JAX,CIN,home,15.00,2.0,0,0,0,0,1,7,119,29,148
+2017,9,DST,nfl,Los Angeles Rams,LA,NYG,away,14.00,2.0,1,0,2,1,0,17,208,111,319
+2017,9,DST,nfl,New York Jets,NYJ,BUF,home,14.00,7.0,0,0,3,0,0,21,244,63,307
+2017,9,DST,nfl,Seattle Seahawks,SEA,WAS,home,14.00,6.0,0,1,1,0,0,17,193,51,244
+2017,9,DST,nfl,Tennessee Titans,TEN,BAL,home,10.00,2.0,2,0,0,0,0,20,268,73,341
+2017,9,DST,nfl,Denver Broncos,DEN,PHI,away,10.00,2.0,0,0,1,0,1,51,222,197,419
+2017,9,DST,nfl,Washington Redskins,WAS,SEA,away,10.00,2.0,2,0,0,0,0,14,289,148,437
+2017,9,DST,nfl,Atlanta Falcons,ATL,CAR,away,9.00,1.0,0,0,2,0,0,20,129,201,330
+2017,9,DST,nfl,Detroit Lions,DET,GB,away,9.00,3.0,0,0,0,1,0,17,233,78,311
+2017,9,DST,nfl,San Francisco 49ers,SF,ARI,home,8.00,0.0,1,0,1,0,0,20,201,167,368
+2017,9,DST,nfl,Dallas Cowboys,DAL,KC,home,8.00,2.0,1,0,0,0,0,17,255,68,323
+2017,9,DST,nfl,Philadelphia Eagles,PHI,DEN,home,8.00,3.0,2,0,0,0,0,23,191,35,226
+2017,9,DST,nfl,Carolina Panthers,CAR,ATL,home,8.00,2.0,1,0,0,0,0,17,302,53,355
+2017,9,DST,nfl,Indianapolis Colts,IND,HOU,away,8.00,2.0,0,0,1,0,0,14,194,94,288
+2017,9,DST,nfl,Tampa Bay Buccaneers,TB,NO,away,7.00,1.0,0,0,2,1,0,30,256,151,407
+2017,9,DST,nfl,Miami Dolphins,MIA,OAK,home,6.00,1.0,1,0,1,0,0,27,295,84,379
+2017,9,DST,nfl,Baltimore Ravens,BAL,TEN,away,6.00,3.0,1,0,0,0,0,23,186,71,257
+2017,9,DST,nfl,Oakland Raiders,OAK,MIA,away,4.00,1.0,0,0,1,0,0,24,309,86,395
+2017,9,DST,nfl,Cincinnati Bengals,CIN,JAX,away,3.00,0.0,0,0,1,0,0,23,259,149,408
+2017,9,DST,nfl,Green Bay Packers,GB,DET,home,3.00,1.0,0,0,1,0,0,30,353,64,417
+2017,9,DST,nfl,Kansas City Chiefs,KC,DAL,away,1.00,1.0,0,0,0,0,0,28,244,131,375
+2017,9,DST,nfl,Buffalo Bills,BUF,NYJ,away,1.00,1.0,0,0,0,0,0,34,137,194,331
+2017,9,DST,nfl,New York Giants,NYG,LA,home,0.00,0.0,0,0,0,0,0,51,311,162,473

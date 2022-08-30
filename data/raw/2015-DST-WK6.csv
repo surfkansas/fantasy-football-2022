@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2015,6,DST,nfl,Miami Dolphins,MIA,TEN,away,27.00,6.0,2,0,2,0,1,10,236,63,299
+2015,6,DST,nfl,Philadelphia Eagles,PHI,NYG,home,22.00,3.0,2,0,1,0,1,7,166,81,247
+2015,6,DST,nfl,New Orleans Saints,NO,ATL,home,20.00,5.0,0,0,3,1,1,21,263,150,413
+2015,6,DST,nfl,Houston Texans,HOU,JAX,away,19.00,3.0,3,0,0,0,1,20,311,83,394
+2015,6,DST,nfl,Denver Broncos,DEN,CLE,away,17.00,4.0,2,0,1,0,1,23,189,109,298
+2015,6,DST,nfl,Washington Redskins,WAS,NYJ,away,14.00,0.0,1,0,2,1,1,34,253,221,474
+2015,6,DST,nfl,Pittsburgh Steelers,PIT,ARI,home,14.00,1.0,2,0,1,0,0,13,414,55,469
+2015,6,DST,nfl,Cleveland Browns,CLE,DEN,home,13.00,0.0,3,0,0,0,1,26,290,152,442
+2015,6,DST,nfl,Minnesota Vikings,MIN,KC,home,11.00,2.0,0,0,1,0,0,10,271,57,328
+2015,6,DST,nfl,Kansas City Chiefs,KC,MIN,away,10.00,2.0,2,0,0,0,0,16,237,84,321
+2015,6,DST,nfl,Indianapolis Colts,IND,NE,home,10.00,2.0,1,0,0,0,1,34,301,116,417
+2015,6,DST,nfl,New York Giants,NYG,PHI,away,10.00,1.0,3,0,1,0,0,27,270,158,428
+2015,6,DST,nfl,New York Jets,NYJ,WAS,home,9.00,1.0,2,0,0,0,0,20,191,34,225
+2015,6,DST,nfl,Green Bay Packers,GB,SD,home,9.00,3.0,0,0,1,0,0,20,488,60,548
+2015,6,DST,nfl,Chicago Bears,CHI,DET,away,8.00,2.0,1,0,2,0,0,37,391,155,546
+2015,6,DST,nfl,Seattle Seahawks,SEA,CAR,home,8.00,3.0,2,0,0,0,0,27,248,135,383
+2015,6,DST,nfl,San Francisco 49ers,SF,BAL,home,8.00,0.0,2,0,0,0,0,20,343,77,420
+2015,6,DST,nfl,New England Patriots,NE,IND,away,6.00,3.0,0,0,0,1,0,27,289,120,409
+2015,6,DST,nfl,Tennessee Titans,TEN,MIA,home,6.00,2.0,2,0,0,0,0,38,254,180,434
+2015,6,DST,nfl,Carolina Panthers,CAR,SEA,away,5.00,4.0,0,0,0,0,0,23,219,115,334
+2015,6,DST,nfl,Cincinnati Bengals,CIN,BUF,away,5.00,2.0,1,0,0,0,0,21,256,112,368
+2015,6,DST,nfl,San Diego Chargers,SD,GB,away,4.00,3.0,0,0,0,0,0,27,237,133,370
+2015,6,DST,nfl,Baltimore Ravens,BAL,SF,away,4.00,3.0,0,0,0,0,0,25,326,65,391
+2015,6,DST,nfl,Detroit Lions,DET,CHI,home,3.00,1.0,1,0,0,0,0,34,353,91,444
+2015,6,DST,nfl,Arizona Cardinals,ARI,PIT,away,2.00,1.0,0,0,0,0,0,25,169,141,310
+2015,6,DST,nfl,Jacksonville Jaguars,JAX,HOU,home,1.00,1.0,0,0,0,0,0,31,287,95,382
+2015,6,DST,nfl,Atlanta Falcons,ATL,NO,away,1.00,1.0,0,0,0,0,0,31,304,81,385
+2015,6,DST,nfl,Buffalo Bills,BUF,CIN,home,0.00,0.0,0,0,0,0,0,34,243,112,355

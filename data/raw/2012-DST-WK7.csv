@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2012,7,DST,nfl,Houston Texans,HOU,BAL,home,23.00,4.0,2,1,0,0,1,13,121,55,176
+2012,7,DST,nfl,Minnesota Vikings,MIN,ARI,home,21.00,7.0,1,0,1,0,1,14,230,126,356
+2012,7,DST,nfl,Chicago Bears,CHI,DET,home,18.00,3.0,1,0,3,0,0,7,243,97,340
+2012,7,DST,nfl,New England Patriots,NE,NYJ,home,17.00,4.0,1,1,1,0,1,26,297,106,403
+2012,7,DST,nfl,San Francisco 49ers,SF,SEA,home,14.00,2.0,1,0,0,0,0,6,115,136,251
+2012,7,DST,nfl,Detroit Lions,DET,CHI,away,14.00,5.0,0,0,0,1,0,13,125,171,296
+2012,7,DST,nfl,New York Giants,NYG,WAS,home,12.00,3.0,1,0,3,0,0,23,232,248,480
+2012,7,DST,nfl,Seattle Seahawks,SEA,SF,away,11.00,2.0,1,0,0,0,0,13,138,175,313
+2012,7,DST,nfl,Dallas Cowboys,DAL,CAR,away,10.00,2.0,1,0,1,0,0,14,216,112,328
+2012,7,DST,nfl,Cleveland Browns,CLE,IND,away,9.00,3.0,0,0,1,0,0,17,173,148,321
+2012,7,DST,nfl,Green Bay Packers,GB,STL,away,9.00,3.0,1,0,0,0,0,20,246,108,354
+2012,7,DST,nfl,Jacksonville Jaguars,JAX,OAK,away,9.00,2.0,1,0,2,0,0,26,282,69,351
+2012,7,DST,nfl,Cincinnati Bengals,CIN,PIT,home,8.00,3.0,1,0,1,0,0,24,264,167,431
+2012,7,DST,nfl,Arizona Cardinals,ARI,MIN,away,8.00,3.0,2,0,0,0,0,21,43,166,209
+2012,7,DST,nfl,Buffalo Bills,BUF,TEN,home,8.00,2.0,0,0,0,0,1,35,193,197,390
+2012,7,DST,nfl,Indianapolis Colts,IND,CLE,home,7.00,0.0,0,0,0,0,0,13,264,55,319
+2012,7,DST,nfl,Pittsburgh Steelers,PIT,CIN,away,6.00,0.0,1,0,0,0,0,17,105,80,185
+2012,7,DST,nfl,Oakland Raiders,OAK,JAX,home,6.00,3.0,0,0,1,0,0,23,155,54,209
+2012,7,DST,nfl,Carolina Panthers,CAR,DAL,home,6.00,0.0,0,0,1,0,0,19,227,85,312
+2012,7,DST,nfl,Washington Redskins,WAS,NYG,away,6.00,1.0,2,0,0,0,0,27,329,64,393
+2012,7,DST,nfl,Tennessee Titans,TEN,BUF,away,5.00,1.0,1,0,1,0,0,34,216,166,382
+2012,7,DST,nfl,St. Louis Rams,STL,GB,home,3.00,3.0,0,0,0,0,0,30,332,70,402
+2012,7,DST,nfl,New York Jets,NYJ,NE,away,3.00,1.0,0,0,1,0,0,29,250,131,381
+2012,7,DST,nfl,New Orleans Saints,NO,TB,away,2.00,2.0,0,0,0,0,0,28,411,102,513
+2012,7,DST,nfl,Baltimore Ravens,BAL,HOU,away,2.00,2.0,0,0,0,0,0,43,239,181,420
+2012,7,DST,nfl,Tampa Bay Buccaneers,TB,NO,home,2.00,0.0,1,0,0,0,0,35,377,81,458

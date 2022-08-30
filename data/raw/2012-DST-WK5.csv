@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2012,5,DST,nfl,Chicago Bears,CHI,JAX,away,31.00,3.0,2,0,1,0,2,3,129,60,189
+2012,5,DST,nfl,St. Louis Rams,STL,ARI,home,21.00,9.0,0,0,1,0,0,3,237,45,282
+2012,5,DST,nfl,Carolina Panthers,CAR,SEA,home,20.00,2.0,2,1,1,0,1,16,212,98,310
+2012,5,DST,nfl,Baltimore Ravens,BAL,KC,away,18.00,0.0,2,0,2,0,0,6,124,214,338
+2012,5,DST,nfl,Miami Dolphins,MIA,CIN,away,16.00,3.0,2,0,1,0,0,13,218,80,298
+2012,5,DST,nfl,Seattle Seahawks,SEA,CAR,away,15.00,4.0,0,0,2,0,0,12,108,82,190
+2012,5,DST,nfl,San Francisco 49ers,SF,BUF,home,15.00,1.0,1,0,1,0,0,3,115,89,204
+2012,5,DST,nfl,Kansas City Chiefs,KC,BAL,home,15.00,4.0,1,0,1,0,0,9,165,133,298
+2012,5,DST,nfl,Minnesota Vikings,MIN,TEN,home,13.00,2.0,1,0,1,0,0,7,215,52,267
+2012,5,DST,nfl,Washington Redskins,WAS,ATL,home,12.00,1.0,1,0,1,0,1,24,338,83,421
+2012,5,DST,nfl,Pittsburgh Steelers,PIT,PHI,home,11.00,3.0,0,0,2,0,0,14,168,78,246
+2012,5,DST,nfl,Atlanta Falcons,ATL,WAS,away,11.00,3.0,2,0,0,0,0,17,187,129,316
+2012,5,DST,nfl,Houston Texans,HOU,NYJ,away,11.00,3.0,2,0,0,0,0,17,217,69,286
+2012,5,DST,nfl,Cincinnati Bengals,CIN,MIA,home,10.00,2.0,0,0,2,0,0,17,211,68,279
+2012,5,DST,nfl,New Orleans Saints,NO,SD,home,10.00,5.0,1,0,1,0,0,24,310,117,427
+2012,5,DST,nfl,New England Patriots,NE,DEN,home,9.00,2.0,0,0,3,0,0,21,324,70,394
+2012,5,DST,nfl,New York Jets,NYJ,HOU,home,9.00,0.0,1,0,0,0,1,23,209,169,378
+2012,5,DST,nfl,Indianapolis Colts,IND,GB,home,8.00,5.0,1,0,0,0,0,27,207,149,356
+2012,5,DST,nfl,Arizona Cardinals,ARI,STL,away,7.00,1.0,1,0,0,0,0,17,131,111,242
+2012,5,DST,nfl,New York Giants,NYG,CLE,home,7.00,0.0,2,0,1,0,0,27,291,84,375
+2012,5,DST,nfl,Green Bay Packers,GB,IND,away,6.00,4.0,1,0,0,0,0,30,345,119,464
+2012,5,DST,nfl,Denver Broncos,DEN,NE,away,6.00,4.0,0,0,1,0,0,31,193,251,444
+2012,5,DST,nfl,San Diego Chargers,SD,NO,away,5.00,3.0,1,0,0,0,0,31,351,53,404
+2012,5,DST,nfl,Tennessee Titans,TEN,MIN,away,5.00,1.0,2,0,0,0,0,30,258,175,433
+2012,5,DST,nfl,Cleveland Browns,CLE,NYG,away,4.00,0.0,1,0,1,0,0,41,259,243,502
+2012,5,DST,nfl,Philadelphia Eagles,PHI,PIT,away,4.00,0.0,0,0,0,0,0,16,220,123,343
+2012,5,DST,nfl,Jacksonville Jaguars,JAX,CHI,home,3.00,1.0,1,0,0,0,0,41,287,214,501
+2012,5,DST,nfl,Buffalo Bills,BUF,SF,away,2.00,0.0,0,0,1,0,0,45,310,311,621

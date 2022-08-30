@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2020,9,DST,nfl,New Orleans Saints,NO,TB,away,19.00,3.0,3,0,0,0,0,3,186,8,194
+2020,9,DST,nfl,Tennessee Titans,TEN,CHI,home,17.00,3.0,0,0,2,0,1,17,319,56,375
+2020,9,DST,nfl,Baltimore Ravens,BAL,IND,away,17.00,0.0,1,0,1,0,1,10,227,112,339
+2020,9,DST,nfl,New York Giants,NYG,WAS,away,16.00,2.0,3,0,2,0,0,20,365,37,402
+2020,9,DST,nfl,Buffalo Bills,BUF,SEA,home,13.00,5.0,2,0,2,0,0,34,362,57,419
+2020,9,DST,nfl,Minnesota Vikings,MIN,DET,home,12.00,2.0,3,0,0,0,0,20,292,129,421
+2020,9,DST,nfl,Pittsburgh Steelers,PIT,DAL,away,10.00,2.0,1,0,1,0,0,19,220,144,364
+2020,9,DST,nfl,Miami Dolphins,MIA,ARI,away,9.00,1.0,0,0,1,0,1,31,264,178,442
+2020,9,DST,nfl,Green Bay Packers,GB,SF,away,9.00,1.0,1,0,1,0,0,17,282,55,337
+2020,9,DST,nfl,Seattle Seahawks,SEA,BUF,away,7.00,7.0,0,0,0,0,0,44,386,34,420
+2020,9,DST,nfl,Washington Football Team,WAS,NYG,home,6.00,5.0,0,0,0,0,0,23,184,166,350
+2020,9,DST,nfl,Detroit Lions,DET,MIN,away,5.00,1.0,0,0,0,2,0,34,212,275,487
+2020,9,DST,nfl,Jacksonville Jaguars,JAX,HOU,home,5.00,2.0,0,0,1,0,0,27,267,107,374
+2020,9,DST,nfl,Tampa Bay Buccaneers,TB,NO,home,5.00,1.0,0,0,2,0,0,38,282,138,420
+2020,9,DST,nfl,Indianapolis Colts,IND,BAL,home,5.00,2.0,0,0,1,0,0,24,156,110,266
+2020,9,DST,nfl,Las Vegas Raiders,LV,LAC,away,5.00,2.0,0,0,1,0,0,26,312,128,440
+2020,9,DST,nfl,Houston Texans,HOU,JAX,away,5.00,2.0,1,0,0,0,0,25,288,115,403
+2020,9,DST,nfl,Chicago Bears,CHI,TEN,away,4.00,3.0,0,0,0,0,0,24,136,92,228
+2020,9,DST,nfl,Carolina Panthers,CAR,KC,away,4.00,2.0,0,0,1,0,0,33,361,36,397
+2020,9,DST,nfl,Denver Broncos,DEN,ATL,away,4.00,2.0,1,0,0,0,0,34,271,92,363
+2020,9,DST,nfl,New England Patriots,NE,NYJ,away,4.00,1.0,1,0,0,0,0,27,257,65,322
+2020,9,DST,nfl,Atlanta Falcons,ATL,DEN,home,4.00,1.0,1,0,0,0,0,27,302,103,405
+2020,9,DST,nfl,Arizona Cardinals,ARI,MIA,home,3.00,3.0,0,0,0,0,0,34,221,91,312
+2020,9,DST,nfl,Los Angeles Chargers,LAC,LV,home,3.00,1.0,0,0,1,0,0,31,160,160,320
+2020,9,DST,nfl,Dallas Cowboys,DAL,PIT,home,3.00,0.0,0,0,0,1,0,24,309,46,355
+2020,9,DST,nfl,Kansas City Chiefs,KC,CAR,home,2.00,2.0,0,0,0,0,0,31,331,104,435
+2020,9,DST,nfl,San Francisco 49ers,SF,GB,home,1.00,1.0,0,0,0,0,0,34,294,111,405
+2020,9,DST,nfl,New York Jets,NYJ,NE,home,0.00,0.0,0,0,0,0,0,30,274,159,433

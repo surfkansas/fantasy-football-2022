@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2013,7,DST,nfl,Carolina Panthers,CAR,STL,home,20.00,4.0,1,0,2,0,1,15,254,63,317
+2013,7,DST,nfl,Dallas Cowboys,DAL,PHI,away,19.00,3.0,3,0,0,0,0,3,194,84,278
+2013,7,DST,nfl,San Diego Chargers,SD,JAX,away,18.00,6.0,1,0,0,0,0,6,275,78,353
+2013,7,DST,nfl,San Francisco 49ers,SF,TEN,away,17.00,3.0,1,0,1,0,1,17,298,70,368
+2013,7,DST,nfl,Buffalo Bills,BUF,MIA,away,15.00,2.0,2,0,1,0,1,21,173,120,293
+2013,7,DST,nfl,New York Giants,NYG,MIN,home,14.00,1.0,1,0,2,0,0,7,176,30,206
+2013,7,DST,nfl,New York Jets,NYJ,NE,home,13.00,4.0,1,0,0,0,1,27,205,90,295
+2013,7,DST,nfl,Atlanta Falcons,ATL,TB,home,12.00,3.0,0,0,1,0,1,23,226,111,337
+2013,7,DST,nfl,New England Patriots,NE,NYJ,away,12.00,4.0,1,0,0,0,1,30,206,177,383
+2013,7,DST,nfl,Indianapolis Colts,IND,DEN,home,12.00,4.0,1,1,2,0,0,33,365,64,429
+2013,7,DST,nfl,Seattle Seahawks,SEA,ARI,away,12.00,7.0,2,0,0,0,0,22,204,30,234
+2013,7,DST,nfl,Green Bay Packers,GB,CLE,home,12.00,3.0,1,0,0,0,0,13,133,83,216
+2013,7,DST,nfl,Kansas City Chiefs,KC,HOU,home,11.00,5.0,0,0,1,0,0,16,221,73,294
+2013,7,DST,nfl,Minnesota Vikings,MIN,NYG,away,11.00,2.0,0,0,1,0,1,23,193,64,257
+2013,7,DST,nfl,Washington Redskins,WAS,CHI,home,10.00,2.0,1,0,0,0,1,41,219,140,359
+2013,7,DST,nfl,Houston Texans,HOU,KC,away,10.00,2.0,1,0,1,0,0,17,231,126,357
+2013,7,DST,nfl,Philadelphia Eagles,PHI,DAL,home,10.00,2.0,2,0,0,0,0,17,294,74,368
+2013,7,DST,nfl,Chicago Bears,CHI,WAS,away,9.00,1.0,1,0,0,0,1,45,290,209,499
+2013,7,DST,nfl,Baltimore Ravens,BAL,PIT,away,9.00,3.0,0,0,1,0,0,19,145,141,286
+2013,7,DST,nfl,Arizona Cardinals,ARI,SEA,home,7.00,3.0,0,0,2,0,0,34,209,135,344
+2013,7,DST,nfl,Miami Dolphins,MIA,BUF,home,7.00,4.0,1,0,0,0,0,23,178,90,268
+2013,7,DST,nfl,Pittsburgh Steelers,PIT,BAL,home,5.00,1.0,0,0,0,0,0,16,205,82,287
+2013,7,DST,nfl,Denver Broncos,DEN,IND,away,4.00,2.0,0,0,1,0,0,39,213,121,334
+2013,7,DST,nfl,St. Louis Rams,STL,CAR,away,4.00,2.0,0,1,0,0,0,30,180,102,282
+2013,7,DST,nfl,Cincinnati Bengals,CIN,DET,away,3.00,0.0,0,0,0,1,0,24,357,77,434
+2013,7,DST,nfl,Detroit Lions,DET,CIN,home,2.00,1.0,0,0,0,0,0,27,364,57,421
+2013,7,DST,nfl,Tennessee Titans,TEN,SF,home,2.00,2.0,0,0,0,0,0,31,196,153,349
+2013,7,DST,nfl,Jacksonville Jaguars,JAX,SD,home,2.00,1.0,0,0,0,0,0,24,276,158,434
+2013,7,DST,nfl,Tampa Bay Buccaneers,TB,ATL,away,2.00,0.0,0,0,1,0,0,31,273,18,291
+2013,7,DST,nfl,Cleveland Browns,CLE,GB,away,1.00,1.0,0,0,0,0,0,31,253,104,357

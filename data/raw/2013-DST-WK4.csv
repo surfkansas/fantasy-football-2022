@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2013,4,DST,nfl,Indianapolis Colts,IND,JAX,away,26.00,4.0,3,0,0,0,1,3,165,40,205
+2013,4,DST,nfl,Tennessee Titans,TEN,NYJ,home,26.00,5.0,2,0,2,0,1,13,239,91,330
+2013,4,DST,nfl,Washington Redskins,WAS,OAK,away,23.00,7.0,1,0,2,0,1,14,194,104,298
+2013,4,DST,nfl,Kansas City Chiefs,KC,NYG,home,22.00,3.0,1,0,2,0,1,7,200,98,298
+2013,4,DST,nfl,Denver Broncos,DEN,PHI,home,21.00,3.0,0,0,0,1,2,20,284,166,450
+2013,4,DST,nfl,Seattle Seahawks,SEA,HOU,away,20.00,4.0,2,0,1,0,1,20,325,151,476
+2013,4,DST,nfl,Buffalo Bills,BUF,BAL,home,18.00,4.0,5,0,0,0,0,20,321,24,345
+2013,4,DST,nfl,Detroit Lions,DET,CHI,home,17.00,3.0,3,0,1,0,1,32,286,131,417
+2013,4,DST,nfl,Cleveland Browns,CLE,CIN,home,16.00,2.0,1,0,1,0,0,6,203,63,266
+2013,4,DST,nfl,San Francisco 49ers,SF,STL,away,16.00,5.0,1,0,1,0,0,11,170,18,188
+2013,4,DST,nfl,New Orleans Saints,NO,MIA,home,16.00,4.0,3,0,1,0,0,17,216,115,331
+2013,4,DST,nfl,Arizona Cardinals,ARI,TB,away,15.00,2.0,2,0,1,0,0,10,173,80,253
+2013,4,DST,nfl,Tampa Bay Buccaneers,TB,ARI,home,14.00,1.0,2,0,1,0,0,13,240,56,296
+2013,4,DST,nfl,Oakland Raiders,OAK,WAS,home,12.00,1.0,0,0,1,1,1,24,217,122,339
+2013,4,DST,nfl,Minnesota Vikings,MIN,PIT,home,10.00,5.0,1,0,1,0,0,27,357,77,434
+2013,4,DST,nfl,Houston Texans,HOU,SEA,home,10.00,5.0,1,0,1,0,0,23,91,179,270
+2013,4,DST,nfl,Dallas Cowboys,DAL,SD,away,9.00,1.0,1,0,0,0,1,30,394,112,506
+2013,4,DST,nfl,Baltimore Ravens,BAL,BUF,away,9.00,2.0,2,0,1,0,0,23,147,203,350
+2013,4,DST,nfl,Cincinnati Bengals,CIN,CLE,away,9.00,3.0,0,0,0,1,0,17,247,89,336
+2013,4,DST,nfl,New York Giants,NYG,KC,away,7.00,1.0,2,0,1,0,0,31,288,102,390
+2013,4,DST,nfl,Chicago Bears,CHI,DET,away,7.00,1.0,1,0,2,0,0,40,228,159,387
+2013,4,DST,nfl,San Diego Chargers,SD,DAL,home,6.00,3.0,0,0,1,0,0,21,227,92,319
+2013,4,DST,nfl,St. Louis Rams,STL,SF,home,6.00,2.0,0,0,2,0,0,35,151,219,370
+2013,4,DST,nfl,New England Patriots,NE,ATL,away,5.00,2.0,1,0,0,0,0,23,399,58,457
+2013,4,DST,nfl,Jacksonville Jaguars,JAX,IND,home,4.00,2.0,1,0,0,0,0,37,280,157,437
+2013,4,DST,nfl,Miami Dolphins,MIA,NO,away,4.00,2.0,0,0,1,0,0,38,397,68,465
+2013,4,DST,nfl,New York Jets,NYJ,TEN,away,2.00,2.0,0,0,0,0,0,38,244,78,322
+2013,4,DST,nfl,Philadelphia Eagles,PHI,DEN,away,1.00,1.0,0,0,0,0,0,52,331,141,472
+2013,4,DST,nfl,Pittsburgh Steelers,PIT,MIN,away,1.00,1.0,0,0,0,0,0,34,248,145,393
+2013,4,DST,nfl,Atlanta Falcons,ATL,NE,home,0.00,0.0,0,0,0,0,0,30,316,132,448

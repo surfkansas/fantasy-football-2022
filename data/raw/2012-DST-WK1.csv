@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2012,1,DST,nfl,Cleveland Browns,CLE,PHI,home,22.00,2.0,4,0,1,0,1,17,306,150,456
+2012,1,DST,nfl,Baltimore Ravens,BAL,CIN,home,21.00,4.0,1,0,1,0,1,13,193,129,322
+2012,1,DST,nfl,New York Jets,NYJ,BUF,home,20.00,0.0,3,0,1,0,2,28,195,195,390
+2012,1,DST,nfl,New England Patriots,NE,TEN,away,19.00,2.0,1,0,1,0,1,13,264,20,284
+2012,1,DST,nfl,Denver Broncos,DEN,PIT,home,17.00,5.0,1,0,0,0,1,19,209,75,284
+2012,1,DST,nfl,Houston Texans,HOU,MIA,home,17.00,2.0,3,0,1,0,0,10,199,76,275
+2012,1,DST,nfl,Tampa Bay Buccaneers,TB,CAR,home,16.00,3.0,2,0,0,1,0,10,291,10,301
+2012,1,DST,nfl,St. Louis Rams,STL,DET,away,14.00,1.0,3,0,0,0,1,27,346,83,429
+2012,1,DST,nfl,Chicago Bears,CHI,IND,home,14.00,3.0,3,0,2,0,0,21,293,63,356
+2012,1,DST,nfl,Philadelphia Eagles,PHI,CLE,away,14.00,2.0,4,0,0,0,0,16,111,99,210
+2012,1,DST,nfl,Arizona Cardinals,ARI,SEA,home,13.00,3.0,1,0,1,1,0,16,139,115,254
+2012,1,DST,nfl,San Diego Chargers,SD,OAK,away,11.00,3.0,0,0,1,1,0,14,276,45,321
+2012,1,DST,nfl,Atlanta Falcons,ATL,KC,away,10.00,3.0,2,0,1,0,0,24,241,152,393
+2012,1,DST,nfl,New Orleans Saints,NO,WAS,home,10.00,2.0,0,0,0,1,1,40,306,153,459
+2012,1,DST,nfl,Indianapolis Colts,IND,CHI,away,10.00,2.0,1,0,0,0,1,41,314,114,428
+2012,1,DST,nfl,Green Bay Packers,GB,SF,home,10.00,4.0,0,0,0,0,1,30,191,186,377
+2012,1,DST,nfl,Seattle Seahawks,SEA,ARI,away,9.00,1.0,1,0,1,0,0,20,210,43,253
+2012,1,DST,nfl,Dallas Cowboys,DAL,NYG,away,9.00,3.0,0,0,1,0,0,17,187,82,269
+2012,1,DST,nfl,Washington Redskins,WAS,NO,away,8.00,2.0,2,0,1,0,0,32,326,32,358
+2012,1,DST,nfl,Miami Dolphins,MIA,HOU,away,8.00,2.0,0,0,0,0,1,30,254,83,337
+2012,1,DST,nfl,Minnesota Vikings,MIN,JAX,home,7.00,2.0,0,0,1,1,0,23,242,113,355
+2012,1,DST,nfl,Carolina Panthers,CAR,TB,away,6.00,2.0,0,0,0,0,0,16,128,130,258
+2012,1,DST,nfl,San Francisco 49ers,SF,GB,away,6.00,3.0,1,0,0,0,0,22,279,45,324
+2012,1,DST,nfl,New York Giants,NYG,DAL,home,5.00,2.0,1,0,0,0,0,24,290,143,433
+2012,1,DST,nfl,Detroit Lions,DET,STL,home,5.00,4.0,0,0,0,0,0,23,173,77,250
+2012,1,DST,nfl,Jacksonville Jaguars,JAX,MIN,away,5.00,2.0,0,0,1,0,0,26,266,123,389
+2012,1,DST,nfl,Pittsburgh Steelers,PIT,DEN,away,4.00,2.0,0,0,1,0,0,31,240,94,334
+2012,1,DST,nfl,Cincinnati Bengals,CIN,BAL,away,3.00,3.0,0,0,0,0,0,44,308,122,430
+2012,1,DST,nfl,Oakland Raiders,OAK,SD,home,2.00,1.0,0,0,0,0,0,22,226,32,258
+2012,1,DST,nfl,Buffalo Bills,BUF,NYJ,away,2.00,0.0,1,0,0,0,0,48,266,118,384
+2012,1,DST,nfl,Kansas City Chiefs,KC,ATL,home,1.00,1.0,0,0,0,0,0,40,292,84,376
+2012,1,DST,nfl,Tennessee Titans,TEN,NE,home,1.00,1.0,0,0,0,0,0,34,228,162,390

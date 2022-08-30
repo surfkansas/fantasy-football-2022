@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2014,17,DST,nfl,Carolina Panthers,CAR,ATL,away,34.00,6.0,2,0,1,0,2,3,225,63,288
+2014,17,DST,nfl,Seattle Seahawks,SEA,STL,home,26.00,4.0,2,0,1,0,1,6,203,42,245
+2014,17,DST,nfl,Dallas Cowboys,DAL,WAS,away,21.00,3.0,2,0,2,0,1,17,309,104,413
+2014,17,DST,nfl,Kansas City Chiefs,KC,SD,home,20.00,7.0,2,0,1,0,0,7,249,112,361
+2014,17,DST,nfl,Pittsburgh Steelers,PIT,CIN,home,19.00,3.0,2,0,1,0,1,17,221,116,337
+2014,17,DST,nfl,Denver Broncos,DEN,OAK,home,17.00,3.0,1,0,1,0,1,14,132,67,199
+2014,17,DST,nfl,Green Bay Packers,GB,DET,home,16.00,2.0,0,1,1,0,1,20,202,111,313
+2014,17,DST,nfl,Baltimore Ravens,BAL,CLE,home,15.00,4.0,1,0,1,0,0,10,150,109,259
+2014,17,DST,nfl,Jacksonville Jaguars,JAX,HOU,away,14.00,3.0,1,0,1,0,1,23,235,123,358
+2014,17,DST,nfl,Indianapolis Colts,IND,TEN,away,13.00,4.0,0,0,1,0,0,10,50,142,192
+2014,17,DST,nfl,Chicago Bears,CHI,MIN,away,12.00,3.0,1,0,0,0,0,13,190,121,311
+2014,17,DST,nfl,San Francisco 49ers,SF,ARI,home,12.00,2.0,3,0,0,0,0,17,299,98,397
+2014,17,DST,nfl,Houston Texans,HOU,JAX,home,11.00,5.0,0,1,0,0,0,17,112,121,233
+2014,17,DST,nfl,New Orleans Saints,NO,TB,away,11.00,3.0,1,1,0,0,0,20,97,183,280
+2014,17,DST,nfl,St. Louis Rams,STL,SEA,away,11.00,3.0,1,0,1,0,0,20,222,132,354
+2014,17,DST,nfl,Philadelphia Eagles,PHI,NYG,away,11.00,0.0,1,0,0,1,1,26,429,76,505
+2014,17,DST,nfl,Buffalo Bills,BUF,NE,away,11.00,4.0,0,0,0,0,0,9,144,116,260
+2014,17,DST,nfl,New York Jets,NYJ,MIA,away,10.00,7.0,0,0,1,0,0,24,208,179,387
+2014,17,DST,nfl,Tampa Bay Buccaneers,TB,NO,home,9.00,2.0,3,0,0,0,0,23,268,70,338
+2014,17,DST,nfl,Oakland Raiders,OAK,DEN,away,9.00,1.0,0,0,1,0,1,47,309,142,451
+2014,17,DST,nfl,Minnesota Vikings,MIN,CHI,home,9.00,2.0,0,0,0,0,0,9,165,99,264
+2014,17,DST,nfl,San Diego Chargers,SD,KC,away,8.00,4.0,0,0,0,0,0,19,140,111,251
+2014,17,DST,nfl,New England Patriots,NE,BUF,home,8.00,2.0,0,0,1,0,0,17,164,104,268
+2014,17,DST,nfl,Cincinnati Bengals,CIN,PIT,away,7.00,0.0,2,0,1,0,0,27,317,29,346
+2014,17,DST,nfl,Detroit Lions,DET,GB,away,7.00,1.0,0,0,2,1,0,30,225,152,377
+2014,17,DST,nfl,New York Giants,NYG,PHI,home,6.00,4.0,1,0,0,0,0,34,262,164,426
+2014,17,DST,nfl,Cleveland Browns,CLE,BAL,away,5.00,1.0,0,0,0,0,0,20,290,129,419
+2014,17,DST,nfl,Arizona Cardinals,ARI,SF,away,5.00,1.0,0,0,0,0,0,20,189,206,395
+2014,17,DST,nfl,Miami Dolphins,MIA,NYJ,home,3.00,1.0,0,0,1,0,0,37,390,104,494
+2014,17,DST,nfl,Tennessee Titans,TEN,IND,home,2.00,1.0,0,0,0,0,0,27,314,64,378
+2014,17,DST,nfl,Washington Redskins,WAS,DAL,home,2.00,0.0,1,0,0,0,0,44,299,174,473
+2014,17,DST,nfl,Atlanta Falcons,ATL,CAR,home,1.00,1.0,0,0,0,0,0,34,112,194,306

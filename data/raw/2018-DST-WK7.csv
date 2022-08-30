@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2018,7,DST,nfl,Denver Broncos,DEN,ARI,away,35.00,6.0,3,0,2,0,2,10,154,69,223
+2018,7,DST,nfl,Los Angeles Rams,LA,SF,away,26.00,7.0,2,1,2,1,0,10,121,107,228
+2018,7,DST,nfl,Indianapolis Colts,IND,BUF,home,22.00,2.0,3,0,2,0,0,5,168,135,303
+2018,7,DST,nfl,New England Patriots,NE,CHI,away,20.00,2.0,2,0,0,1,2,31,319,134,453
+2018,7,DST,nfl,Washington Redskins,WAS,DAL,home,18.00,4.0,0,0,2,0,1,17,250,73,323
+2018,7,DST,nfl,Houston Texans,HOU,JAX,away,17.00,4.0,1,0,2,0,0,7,189,70,259
+2018,7,DST,nfl,Kansas City Chiefs,KC,CIN,home,17.00,2.0,1,0,0,0,1,10,174,65,239
+2018,7,DST,nfl,Cleveland Browns,CLE,TB,away,15.00,4.0,2,1,2,0,0,26,342,114,456
+2018,7,DST,nfl,Minnesota Vikings,MIN,NYJ,away,15.00,3.0,3,0,1,0,0,17,192,71,263
+2018,7,DST,nfl,Carolina Panthers,CAR,PHI,away,10.00,4.0,0,0,1,0,0,17,284,58,342
+2018,7,DST,nfl,Tampa Bay Buccaneers,TB,CLE,home,8.00,5.0,0,0,1,0,0,23,186,119,305
+2018,7,DST,nfl,Atlanta Falcons,ATL,NYG,home,8.00,4.0,0,0,0,0,0,20,372,61,433
+2018,7,DST,nfl,Los Angeles Chargers,LAC,TEN,home,8.00,2.0,1,0,0,0,0,19,226,164,390
+2018,7,DST,nfl,Chicago Bears,CHI,NE,home,7.00,1.0,1,0,2,0,0,38,273,108,381
+2018,7,DST,nfl,New York Giants,NYG,ATL,away,6.00,3.0,0,0,1,0,0,23,356,67,423
+2018,7,DST,nfl,Tennessee Titans,TEN,LAC,away,6.00,2.0,0,0,0,0,0,20,297,47,344
+2018,7,DST,nfl,Detroit Lions,DET,MIA,away,5.00,4.0,0,0,0,0,0,21,215,107,322
+2018,7,DST,nfl,Jacksonville Jaguars,JAX,HOU,home,5.00,1.0,0,0,0,0,0,20,131,141,272
+2018,7,DST,nfl,Dallas Cowboys,DAL,WAS,away,5.00,1.0,0,0,0,0,0,20,175,130,305
+2018,7,DST,nfl,Baltimore Ravens,BAL,NO,home,4.00,1.0,0,0,1,0,0,24,205,134,339
+2018,7,DST,nfl,Cincinnati Bengals,CIN,KC,away,4.00,2.0,1,0,0,0,0,45,353,198,551
+2018,7,DST,nfl,Arizona Cardinals,ARI,DEN,home,4.00,2.0,1,0,0,0,0,45,178,131,309
+2018,7,DST,nfl,Philadelphia Eagles,PHI,CAR,home,3.00,2.0,0,0,0,0,0,21,250,121,371
+2018,7,DST,nfl,New Orleans Saints,NO,BAL,away,2.00,1.0,0,0,0,0,0,23,274,77,351
+2018,7,DST,nfl,Buffalo Bills,BUF,IND,away,2.00,0.0,0,1,0,0,0,37,156,220,376
+2018,7,DST,nfl,New York Jets,NYJ,MIN,home,1.00,1.0,0,0,0,0,0,37,228,88,316
+2018,7,DST,nfl,Miami Dolphins,MIA,DET,home,1.00,1.0,0,0,0,0,0,32,209,248,457
+2018,7,DST,nfl,San Francisco 49ers,SF,LA,home,1.00,1.0,0,0,0,0,0,39,193,146,339

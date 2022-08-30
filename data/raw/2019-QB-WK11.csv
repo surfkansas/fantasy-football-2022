@@ -1,0 +1,36 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pass_attempts,pass_completions,pass_yards,pass_touchdowns,pass_interceptions,pass_2points,rush_attempts,rush_yards,rush_touchdowns,rush_2points,receptions,reception_yards,reception_touchdowns,reception_2points,fumbles_lost,fumble_recovery_touchdowns
+2019,11,QB,josh-allen-allenjo06,Josh Allen,BUF,MIA,away,39.00,33,21,256,3,0,0,7,56,1,0,0,0,0,0,0,0
+2019,11,QB,lamar-jackson-jacksla06,Lamar Jackson,BAL,HOU,home,39.00,24,17,222,4,0,0,10,79,0,0,0,0,0,0,0,0
+2019,11,QB,jimmy-garoppolo-garopji01,Jimmy Garoppolo,SF,ARI,home,36.00,45,34,424,4,2,0,1,7,0,0,0,0,0,0,0,0
+2019,11,QB,dak-prescott-prescda01,Dak Prescott,DAL,DET,away,36.00,46,29,444,3,0,0,6,18,0,0,0,0,0,0,0,0
+2019,11,QB,sam-darnold-darnosa01,Sam Darnold,NYJ,WAS,away,33.00,30,19,293,4,1,0,2,-3,0,0,0,0,0,0,0,0
+2019,11,QB,jeff-driskel-driskje01,Jeff Driskel,DAL,DET,away,31.00,26,15,209,2,0,0,8,51,1,0,0,0,0,0,0,0
+2019,11,QB,kyler-murray-murraky01,Kyler Murray,ARI,SF,away,30.00,33,24,150,2,0,0,8,67,1,0,0,0,0,0,0,0
+2019,11,QB,kirk-cousins-cousiki01,Kirk Cousins,MIN,DEN,home,29.00,35,29,319,3,0,0,2,1,0,0,0,0,0,0,1,0
+2019,11,QB,drew-brees-breesdr01,Drew Brees,NO,TB,away,27.00,35,28,228,3,0,0,3,0,0,0,0,0,0,0,0,0
+2019,11,QB,baker-mayfield-mayfiba01,Baker Mayfield,CLE,PIT,home,25.00,32,17,193,2,0,0,1,1,1,0,0,0,0,0,0,0
+2019,11,QB,derek-carr-carrde03,Derek Carr,OAK,CIN,home,21.00,29,25,292,1,1,0,5,1,1,0,0,0,0,0,0,0
+2019,11,QB,nick-foles-folesni01,Nick Foles,JAX,IND,away,21.00,47,33,296,2,1,0,0,0,0,0,0,0,0,0,0,0
+2019,11,QB,dwayne-haskins-haskidw01,Dwayne Haskins,WAS,NYJ,home,20.00,35,19,214,2,1,1,4,5,0,0,0,0,0,0,0,0
+2019,11,QB,matt-ryan-ryanma01,Matt Ryan,ATL,CAR,away,18.00,31,21,311,1,0,0,2,0,0,0,0,0,0,0,0,0
+2019,11,QB,jameis-winston-winstja01,Jameis Winston,TB,NO,home,18.00,51,30,313,2,4,0,2,23,0,0,0,0,0,0,0,0
+2019,11,QB,jacoby-brissett-brissja01,Jacoby Brissett,IND,JAX,home,16.00,24,15,148,1,1,0,2,12,1,0,0,0,0,0,0,0
+2019,11,QB,patrick-mahomes-mahompa01,Patrick Mahomes,KC,LAC,away,16.00,32,19,182,1,1,0,5,59,0,0,0,0,0,0,0,0
+2019,11,QB,brandon-allen-allenbr04,Brandon Allen,DEN,MIN,away,14.00,39,17,240,1,1,0,3,18,0,0,0,0,0,0,0,0
+2019,11,QB,philip-rivers-riverph01,Philip Rivers,LAC,KC,home,14.00,52,28,353,1,4,1,0,0,0,0,0,0,0,0,0,0
+2019,11,QB,carson-wentz-wentzca02,Carson Wentz,PHI,NE,home,14.00,40,20,214,1,0,0,3,17,0,0,0,0,0,0,1,0
+2019,11,QB,ryan-fitzpatrick-fitzpry01,Ryan Fitzpatrick,MIA,BUF,home,12.00,45,32,323,0,0,0,1,0,0,0,0,0,0,0,0,0
+2019,11,QB,mitchell-trubisky-trubimi01,Mitchell Trubisky,CHI,LA,away,11.00,43,24,190,1,1,0,1,4,0,0,0,0,0,0,0,0
+2019,11,QB,tom-brady-bradyto01,Tom Brady,NE,PHI,away,8.00,47,26,216,0,0,0,1,-1,0,0,0,0,0,0,0,0
+2019,11,QB,mason-rudolph-rudolma02,Mason Rudolph,PIT,CLE,away,7.00,44,23,221,1,4,0,2,15,0,0,0,0,0,0,0,0
+2019,11,QB,kyle-allen-allenky01,Kyle Allen,CAR,ATL,home,5.00,50,31,325,0,4,0,1,7,0,0,0,0,0,0,0,0
+2019,11,QB,ryan-finley-finlery01,Ryan Finley,CIN,OAK,away,5.00,31,13,115,0,1,0,3,47,0,0,0,0,0,0,1,0
+2019,11,QB,jared-goff-goffja01,Jared Goff,LA,CHI,home,4.00,18,11,173,0,1,0,3,3,0,0,0,0,0,0,0,0
+2019,11,QB,deshaun-watson-watsode03,Deshaun Watson,HOU,BAL,away,4.00,29,18,169,0,1,0,3,12,0,0,0,0,0,0,1,0
+2019,11,QB,chase-daniel-daniech01,Chase Daniel,CHI,LA,away,0.00,4,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,11,QB,garrett-gilbert-gilbega02,Garrett Gilbert,CLE,PIT,home,0.00,0,0,0,0,0,0,1,-1,0,0,0,0,0,0,0,0
+2019,11,QB,robert-griffin-griffro02,Robert Griffin III,BAL,HOU,home,0.00,2,2,15,0,0,0,1,-1,0,0,0,0,0,0,0,0
+2019,11,QB,taysom-hill-hillta01,Taysom Hill,NO,TB,away,0.00,0,0,0,0,0,0,1,2,0,0,1,2,0,0,0,0
+2019,11,QB,brian-hoyer-hoyerbr01,Brian Hoyer,JAX,IND,away,0.00,0,0,0,0,0,0,2,-2,0,0,0,0,0,0,0,0
+2019,11,QB,aj-mccarron-mccaraj01,A.J. McCarron,HOU,BAL,away,0.00,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,11,QB,matt-schaub-schauma01,Matt Schaub,ATL,CAR,away,0.00,0,0,0,0,0,0,1,-1,0,0,0,0,0,0,0,0

@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pat_attempts,pat_made,field_goal_att,field_goal_made,field_goal_made_50_yards
+2014,4,K,blair-walsh-walshbl01,Blair Walsh,MIN,ATL,home,17.00,3,3,5,4,1
+2014,4,K,phil-dawson-dawsoph01,Phil Dawson,SF,PHI,home,16.00,2,2,4,4,1
+2014,4,K,randy-bullock-bullora01,Randy Bullock,HOU,BUF,home,15.00,2,2,3,3,2
+2014,4,K,nick-novak-novakni01,Nick Novak,SD,JAX,home,15.00,3,3,4,4,0
+2014,4,K,patrick-murray-murrapa02,Patrick Murray,TB,PIT,away,11.00,3,3,2,2,1
+2014,4,K,cairo-santos-santoca01,Cairo Santos,KC,NE,home,11.00,5,5,2,2,0
+2014,4,K,adam-vinatieri-vinatad01,Adam Vinatieri,IND,TEN,home,11.00,5,5,2,2,0
+2014,4,K,dan-bailey-baileda04,Dan Bailey,DAL,NO,home,10.00,5,5,1,1,1
+2014,4,K,mason-crosby-crosbma01,Mason Crosby,GB,CHI,away,10.00,5,5,2,1,1
+2014,4,K,josh-brown-brownjo05,Josh Brown,NYG,WAS,away,9.00,6,6,1,1,0
+2014,4,K,alex-henery-heneral01,Alex Henery,DET,NYJ,away,8.00,3,3,2,1,1
+2014,4,K,caleb-sturgis-sturgca01,Caleb Sturgis,MIA,OAK,away,8.00,5,5,1,1,0
+2014,4,K,justin-tucker-tuckeju01,Justin Tucker,BAL,CAR,home,8.00,5,5,2,1,0
+2014,4,K,shaun-suisham-suishsh01,Shaun Suisham,PIT,TB,home,6.00,3,3,2,1,0
+2014,4,K,dan-carpenter-carpeda01,Dan Carpenter,BUF,HOU,away,5.00,2,2,1,1,0
+2014,4,K,nick-folk-folkni01,Nick Folk,NYJ,DET,home,5.00,2,2,1,1,0
+2014,4,K,robbie-gould-gouldro01,Robbie Gould,CHI,GB,home,5.00,2,2,1,1,0
+2014,4,K,shayne-graham-grahash01,Shayne Graham,NO,DAL,away,5.00,2,2,2,1,0
+2014,4,K,ryan-succop-succory01,Ryan Succop,TEN,IND,away,5.00,2,2,1,1,0
+2014,4,K,matt-bryant-bryanma01,Matt Bryant,ATL,MIN,away,4.00,4,4,0,0,0
+2014,4,K,graham-gano-ganogr01,Graham Gano,CAR,BAL,away,4.00,1,1,1,1,0
+2014,4,K,cody-parkey-parkeco02,Cody Parkey,PHI,SF,away,3.00,3,3,0,0,0
+2014,4,K,kai-forbath-forbaka01,Kai Forbath,WAS,NYG,home,2.00,2,2,0,0,0
+2014,4,K,stephen-gostkowski-gostkst01,Stephen Gostkowski,NE,KC,away,2.00,2,2,0,0,0
+2014,4,K,sebastian-janikowski-janikse01,Sebastian Janikowski,OAK,MIA,home,2.00,2,2,0,0,0
+2014,4,K,josh-scobee-scobejo02,Josh Scobee,JAX,SD,away,2.00,2,2,0,0,0

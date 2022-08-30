@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2020,8,DST,nfl,Miami Dolphins,MIA,LA,home,26.00,2.0,2,0,2,0,2,17,340,131,471
+2020,8,DST,nfl,Philadelphia Eagles,PHI,DAL,home,23.00,4.0,0,1,2,0,1,9,132,133,265
+2020,8,DST,nfl,Pittsburgh Steelers,PIT,BAL,away,19.00,4.0,2,0,2,0,1,24,192,265,457
+2020,8,DST,nfl,Indianapolis Colts,IND,DET,away,16.00,5.0,1,0,1,0,1,21,297,29,326
+2020,8,DST,nfl,Dallas Cowboys,DAL,PHI,away,13.00,4.0,2,0,2,0,0,23,103,119,222
+2020,8,DST,nfl,Kansas City Chiefs,KC,NYJ,home,12.00,1.0,0,0,1,1,0,9,128,93,221
+2020,8,DST,nfl,Las Vegas Raiders,LV,CLE,away,12.00,0.0,0,0,1,0,0,6,122,101,223
+2020,8,DST,nfl,Atlanta Falcons,ATL,CAR,away,9.00,3.0,1,0,0,0,0,17,157,147,304
+2020,8,DST,nfl,Tampa Bay Buccaneers,TB,NYG,away,8.00,3.0,2,0,0,0,0,23,256,101,357
+2020,8,DST,nfl,New Orleans Saints,NO,CHI,away,8.00,5.0,1,0,0,0,0,23,233,96,329
+2020,8,DST,nfl,Seattle Seahawks,SEA,SF,home,8.00,3.0,1,0,1,0,0,27,299,52,351
+2020,8,DST,nfl,Cincinnati Bengals,CIN,TEN,home,7.00,1.0,1,0,0,0,0,20,223,218,441
+2020,8,DST,nfl,Denver Broncos,DEN,LAC,home,6.00,2.0,2,0,0,0,0,30,275,210,485
+2020,8,DST,nfl,Cleveland Browns,CLE,LV,home,6.00,2.0,0,0,0,0,0,16,100,209,309
+2020,8,DST,nfl,New York Giants,NYG,TB,home,5.00,2.0,0,0,1,0,0,25,263,81,344
+2020,8,DST,nfl,Carolina Panthers,CAR,ATL,home,5.00,2.0,1,0,0,0,0,25,270,131,401
+2020,8,DST,nfl,Los Angeles Rams,LA,MIA,away,5.00,1.0,0,0,2,0,0,28,90,55,145
+2020,8,DST,nfl,Buffalo Bills,BUF,NE,home,5.00,2.0,0,0,1,0,0,21,161,188,349
+2020,8,DST,nfl,Minnesota Vikings,MIN,GB,away,4.00,1.0,0,0,1,0,0,22,291,109,400
+2020,8,DST,nfl,Detroit Lions,DET,IND,home,4.00,2.0,0,0,0,1,0,41,247,119,366
+2020,8,DST,nfl,Los Angeles Chargers,LAC,DEN,away,4.00,2.0,1,0,0,0,0,31,243,108,351
+2020,8,DST,nfl,New England Patriots,NE,BUF,away,4.00,1.0,1,0,0,0,0,24,149,190,339
+2020,8,DST,nfl,Baltimore Ravens,BAL,PIT,home,4.00,2.0,0,0,1,0,0,28,173,48,221
+2020,8,DST,nfl,San Francisco 49ers,SF,SEA,away,2.00,2.0,0,0,0,0,0,37,249,101,350
+2020,8,DST,nfl,Chicago Bears,CHI,NO,home,2.00,1.0,0,0,0,0,0,26,272,122,394
+2020,8,DST,nfl,Green Bay Packers,GB,MIN,home,1.00,1.0,0,0,0,0,0,28,151,173,324
+2020,8,DST,nfl,New York Jets,NYJ,KC,away,0.00,0.0,0,0,0,0,0,35,446,50,496
+2020,8,DST,nfl,Tennessee Titans,TEN,CIN,away,0.00,0.0,0,0,0,0,0,31,249,118,367

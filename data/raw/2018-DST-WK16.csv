@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2018,16,DST,nfl,Baltimore Ravens,BAL,LAC,away,23.00,4.0,2,0,1,0,1,10,147,51,198
+2018,16,DST,nfl,Jacksonville Jaguars,JAX,MIA,away,20.00,3.0,1,0,1,0,1,7,121,62,183
+2018,16,DST,nfl,Dallas Cowboys,DAL,TB,home,17.00,3.0,0,0,2,0,1,20,320,63,383
+2018,16,DST,nfl,Atlanta Falcons,ATL,CAR,away,17.00,2.0,3,0,1,0,0,10,295,141,436
+2018,16,DST,nfl,Tennessee Titans,TEN,WAS,home,16.00,2.0,2,0,0,0,1,16,131,161,292
+2018,16,DST,nfl,Oakland Raiders,OAK,DEN,home,15.00,1.0,2,0,0,0,1,14,200,100,300
+2018,16,DST,nfl,New England Patriots,NE,BUF,home,13.00,0.0,2,0,1,0,0,12,217,72,289
+2018,16,DST,nfl,New York Jets,NYJ,GB,home,12.00,4.0,0,0,1,0,1,44,413,127,540
+2018,16,DST,nfl,Miami Dolphins,MIA,JAX,home,12.00,6.0,0,0,1,0,0,17,118,126,244
+2018,16,DST,nfl,San Francisco 49ers,SF,CHI,home,11.00,3.0,0,0,2,0,0,14,235,90,325
+2018,16,DST,nfl,Los Angeles Rams,LA,ARI,away,11.00,4.0,0,0,0,0,0,9,159,104,263
+2018,16,DST,nfl,Minnesota Vikings,MIN,DET,away,10.00,3.0,0,0,0,0,0,9,137,86,223
+2018,16,DST,nfl,Chicago Bears,CHI,SF,away,10.00,1.0,1,0,0,0,0,9,232,47,279
+2018,16,DST,nfl,Buffalo Bills,BUF,NE,away,8.00,1.0,2,0,1,0,0,24,117,273,390
+2018,16,DST,nfl,Houston Texans,HOU,PHI,away,7.00,1.0,1,0,2,0,0,32,462,57,519
+2018,16,DST,nfl,Cleveland Browns,CLE,CIN,home,7.00,3.0,0,0,0,0,0,18,107,102,209
+2018,16,DST,nfl,New Orleans Saints,NO,PIT,home,7.00,3.0,0,0,2,0,0,28,364,65,429
+2018,16,DST,nfl,Carolina Panthers,CAR,ATL,home,6.00,1.0,0,0,2,0,0,24,233,194,427
+2018,16,DST,nfl,Los Angeles Chargers,LAC,BAL,home,6.00,3.0,0,0,1,0,0,22,202,159,361
+2018,16,DST,nfl,Pittsburgh Steelers,PIT,NO,away,6.00,2.0,1,0,0,1,0,31,313,57,370
+2018,16,DST,nfl,Philadelphia Eagles,PHI,HOU,home,6.00,4.0,0,0,1,0,0,30,309,62,371
+2018,16,DST,nfl,Seattle Seahawks,SEA,KC,home,5.00,1.0,0,0,2,0,0,31,265,154,419
+2018,16,DST,nfl,Washington Redskins,WAS,TEN,away,4.00,3.0,0,0,0,0,0,25,192,99,291
+2018,16,DST,nfl,Arizona Cardinals,ARI,LA,home,4.00,2.0,0,0,1,0,0,31,192,269,461
+2018,16,DST,nfl,Indianapolis Colts,IND,NYG,home,3.00,0.0,1,0,0,0,0,27,309,83,392
+2018,16,DST,nfl,New York Giants,NYG,IND,away,3.00,1.0,1,0,0,0,0,28,353,49,402
+2018,16,DST,nfl,Cincinnati Bengals,CIN,CLE,away,3.00,0.0,0,0,0,1,0,26,347,146,493
+2018,16,DST,nfl,Kansas City Chiefs,KC,SEA,away,3.00,3.0,0,0,0,0,0,38,254,210,464
+2018,16,DST,nfl,Detroit Lions,DET,MIN,home,3.00,2.0,0,0,0,0,0,27,240,100,340
+2018,16,DST,nfl,Green Bay Packers,GB,NYJ,away,2.00,2.0,0,0,0,0,0,38,323,47,370
+2018,16,DST,nfl,Tampa Bay Buccaneers,TB,DAL,away,2.00,1.0,0,0,0,0,0,27,152,80,232
+2018,16,DST,nfl,Denver Broncos,DEN,OAK,away,2.00,1.0,0,0,0,0,0,27,159,114,273

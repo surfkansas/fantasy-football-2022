@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2017,13,DST,nfl,Miami Dolphins,MIA,DEN,home,28.00,3.0,3,2,0,1,1,9,167,103,270
+2017,13,DST,nfl,Los Angeles Rams,LA,ARI,away,25.00,7.0,2,0,0,2,1,16,187,118,305
+2017,13,DST,nfl,Dallas Cowboys,DAL,WAS,home,22.00,4.0,2,0,2,0,1,14,224,56,280
+2017,13,DST,nfl,Baltimore Ravens,BAL,DET,home,19.00,3.0,2,0,1,0,1,20,294,78,372
+2017,13,DST,nfl,Green Bay Packers,GB,TB,home,19.00,7.0,0,0,1,0,1,20,230,165,395
+2017,13,DST,nfl,New England Patriots,NE,BUF,away,16.00,4.0,1,0,0,0,0,3,85,183,268
+2017,13,DST,nfl,Jacksonville Jaguars,JAX,IND,home,15.00,4.0,2,0,0,0,0,10,149,141,290
+2017,13,DST,nfl,Chicago Bears,CHI,SF,home,14.00,2.0,1,0,0,0,1,15,278,110,388
+2017,13,DST,nfl,Denver Broncos,DEN,MIA,away,14.00,2.0,2,0,1,0,1,35,222,145,367
+2017,13,DST,nfl,Seattle Seahawks,SEA,PHI,home,14.00,3.0,1,0,1,0,0,10,327,98,425
+2017,13,DST,nfl,Los Angeles Chargers,LAC,CLE,home,14.00,3.0,1,0,1,0,0,10,202,89,291
+2017,13,DST,nfl,Tennessee Titans,TEN,HOU,home,13.00,4.0,1,0,0,0,0,13,331,53,384
+2017,13,DST,nfl,Oakland Raiders,OAK,NYG,home,11.00,3.0,0,0,2,0,0,17,200,65,265
+2017,13,DST,nfl,Minnesota Vikings,MIN,ATL,away,7.00,0.0,0,0,0,0,0,9,173,102,275
+2017,13,DST,nfl,Pittsburgh Steelers,PIT,CIN,away,6.00,2.0,0,0,0,0,0,20,223,130,353
+2017,13,DST,nfl,Atlanta Falcons,ATL,MIN,home,6.00,2.0,0,0,0,0,0,14,207,105,312
+2017,13,DST,nfl,San Francisco 49ers,SF,CHI,away,6.00,2.0,0,0,0,0,0,14,85,62,147
+2017,13,DST,nfl,Buffalo Bills,BUF,NE,home,6.00,3.0,1,0,0,0,0,23,244,191,435
+2017,13,DST,nfl,Tampa Bay Buccaneers,TB,GB,away,5.00,2.0,1,0,0,0,0,26,77,199,276
+2017,13,DST,nfl,New Orleans Saints,NO,CAR,home,5.00,2.0,0,0,1,0,0,21,167,112,279
+2017,13,DST,nfl,Houston Texans,HOU,TEN,away,5.00,2.0,0,0,1,0,0,24,146,198,344
+2017,13,DST,nfl,Cleveland Browns,CLE,LAC,away,5.00,1.0,0,0,0,0,0,19,335,94,429
+2017,13,DST,nfl,New York Giants,NYG,OAK,away,4.00,1.0,0,0,1,0,0,24,282,119,401
+2017,13,DST,nfl,Cincinnati Bengals,CIN,PIT,home,4.00,1.0,1,0,0,0,0,23,282,92,374
+2017,13,DST,nfl,Carolina Panthers,CAR,NO,away,4.00,2.0,0,0,1,0,0,31,252,148,400
+2017,13,DST,nfl,Philadelphia Eagles,PHI,SEA,away,3.00,2.0,0,0,0,0,0,24,209,101,310
+2017,13,DST,nfl,Arizona Cardinals,ARI,LA,home,3.00,1.0,1,0,0,0,0,32,213,90,303
+2017,13,DST,nfl,New York Jets,NYJ,KC,home,2.00,2.0,0,0,0,0,0,31,362,112,474
+2017,13,DST,nfl,Indianapolis Colts,IND,JAX,away,1.00,1.0,0,0,0,0,0,30,330,96,426
+2017,13,DST,nfl,Washington Redskins,WAS,DAL,away,1.00,1.0,0,0,0,0,0,38,93,182,275
+2017,13,DST,nfl,Kansas City Chiefs,KC,NYJ,away,0.00,0.0,0,0,0,0,0,38,331,157,488
+2017,13,DST,nfl,Detroit Lions,DET,BAL,away,0.00,0.0,0,0,0,0,0,44,269,101,370

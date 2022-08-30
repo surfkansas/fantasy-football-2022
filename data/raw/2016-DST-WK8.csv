@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2016,8,DST,nfl,Denver Broncos,DEN,SD,home,22.00,4.0,3,0,0,1,1,19,246,123,369
+2016,8,DST,nfl,Carolina Panthers,CAR,ARI,home,22.00,8.0,1,0,1,0,1,20,316,24,340
+2016,8,DST,nfl,Kansas City Chiefs,KC,IND,away,14.00,6.0,1,0,1,0,0,14,172,105,277
+2016,8,DST,nfl,San Diego Chargers,SD,DEN,away,14.00,1.0,1,0,2,0,1,27,267,57,324
+2016,8,DST,nfl,Chicago Bears,CHI,MIN,home,12.00,5.0,0,0,0,0,0,10,201,57,258
+2016,8,DST,nfl,Seattle Seahawks,SEA,NO,away,11.00,2.0,0,0,1,0,1,25,252,123,375
+2016,8,DST,nfl,Detroit Lions,DET,HOU,away,9.00,3.0,1,0,0,0,0,20,164,105,269
+2016,8,DST,nfl,Washington Redskins,WAS,CIN,away,8.00,3.0,1,0,1,0,0,27,263,152,415
+2016,8,DST,nfl,Houston Texans,HOU,DET,home,8.00,1.0,0,0,0,0,0,13,231,58,289
+2016,8,DST,nfl,New Orleans Saints,NO,SEA,home,7.00,1.0,1,0,0,0,0,20,285,74,359
+2016,8,DST,nfl,Dallas Cowboys,DAL,PHI,home,6.00,3.0,0,0,1,0,0,23,194,97,291
+2016,8,DST,nfl,Minnesota Vikings,MIN,CHI,away,5.00,1.0,0,0,0,0,0,20,245,158,403
+2016,8,DST,nfl,Tennessee Titans,TEN,JAX,home,5.00,2.0,0,0,1,0,0,22,322,48,370
+2016,8,DST,nfl,New York Jets,NYJ,CLE,away,5.00,1.0,2,0,0,0,0,28,339,68,407
+2016,8,DST,nfl,Buffalo Bills,BUF,NE,home,5.00,5.0,0,0,0,0,0,41,285,72,357
+2016,8,DST,nfl,Philadelphia Eagles,PHI,DAL,away,4.00,2.0,1,0,0,0,0,29,273,187,460
+2016,8,DST,nfl,Cincinnati Bengals,CIN,WAS,home,4.00,1.0,1,0,0,0,0,27,446,100,546
+2016,8,DST,nfl,Tampa Bay Buccaneers,TB,OAK,home,4.00,2.0,0,0,1,0,0,30,498,128,626
+2016,8,DST,nfl,Atlanta Falcons,ATL,GB,home,3.00,3.0,0,0,0,0,0,32,223,108,331
+2016,8,DST,nfl,Oakland Raiders,OAK,TB,away,3.00,2.0,0,0,0,0,0,24,168,102,270
+2016,8,DST,nfl,Arizona Cardinals,ARI,CAR,away,3.00,1.0,0,0,1,0,0,30,208,141,349
+2016,8,DST,nfl,Indianapolis Colts,IND,KC,home,3.00,3.0,0,0,0,0,0,30,334,88,422
+2016,8,DST,nfl,New England Patriots,NE,BUF,away,3.00,2.0,0,0,0,0,0,25,209,167,376
+2016,8,DST,nfl,Cleveland Browns,CLE,NYJ,home,2.00,2.0,0,0,0,0,0,31,222,171,393
+2016,8,DST,nfl,Green Bay Packers,GB,ATL,away,2.00,2.0,0,0,0,0,0,33,277,90,367
+2016,8,DST,nfl,Jacksonville Jaguars,JAX,TEN,away,0.00,0.0,0,0,0,0,0,36,280,214,494

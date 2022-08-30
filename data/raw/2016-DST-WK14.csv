@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2016,14,DST,nfl,Atlanta Falcons,ATL,LA,away,29.00,3.0,2,0,3,0,2,14,208,104,312
+2016,14,DST,nfl,Green Bay Packers,GB,SEA,home,22.00,3.0,5,0,1,0,0,10,218,136,354
+2016,14,DST,nfl,Carolina Panthers,CAR,SD,home,21.00,5.0,3,1,2,0,0,16,220,58,278
+2016,14,DST,nfl,Chicago Bears,CHI,DET,away,17.00,3.0,2,0,0,0,1,20,209,114,323
+2016,14,DST,nfl,New York Giants,NYG,DAL,home,16.00,3.0,2,0,1,0,0,7,152,108,260
+2016,14,DST,nfl,Dallas Cowboys,DAL,NYG,away,16.00,3.0,1,0,2,0,0,10,167,93,260
+2016,14,DST,nfl,Miami Dolphins,MIA,ARI,home,16.00,3.0,2,0,2,1,0,23,125,175,300
+2016,14,DST,nfl,Tampa Bay Buccaneers,TB,NO,home,14.00,1.0,3,0,0,0,0,11,248,46,294
+2016,14,DST,nfl,Kansas City Chiefs,KC,OAK,home,14.00,1.0,0,0,0,0,1,13,109,135,244
+2016,14,DST,nfl,Tennessee Titans,TEN,DEN,home,14.00,3.0,0,0,2,0,0,10,330,18,348
+2016,14,DST,nfl,Cincinnati Bengals,CIN,CLE,away,12.00,3.0,1,0,0,0,0,10,85,169,254
+2016,14,DST,nfl,Pittsburgh Steelers,PIT,BUF,away,11.00,5.0,1,0,0,0,0,20,208,67,275
+2016,14,DST,nfl,Philadelphia Eagles,PHI,WAS,home,11.00,2.0,1,0,0,0,1,27,227,107,334
+2016,14,DST,nfl,Houston Texans,HOU,IND,away,11.00,1.0,2,0,1,0,0,17,265,83,348
+2016,14,DST,nfl,Minnesota Vikings,MIN,JAX,away,10.00,4.0,0,0,0,1,0,16,230,85,315
+2016,14,DST,nfl,Denver Broncos,DEN,TEN,away,9.00,2.0,0,0,0,0,0,13,73,180,253
+2016,14,DST,nfl,New England Patriots,NE,BAL,home,9.00,2.0,1,1,0,1,0,23,306,42,348
+2016,14,DST,nfl,Washington Redskins,WAS,PHI,away,9.00,4.0,1,0,1,0,0,22,288,95,383
+2016,14,DST,nfl,San Francisco 49ers,SF,NYJ,home,9.00,6.0,1,0,0,0,0,23,216,188,404
+2016,14,DST,nfl,New Orleans Saints,NO,TB,away,8.00,2.0,0,1,0,0,0,16,166,104,270
+2016,14,DST,nfl,Arizona Cardinals,ARI,MIA,away,8.00,1.0,1,0,2,0,0,26,231,83,314
+2016,14,DST,nfl,Oakland Raiders,OAK,KC,away,8.00,1.0,1,0,2,0,0,21,258,65,323
+2016,14,DST,nfl,Buffalo Bills,BUF,PIT,home,7.00,0.0,3,0,0,0,0,27,220,240,460
+2016,14,DST,nfl,Baltimore Ravens,BAL,NE,away,7.00,1.0,1,0,2,0,0,30,401,95,496
+2016,14,DST,nfl,New York Jets,NYJ,SF,away,6.00,2.0,0,0,0,0,0,17,116,248,364
+2016,14,DST,nfl,Detroit Lions,DET,CHI,home,5.00,1.0,0,0,0,0,0,17,204,92,296
+2016,14,DST,nfl,Indianapolis Colts,IND,HOU,home,5.00,2.0,1,0,0,0,0,22,131,185,316
+2016,14,DST,nfl,Cleveland Browns,CLE,CIN,home,5.00,4.0,0,0,0,0,0,23,147,213,360
+2016,14,DST,nfl,San Diego Chargers,SD,CAR,away,4.00,2.0,1,0,0,0,0,28,146,126,272
+2016,14,DST,nfl,Jacksonville Jaguars,JAX,MIN,home,3.00,0.0,0,0,1,0,0,25,292,85,377
+2016,14,DST,nfl,Los Angeles Rams,LA,ATL,home,2.00,2.0,0,0,0,0,0,42,220,66,286
+2016,14,DST,nfl,Seattle Seahawks,SEA,GB,away,1.00,1.0,0,0,0,0,0,38,237,93,330

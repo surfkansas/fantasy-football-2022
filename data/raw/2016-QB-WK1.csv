@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pass_attempts,pass_completions,pass_yards,pass_touchdowns,pass_interceptions,pass_2points,rush_attempts,rush_yards,rush_touchdowns,rush_2points,receptions,reception_yards,reception_touchdowns,reception_2points,fumbles_lost,fumble_recovery_touchdowns
+2016,1,QB,andrew-luck-luckan01,Andrew Luck,IND,DET,home,43.00,47,31,385,4,0,1,3,21,0,0,0,0,0,0,0,0
+2016,1,QB,drew-brees-breesdr01,Drew Brees,NO,OAK,home,39.00,42,28,423,4,0,0,2,5,0,0,0,0,0,0,1,0
+2016,1,QB,jameis-winston-winstja01,Jameis Winston,TB,ATL,away,33.00,32,23,281,4,1,0,4,3,0,0,0,0,0,0,0,0
+2016,1,QB,alex-smith-smithal04,Alex Smith,KC,SD,home,31.00,48,34,363,2,1,0,4,15,1,0,0,0,0,0,0,0
+2016,1,QB,matthew-stafford-staffma01,Matthew Stafford,DET,IND,away,31.00,39,31,340,3,0,0,2,5,0,0,0,0,0,0,0,0
+2016,1,QB,ben-roethlisberger-roethbe01,Ben Roethlisberger,PIT,WAS,away,28.00,37,27,300,3,1,0,1,-2,0,0,0,0,0,0,0,0
+2016,1,QB,matt-ryan-ryanma01,Matt Ryan,ATL,TB,home,28.00,39,27,334,2,0,1,3,10,0,0,0,0,0,0,0,0
+2016,1,QB,aaron-rodgers-rodgeaa01,Aaron Rodgers,GB,JAX,away,26.00,34,20,199,2,0,0,4,16,1,0,0,0,0,0,0,0
+2016,1,QB,eli-manning-manniel01,Eli Manning,NYG,DAL,away,24.00,28,19,207,3,1,0,0,0,0,0,0,0,0,0,0,0
+2016,1,QB,derek-carr-carrde03,Derek Carr,OAK,NO,away,23.00,38,24,319,1,0,2,2,16,0,0,0,0,0,0,0,0
+2016,1,QB,carson-wentz-wentzca02,Carson Wentz,PHI,CLE,home,23.00,37,22,278,2,0,0,2,1,0,0,0,0,0,0,0,0
+2016,1,QB,cam-newton-newtoca02,Cam Newton,CAR,DEN,away,22.00,33,18,194,1,1,0,11,54,1,0,0,0,0,0,0,0
+2016,1,QB,carson-palmer-palmeca01,Carson Palmer,ARI,NE,home,22.00,37,24,271,2,0,0,2,1,0,0,0,0,0,0,0,0
+2016,1,QB,marcus-mariota-marioma01,Marcus Mariota,TEN,MIN,home,20.00,41,25,271,2,1,0,4,19,0,0,0,0,0,0,1,0
+2016,1,QB,brock-osweiler-osweibr01,Brock Osweiler,HOU,CHI,home,20.00,35,22,231,2,1,0,4,14,0,0,0,0,0,0,0,0
+2016,1,QB,andy-dalton-daltoan02,Andy Dalton,CIN,NYJ,away,18.00,30,23,366,1,1,0,3,7,0,0,0,0,0,0,0,0
+2016,1,QB,ryan-fitzpatrick-fitzpry01,Ryan Fitzpatrick,NYJ,CIN,home,18.00,35,19,189,2,1,0,4,15,0,0,0,0,0,0,0,0
+2016,1,QB,blake-bortles-bortlbl01,Blake Bortles,JAX,GB,home,16.00,39,24,320,1,1,0,2,2,0,0,0,0,0,0,0,0
+2016,1,QB,blaine-gabbert-gabbebl01,Blaine Gabbert,SF,LA,home,16.00,35,22,170,1,0,0,9,43,0,0,1,-16,0,0,0,0
+2016,1,QB,jimmy-garoppolo-garopji01,Jimmy Garoppolo,NE,ARI,away,16.00,33,24,264,1,0,0,4,12,0,0,1,3,0,0,1,0
+2016,1,QB,joe-flacco-flaccjo01,Joe Flacco,BAL,BUF,home,15.00,33,22,258,1,0,0,4,-3,0,0,0,0,0,0,1,0
+2016,1,QB,philip-rivers-riverph01,Philip Rivers,SD,KC,away,15.00,36,25,243,1,0,0,2,9,0,0,0,0,0,0,0,0
+2016,1,QB,ryan-tannehill-tannery01,Ryan Tannehill,MIA,SEA,away,14.00,29,16,186,0,0,0,5,17,1,0,0,0,0,0,0,0
+2016,1,QB,russell-wilson-wilsoru01,Russell Wilson,SEA,MIA,home,14.00,43,27,258,1,1,0,4,16,0,0,0,0,0,0,1,0
+2016,1,QB,jay-cutler-cutleja01,Jay Cutler,CHI,HOU,away,13.00,29,16,216,1,1,0,2,12,0,0,0,0,0,0,0,0
+2016,1,QB,trevor-siemian-siemitr01,Trevor Siemian,DEN,CAR,home,11.00,26,18,178,1,2,0,5,20,0,0,0,0,0,0,0,0
+2016,1,QB,dak-prescott-prescda01,Dak Prescott,DAL,NYG,home,10.00,45,25,227,0,0,0,2,12,0,0,0,0,0,0,0,0
+2016,1,QB,kirk-cousins-cousiki01,Kirk Cousins,WAS,PIT,home,9.00,43,30,329,0,2,0,1,8,0,0,0,0,0,0,0,0
+2016,1,QB,shaun-hill-hillsh01,Shaun Hill,MIN,TEN,away,9.00,33,18,236,0,0,0,2,8,0,0,0,0,0,0,0,0
+2016,1,QB,robert-griffin-griffro02,Robert Griffin III,CLE,PHI,away,8.00,26,12,190,0,1,0,5,37,0,0,0,0,0,0,0,0
+2016,1,QB,tyrod-taylor-tayloty02,Tyrod Taylor,BUF,BAL,away,5.00,22,15,111,0,0,0,5,11,0,0,0,0,0,0,0,0
+2016,1,QB,case-keenum-keenuca01,Case Keenum,LA,SF,away,2.00,35,17,130,0,2,0,3,10,0,0,0,0,0,0,0,0

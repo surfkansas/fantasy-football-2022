@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pat_attempts,pat_made,field_goal_att,field_goal_made,field_goal_made_50_yards
+2021,7,K,nick-folk-folkni01,Nick Folk,NE,NYJ,home,14.00,7,6,2,2,1
+2021,7,K,graham-gano-ganogr01,Graham Gano,NYG,CAR,home,13.00,2,2,3,3,1
+2021,7,K,evan-mcpherson-mcpheev01,Evan McPherson,CIN,BAL,away,13.00,5,5,2,2,1
+2021,7,K,austin-seibert-seibeau01,Austin Seibert,DET,LA,away,13.00,1,1,4,4,0
+2021,7,K,younghoe-koo-kooyo01,Younghoe Koo,ATL,MIA,away,12.00,3,3,3,3,0
+2021,7,K,randy-bullock-bullora01,Randy Bullock,TEN,KC,home,11.00,3,3,2,2,1
+2021,7,K,daniel-carlson-carlsda01,Daniel Carlson,LV,PHI,home,9.00,4,3,2,2,0
+2021,7,K,matt-gay-gayma02,Matt Gay,LA,DET,home,8.00,2,2,2,2,0
+2021,7,K,joey-slye-slyejo01,Joey Slye,IND,SF,away,8.00,1,0,2,2,1
+2021,7,K,ryan-succop-succory01,Ryan Succop,TB,CHI,home,8.00,5,5,2,1,0
+2021,7,K,brian-johnson-johnsbr18,Brian Johnson,NO,SEA,away,7.00,1,1,2,2,0
+2021,7,K,chase-mclaughlin-mclauch02,Chase McLaughlin,CLE,DEN,home,7.00,2,2,2,1,1
+2021,7,K,matt-prater-pratema01,Matt Prater,ARI,HOU,home,7.00,4,4,1,1,0
+2021,7,K,michael-badgley-badglmi01,Michael Badgley,IND,SF,away,6.00,3,3,1,1,0
+2021,7,K,mason-crosby-crosbma01,Mason Crosby,GB,WAS,home,6.00,3,3,2,1,0
+2021,7,K,jason-myers-myersja02,Jason Myers,SEA,NO,home,6.00,1,1,3,1,1
+2021,7,K,kaimi-fairbairn-fairbka01,Ka'imi Fairbairn,HOU,ARI,away,5.00,0,0,1,1,1
+2021,7,K,justin-tucker-tuckeju01,Justin Tucker,BAL,CIN,home,5.00,2,2,1,1,0
+2021,7,K,chris-blewitt-blewich01,Chris Blewitt,WAS,GB,away,4.00,1,1,2,1,0
+2021,7,K,jason-sanders-sandeja03,Jason Sanders,MIA,ATL,home,4.00,4,4,1,0,0
+2021,7,K,harrison-butker-butkeha01,Harrison Butker,KC,TEN,away,3.00,0,0,2,1,0
+2021,7,K,zane-gonzalez-gonzaza01,Zane Gonzalez,CAR,NYG,away,3.00,0,0,1,1,0
+2021,7,K,cairo-santos-santoca01,Cairo Santos,CHI,TB,away,3.00,0,0,1,1,0
+2021,7,K,jake-elliott-ellioja04,Jake Elliott,PHI,LV,away,2.00,2,2,0,0,0
+2021,7,K,brandon-mcmanus-mcmanbr01,Brandon McManus,DEN,CLE,away,2.00,2,2,0,0,0
+2021,7,K,matt-ammendola-ammenma01,Matt Ammendola,NYJ,NE,away,1.00,1,1,1,0,0

@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2019,7,DST,nfl,Kansas City Chiefs,KC,DEN,away,27.00,9.0,0,0,1,0,1,6,134,71,205
+2019,7,DST,nfl,New England Patriots,NE,NYJ,away,25.00,1.0,4,1,2,0,0,0,73,81,154
+2019,7,DST,nfl,Los Angeles Rams,LA,ATL,away,24.00,5.0,1,0,2,0,1,10,186,38,224
+2019,7,DST,nfl,Baltimore Ravens,BAL,SEA,away,21.00,1.0,1,0,1,0,2,16,241,106,347
+2019,7,DST,nfl,Jacksonville Jaguars,JAX,CIN,away,20.00,2.0,3,0,1,0,1,17,258,33,291
+2019,7,DST,nfl,Dallas Cowboys,DAL,PHI,home,18.00,3.0,1,0,3,0,0,10,168,115,283
+2019,7,DST,nfl,San Francisco 49ers,SF,WAS,away,15.00,3.0,0,0,1,0,0,0,50,104,154
+2019,7,DST,nfl,Arizona Cardinals,ARI,NYG,away,15.00,8.0,1,0,2,0,0,21,156,107,263
+2019,7,DST,nfl,Buffalo Bills,BUF,MIA,home,12.00,1.0,1,0,1,0,1,21,272,109,381
+2019,7,DST,nfl,New York Giants,NYG,ARI,home,11.00,2.0,0,0,0,1,1,27,89,156,245
+2019,7,DST,nfl,Washington Redskins,WAS,SF,home,11.00,2.0,1,0,0,0,0,9,146,137,283
+2019,7,DST,nfl,New Orleans Saints,NO,CHI,away,11.00,2.0,0,1,2,1,0,25,235,17,252
+2019,7,DST,nfl,Indianapolis Colts,IND,HOU,home,10.00,3.0,2,1,0,0,0,23,291,100,391
+2019,7,DST,nfl,Chicago Bears,CHI,NO,home,7.00,1.0,0,0,0,0,1,36,273,151,424
+2019,7,DST,nfl,Tennessee Titans,TEN,LAC,home,7.00,1.0,0,0,1,0,0,20,326,39,365
+2019,7,DST,nfl,Green Bay Packers,GB,OAK,home,5.00,0.0,1,0,1,0,0,24,329,155,484
+2019,7,DST,nfl,Los Angeles Chargers,LAC,TEN,away,5.00,2.0,1,0,0,0,0,23,306,97,403
+2019,7,DST,nfl,Philadelphia Eagles,PHI,DAL,away,5.00,3.0,1,0,0,0,0,37,213,189,402
+2019,7,DST,nfl,Minnesota Vikings,MIN,DET,away,4.00,2.0,1,0,0,0,0,30,352,81,433
+2019,7,DST,nfl,Cincinnati Bengals,CIN,JAX,home,3.00,2.0,0,0,0,0,0,27,244,216,460
+2019,7,DST,nfl,Houston Texans,HOU,IND,away,3.00,1.0,0,0,1,0,0,30,321,62,383
+2019,7,DST,nfl,Miami Dolphins,MIA,BUF,away,2.00,2.0,0,0,0,0,0,31,188,117,305
+2019,7,DST,nfl,New York Jets,NYJ,NE,home,2.00,0.0,1,0,0,0,0,33,249,74,323
+2019,7,DST,nfl,Denver Broncos,DEN,KC,home,1.00,1.0,0,0,0,0,0,30,191,80,271
+2019,7,DST,nfl,Oakland Raiders,OAK,GB,away,1.00,1.0,0,0,0,0,0,42,421,60,481
+2019,7,DST,nfl,Seattle Seahawks,SEA,BAL,home,1.00,1.0,0,0,0,0,0,30,141,199,340
+2019,7,DST,nfl,Detroit Lions,DET,MIN,home,0.00,0.0,0,0,0,0,0,42,338,166,504
+2019,7,DST,nfl,Atlanta Falcons,ATL,LA,home,0.00,0.0,0,0,0,0,0,37,291,90,381

@@ -1,0 +1,30 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pass_attempts,pass_completions,pass_yards,pass_touchdowns,pass_interceptions,pass_2points,rush_attempts,rush_yards,rush_touchdowns,rush_2points,receptions,reception_yards,reception_touchdowns,reception_2points,fumbles_lost,fumble_recovery_touchdowns
+2019,10,QB,daniel-jones-jonesda20,Daniel Jones,NYG,NYJ,away,39.00,40,26,308,4,0,1,3,20,0,0,0,0,0,0,1,0
+2019,10,QB,lamar-jackson-jacksla06,Lamar Jackson,BAL,CIN,away,38.00,17,15,223,3,0,0,7,65,1,0,0,0,0,0,0,0
+2019,10,QB,patrick-mahomes-mahompa01,Patrick Mahomes,KC,TEN,away,35.00,50,36,446,3,0,0,0,0,0,0,0,0,0,0,0,0
+2019,10,QB,kyler-murray-murraky01,Kyler Murray,ARI,TB,away,31.00,44,27,324,3,1,0,3,38,0,0,0,0,0,0,0,0
+2019,10,QB,dak-prescott-prescda01,Dak Prescott,DAL,MIN,home,31.00,46,28,397,3,1,0,0,0,0,0,0,0,0,0,0,0
+2019,10,QB,josh-allen-allenjo06,Josh Allen,BUF,CLE,away,24.00,41,22,266,0,0,0,6,28,2,0,0,0,0,0,0,0
+2019,10,QB,mitchell-trubisky-trubimi01,Mitchell Trubisky,CHI,DET,home,24.00,23,16,173,3,0,0,3,8,0,0,0,0,0,0,0,0
+2019,10,QB,sam-darnold-darnosa01,Sam Darnold,NYJ,NYG,home,23.00,30,19,230,1,0,0,3,25,1,0,0,0,0,0,0,0
+2019,10,QB,ryan-tannehill-tannery01,Ryan Tannehill,KC,TEN,away,23.00,19,13,181,2,0,0,3,37,0,1,0,0,0,0,1,0
+2019,10,QB,kirk-cousins-cousiki01,Kirk Cousins,MIN,DAL,away,22.00,32,23,220,2,0,1,1,5,0,0,0,0,0,0,0,0
+2019,10,QB,baker-mayfield-mayfiba01,Baker Mayfield,CLE,BUF,home,21.00,38,26,238,2,0,0,2,1,0,0,0,0,0,0,0,0
+2019,10,QB,jameis-winston-winstja01,Jameis Winston,TB,ARI,home,20.00,48,30,358,1,2,0,3,40,0,0,0,0,0,0,0,0
+2019,10,QB,matt-ryan-ryanma01,Matt Ryan,ATL,NO,away,18.00,35,20,182,2,1,0,2,13,0,0,0,0,0,0,0,0
+2019,10,QB,russell-wilson-wilsoru01,Russell Wilson,SEA,SF,away,18.00,34,24,232,1,1,0,6,53,0,0,0,0,0,0,0,0
+2019,10,QB,jeff-driskel-driskje01,Jeff Driskel,DET,CHI,away,17.00,46,27,269,1,1,0,5,37,0,0,1,6,0,0,0,0
+2019,10,QB,kyle-allen-allenky01,Kyle Allen,CAR,GB,away,16.00,43,28,307,1,1,0,3,12,0,0,0,0,0,0,1,0
+2019,10,QB,mason-rudolph-rudolma02,Mason Rudolph,PIT,LA,home,15.00,38,22,242,1,0,0,2,-1,0,0,0,0,0,0,0,0
+2019,10,QB,derek-carr-carrde03,Derek Carr,OAK,LAC,home,14.00,31,21,218,1,0,0,1,4,0,0,0,0,0,0,0,0
+2019,10,QB,philip-rivers-riverph01,Philip Rivers,LAC,OAK,away,14.00,31,17,207,2,3,0,0,0,0,0,0,0,0,0,0,0
+2019,10,QB,jimmy-garoppolo-garopji01,Jimmy Garoppolo,SF,SEA,home,13.00,46,24,248,1,1,1,2,1,0,0,0,0,0,0,2,0
+2019,10,QB,ryan-fitzpatrick-fitzpry01,Ryan Fitzpatrick,MIA,IND,away,12.00,33,21,169,0,1,0,4,23,1,0,0,0,0,0,0,0
+2019,10,QB,drew-brees-breesdr01,Drew Brees,NO,ATL,home,11.00,45,32,287,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,10,QB,ryan-finley-finlery01,Ryan Finley,CIN,BAL,home,11.00,30,16,167,1,1,0,5,22,0,0,0,0,0,0,1,0
+2019,10,QB,aaron-rodgers-rodgeaa01,Aaron Rodgers,GB,CAR,home,9.00,29,17,233,0,0,0,1,7,0,0,0,0,0,0,0,0
+2019,10,QB,brian-hoyer-hoyerbr01,Brian Hoyer,MIA,IND,away,8.00,39,18,204,1,3,0,2,0,0,0,0,0,0,0,0,0
+2019,10,QB,jared-goff-goffja01,Jared Goff,LA,PIT,away,4.00,41,22,243,0,2,0,1,0,0,0,0,0,0,0,1,0
+2019,10,QB,taysom-hill-hillta01,Taysom Hill,NO,ATL,home,1.00,1,1,17,0,0,0,1,11,0,0,1,3,0,0,0,0
+2019,10,QB,blake-bortles-bortlbl01,Blake Bortles,LA,PIT,away,0.00,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+2019,10,QB,robert-griffin-griffro02,Robert Griffin III,BAL,CIN,away,-2.00,5,3,20,0,1,0,0,9,0,0,0,0,0,0,0,0

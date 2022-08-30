@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2012,15,DST,nfl,Arizona Cardinals,ARI,DET,home,29.00,2.0,3,0,1,0,2,10,228,84,312
+2012,15,DST,nfl,Cincinnati Bengals,CIN,PHI,away,26.00,1.0,1,0,4,1,1,13,177,42,219
+2012,15,DST,nfl,New Orleans Saints,NO,TB,home,22.00,2.0,4,0,1,0,0,0,319,67,386
+2012,15,DST,nfl,Tennessee Titans,TEN,NYJ,home,21.00,4.0,4,0,1,0,0,10,107,146,253
+2012,15,DST,nfl,Houston Texans,HOU,IND,home,19.00,5.0,0,0,1,1,1,17,148,124,272
+2012,15,DST,nfl,Seattle Seahawks,SEA,BUF,away,19.00,3.0,2,0,1,0,1,17,215,118,333
+2012,15,DST,nfl,Carolina Panthers,CAR,SD,away,17.00,6.0,0,0,2,0,0,7,94,70,164
+2012,15,DST,nfl,Atlanta Falcons,ATL,NYG,home,17.00,1.0,2,0,1,0,0,0,159,97,256
+2012,15,DST,nfl,Denver Broncos,DEN,BAL,away,17.00,3.0,1,0,1,0,1,17,222,56,278
+2012,15,DST,nfl,Oakland Raiders,OAK,KC,home,16.00,4.0,1,0,0,0,0,0,109,10,119
+2012,15,DST,nfl,Minnesota Vikings,MIN,STL,away,15.00,4.0,1,0,1,0,1,22,345,87,432
+2012,15,DST,nfl,Green Bay Packers,GB,CHI,away,13.00,4.0,1,0,0,0,0,13,107,83,190
+2012,15,DST,nfl,Miami Dolphins,MIA,JAX,home,12.00,2.0,0,0,0,0,0,3,213,86,299
+2012,15,DST,nfl,San Francisco 49ers,SF,NE,away,11.00,3.0,2,0,2,0,0,34,425,95,520
+2012,15,DST,nfl,New York Jets,NYJ,TEN,away,10.00,4.0,0,0,0,1,0,14,127,167,294
+2012,15,DST,nfl,Philadelphia Eagles,PHI,CIN,home,10.00,6.0,0,0,2,0,0,34,92,157,249
+2012,15,DST,nfl,Dallas Cowboys,DAL,PIT,home,9.00,4.0,1,0,1,0,0,24,319,69,388
+2012,15,DST,nfl,Chicago Bears,CHI,GB,home,8.00,3.0,0,0,2,0,0,21,278,113,391
+2012,15,DST,nfl,Washington Redskins,WAS,CLE,away,7.00,2.0,2,0,0,0,0,21,233,58,291
+2012,15,DST,nfl,Kansas City Chiefs,KC,OAK,away,6.00,0.0,0,0,1,0,0,15,182,203,385
+2012,15,DST,nfl,New England Patriots,NE,SF,home,5.00,1.0,1,0,1,0,0,41,208,180,388
+2012,15,DST,nfl,Buffalo Bills,BUF,SEA,home,4.00,2.0,0,0,0,1,0,50,196,270,466
+2012,15,DST,nfl,Cleveland Browns,CLE,WAS,home,4.00,2.0,1,0,0,0,0,38,308,122,430
+2012,15,DST,nfl,San Diego Chargers,SD,CAR,home,4.00,2.0,0,0,1,0,0,31,217,155,372
+2012,15,DST,nfl,Pittsburgh Steelers,PIT,DAL,away,4.00,1.0,0,0,1,0,0,27,328,87,415
+2012,15,DST,nfl,Jacksonville Jaguars,JAX,MIA,away,4.00,1.0,0,0,1,0,0,24,209,180,389
+2012,15,DST,nfl,Indianapolis Colts,IND,HOU,away,3.00,3.0,0,0,0,0,0,29,239,178,417
+2012,15,DST,nfl,Detroit Lions,DET,ARI,away,3.00,1.0,1,0,0,0,0,38,97,99,196
+2012,15,DST,nfl,Baltimore Ravens,BAL,DEN,home,2.00,2.0,0,0,0,0,0,34,187,163,350
+2012,15,DST,nfl,St. Louis Rams,STL,MIN,home,2.00,2.0,0,0,0,0,0,36,109,213,322
+2012,15,DST,nfl,New York Giants,NYG,ATL,away,1.00,1.0,0,0,0,0,0,34,265,129,394
+2012,15,DST,nfl,Tampa Bay Buccaneers,TB,NO,away,1.00,1.0,0,0,0,0,0,41,298,149,447

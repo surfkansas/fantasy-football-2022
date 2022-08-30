@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2018,5,DST,nfl,Cincinnati Bengals,CIN,MIA,home,25.00,3.0,2,0,1,0,2,17,169,128,297
+2018,5,DST,nfl,Kansas City Chiefs,KC,JAX,home,25.00,5.0,4,0,1,0,1,14,401,101,502
+2018,5,DST,nfl,Arizona Cardinals,ARI,SF,away,24.00,4.0,2,0,3,0,1,18,300,147,447
+2018,5,DST,nfl,Pittsburgh Steelers,PIT,ATL,home,20.00,6.0,0,0,1,1,1,17,262,62,324
+2018,5,DST,nfl,Buffalo Bills,BUF,TEN,home,15.00,2.0,1,0,2,0,0,12,121,100,221
+2018,5,DST,nfl,Cleveland Browns,CLE,BAL,home,15.00,2.0,1,0,1,1,0,9,294,116,410
+2018,5,DST,nfl,Minnesota Vikings,MIN,PHI,away,14.00,3.0,0,0,2,0,1,21,283,81,364
+2018,5,DST,nfl,Baltimore Ravens,BAL,CLE,away,14.00,5.0,1,0,0,0,0,12,304,112,416
+2018,5,DST,nfl,Los Angeles Chargers,LAC,OAK,home,14.00,3.0,1,0,1,0,0,10,248,41,289
+2018,5,DST,nfl,Carolina Panthers,CAR,NYG,home,13.00,1.0,2,0,1,0,1,31,382,50,432
+2018,5,DST,nfl,Miami Dolphins,MIA,CIN,away,13.00,2.0,1,0,0,1,1,27,229,103,332
+2018,5,DST,nfl,Detroit Lions,DET,GB,home,11.00,4.0,0,0,3,0,0,23,423,98,521
+2018,5,DST,nfl,New Orleans Saints,NO,WAS,home,11.00,3.0,1,0,1,0,0,19,244,39,283
+2018,5,DST,nfl,Tennessee Titans,TEN,BUF,away,10.00,1.0,1,0,0,0,0,13,79,144,223
+2018,5,DST,nfl,Houston Texans,HOU,DAL,home,10.00,2.0,2,0,0,0,0,16,194,98,292
+2018,5,DST,nfl,New York Jets,NYJ,DEN,home,10.00,4.0,1,0,0,0,0,16,344,92,436
+2018,5,DST,nfl,Dallas Cowboys,DAL,HOU,away,9.00,1.0,1,0,1,0,0,19,374,88,462
+2018,5,DST,nfl,New England Patriots,NE,IND,home,8.00,1.0,2,0,1,0,0,24,355,84,439
+2018,5,DST,nfl,Jacksonville Jaguars,JAX,KC,away,5.00,1.0,2,0,0,0,0,30,298,126,424
+2018,5,DST,nfl,Denver Broncos,DEN,NYJ,away,5.00,1.0,1,0,1,0,0,34,189,323,512
+2018,5,DST,nfl,Seattle Seahawks,SEA,LA,home,5.00,1.0,2,0,0,0,0,33,313,155,468
+2018,5,DST,nfl,New York Giants,NYG,CAR,away,5.00,1.0,2,0,0,0,0,33,232,118,350
+2018,5,DST,nfl,Philadelphia Eagles,PHI,MIN,home,4.00,1.0,0,0,1,0,0,23,298,77,375
+2018,5,DST,nfl,Indianapolis Colts,IND,NE,away,4.00,0.0,2,0,0,0,0,38,341,97,438
+2018,5,DST,nfl,Washington Redskins,WAS,NO,away,4.00,2.0,0,0,1,0,0,43,349,98,447
+2018,5,DST,nfl,Green Bay Packers,GB,DET,away,3.00,3.0,0,0,0,0,0,31,170,94,264
+2018,5,DST,nfl,Los Angeles Rams,LA,SEA,away,2.00,2.0,0,0,0,0,0,31,183,190,373
+2018,5,DST,nfl,Oakland Raiders,OAK,LAC,away,2.00,1.0,0,0,0,0,0,26,333,79,412
+2018,5,DST,nfl,Atlanta Falcons,ATL,PIT,away,2.00,0.0,1,0,0,0,0,41,250,131,381
+2018,5,DST,nfl,San Francisco 49ers,SF,ARI,home,1.00,1.0,0,0,0,0,0,28,164,56,220

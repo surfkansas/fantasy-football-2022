@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2018,9,DST,nfl,Chicago Bears,CHI,BUF,away,31.00,4.0,3,0,1,0,2,9,166,98,264
+2018,9,DST,nfl,Miami Dolphins,MIA,NYJ,home,28.00,4.0,4,0,0,0,1,6,202,80,282
+2018,9,DST,nfl,Minnesota Vikings,MIN,DET,home,25.00,10.0,0,0,1,0,1,9,143,66,209
+2018,9,DST,nfl,San Francisco 49ers,SF,OAK,home,18.00,8.0,0,0,0,0,0,3,140,102,242
+2018,9,DST,nfl,Los Angeles Chargers,LAC,SEA,away,16.00,4.0,1,0,0,0,1,17,202,154,356
+2018,9,DST,nfl,Tennessee Titans,TEN,DAL,away,13.00,5.0,1,0,1,0,0,14,225,72,297
+2018,9,DST,nfl,New York Jets,NYJ,MIA,away,11.00,4.0,0,0,0,0,0,13,104,64,168
+2018,9,DST,nfl,Atlanta Falcons,ATL,WAS,away,9.00,3.0,1,0,0,0,0,14,287,79,366
+2018,9,DST,nfl,Denver Broncos,DEN,HOU,home,8.00,4.0,0,0,0,0,0,19,192,98,290
+2018,9,DST,nfl,Dallas Cowboys,DAL,TEN,home,8.00,4.0,0,0,2,0,0,28,215,125,340
+2018,9,DST,nfl,Houston Texans,HOU,DEN,away,8.00,2.0,0,0,1,0,0,17,273,75,348
+2018,9,DST,nfl,Carolina Panthers,CAR,TB,home,7.00,3.0,2,0,0,0,0,28,219,82,301
+2018,9,DST,nfl,Kansas City Chiefs,KC,CLE,away,7.00,2.0,1,0,0,1,0,21,286,102,388
+2018,9,DST,nfl,New England Patriots,NE,GB,home,7.00,1.0,0,0,1,0,0,17,250,117,367
+2018,9,DST,nfl,Detroit Lions,DET,MIN,away,6.00,1.0,1,0,1,0,0,24,155,128,283
+2018,9,DST,nfl,Pittsburgh Steelers,PIT,BAL,away,6.00,2.0,0,0,0,0,0,16,204,61,265
+2018,9,DST,nfl,Washington Redskins,WAS,ATL,home,4.00,2.0,1,0,0,0,0,38,337,154,491
+2018,9,DST,nfl,Cleveland Browns,CLE,KC,home,4.00,2.0,1,0,0,0,0,37,360,139,499
+2018,9,DST,nfl,Seattle Seahawks,SEA,LAC,home,3.00,2.0,0,0,0,0,0,25,215,160,375
+2018,9,DST,nfl,Buffalo Bills,BUF,CHI,home,3.00,1.0,1,0,0,0,0,41,126,64,190
+2018,9,DST,nfl,Los Angeles Rams,LA,NO,away,2.00,0.0,0,0,1,0,0,45,346,141,487
+2018,9,DST,nfl,New Orleans Saints,NO,LA,home,2.00,0.0,1,0,0,0,0,35,391,92,483
+2018,9,DST,nfl,Baltimore Ravens,BAL,PIT,home,2.00,1.0,0,0,0,0,0,23,282,113,395
+2018,9,DST,nfl,Tampa Bay Buccaneers,TB,CAR,away,2.00,2.0,0,0,0,0,0,42,228,179,407
+2018,9,DST,nfl,Green Bay Packers,GB,NE,away,2.00,2.0,0,0,0,0,0,31,310,123,433
+2018,9,DST,nfl,Oakland Raiders,OAK,SF,away,0.00,0.0,0,0,0,0,0,34,262,143,405

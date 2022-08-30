@@ -1,0 +1,27 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2014,9,DST,nfl,Miami Dolphins,MIA,SD,home,22.00,4.0,3,0,1,0,0,0,128,50,178
+2014,9,DST,nfl,St. Louis Rams,STL,SF,away,19.00,8.0,0,0,2,0,0,10,183,80,263
+2014,9,DST,nfl,Houston Texans,HOU,PHI,home,18.00,4.0,3,0,1,0,1,31,293,190,483
+2014,9,DST,nfl,New Orleans Saints,NO,CAR,away,15.00,4.0,1,0,1,0,0,10,122,109,231
+2014,9,DST,nfl,Seattle Seahawks,SEA,OAK,home,14.00,1.0,2,0,1,0,1,24,189,37,226
+2014,9,DST,nfl,Cleveland Browns,CLE,TB,home,12.00,2.0,2,0,0,1,0,17,252,113,365
+2014,9,DST,nfl,New England Patriots,NE,DEN,home,12.00,1.0,2,0,0,0,1,21,429,43,472
+2014,9,DST,nfl,San Francisco 49ers,SF,STL,home,12.00,1.0,2,0,0,0,0,13,102,91,193
+2014,9,DST,nfl,Arizona Cardinals,ARI,DAL,away,11.00,1.0,2,0,0,1,0,17,174,92,266
+2014,9,DST,nfl,Baltimore Ravens,BAL,PIT,away,11.00,3.0,0,0,1,0,1,43,321,55,376
+2014,9,DST,nfl,Dallas Cowboys,DAL,ARI,home,10.00,2.0,1,0,0,0,1,28,237,102,339
+2014,9,DST,nfl,Kansas City Chiefs,KC,NYJ,home,10.00,3.0,0,0,0,0,0,10,225,139,364
+2014,9,DST,nfl,Oakland Raiders,OAK,SEA,away,9.00,1.0,0,0,0,1,1,30,177,149,326
+2014,9,DST,nfl,Cincinnati Bengals,CIN,JAX,home,9.00,2.0,1,1,0,1,0,23,233,132,365
+2014,9,DST,nfl,Tampa Bay Buccaneers,TB,CLE,away,9.00,4.0,2,0,0,0,0,22,274,56,330
+2014,9,DST,nfl,Pittsburgh Steelers,PIT,BAL,home,9.00,4.0,1,0,1,0,0,23,269,63,332
+2014,9,DST,nfl,Minnesota Vikings,MIN,WAS,home,8.00,5.0,1,0,0,0,0,26,225,122,347
+2014,9,DST,nfl,Carolina Panthers,CAR,NO,home,8.00,4.0,1,0,1,0,0,28,270,105,375
+2014,9,DST,nfl,Philadelphia Eagles,PHI,HOU,away,7.00,4.0,1,0,0,0,0,21,182,118,300
+2014,9,DST,nfl,Jacksonville Jaguars,JAX,CIN,away,6.00,2.0,2,0,0,0,0,33,232,191,423
+2014,9,DST,nfl,Indianapolis Colts,IND,NYG,away,6.00,3.0,0,0,1,0,0,24,349,89,438
+2014,9,DST,nfl,Denver Broncos,DEN,NE,away,3.00,1.0,1,0,0,0,0,43,332,66,398
+2014,9,DST,nfl,New York Jets,NYJ,KC,away,2.00,1.0,0,0,0,0,0,24,196,113,309
+2014,9,DST,nfl,Washington Redskins,WAS,MIN,away,2.00,2.0,0,0,0,0,0,29,252,100,352
+2014,9,DST,nfl,New York Giants,NYG,IND,home,1.00,1.0,0,0,0,0,0,40,345,98,443
+2014,9,DST,nfl,San Diego Chargers,SD,MIA,away,0.00,0.0,0,0,0,0,0,37,309,132,441

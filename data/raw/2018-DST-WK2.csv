@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2018,2,DST,nfl,Chicago Bears,CHI,SEA,home,20.00,6.0,1,0,1,0,1,17,202,74,276
+2018,2,DST,nfl,Miami Dolphins,MIA,NYJ,away,16.00,3.0,2,0,1,0,0,12,320,42,362
+2018,2,DST,nfl,Dallas Cowboys,DAL,NYG,home,15.00,6.0,0,0,1,0,0,13,220,35,255
+2018,2,DST,nfl,Los Angeles Chargers,LAC,BUF,away,13.00,5.0,2,0,0,0,0,20,209,84,293
+2018,2,DST,nfl,Los Angeles Rams,LA,ARI,home,13.00,1.0,1,0,0,0,0,0,83,54,137
+2018,2,DST,nfl,Indianapolis Colts,IND,WAS,away,12.00,3.0,0,0,1,0,0,9,269,65,334
+2018,2,DST,nfl,New York Jets,NYJ,MIA,home,12.00,4.0,0,0,2,0,0,20,122,135,257
+2018,2,DST,nfl,Green Bay Packers,GB,MIN,home,12.00,2.0,1,0,0,1,1,29,412,68,480
+2018,2,DST,nfl,Cincinnati Bengals,CIN,BAL,home,11.00,4.0,2,0,1,0,0,23,359,66,425
+2018,2,DST,nfl,Tennessee Titans,TEN,HOU,home,10.00,4.0,1,0,0,0,0,17,289,148,437
+2018,2,DST,nfl,New Orleans Saints,NO,CLE,home,9.00,3.0,1,0,0,0,0,18,234,93,327
+2018,2,DST,nfl,Cleveland Browns,CLE,NO,away,8.00,3.0,0,0,2,0,0,21,213,62,275
+2018,2,DST,nfl,Tampa Bay Buccaneers,TB,PHI,home,8.00,3.0,0,0,2,0,0,21,321,91,412
+2018,2,DST,nfl,Jacksonville Jaguars,JAX,NE,home,8.00,2.0,0,0,1,0,0,20,220,82,302
+2018,2,DST,nfl,Oakland Raiders,OAK,DEN,away,7.00,1.0,1,0,0,0,0,20,217,168,385
+2018,2,DST,nfl,Philadelphia Eagles,PHI,TB,away,7.00,2.0,1,0,1,0,0,27,393,43,436
+2018,2,DST,nfl,Denver Broncos,DEN,OAK,home,7.00,1.0,0,0,0,1,0,19,281,92,373
+2018,2,DST,nfl,Seattle Seahawks,SEA,CHI,away,7.00,2.0,2,0,0,0,0,24,185,86,271
+2018,2,DST,nfl,Washington Redskins,WAS,IND,home,6.00,1.0,2,0,0,0,0,21,177,104,281
+2018,2,DST,nfl,Detroit Lions,DET,SF,away,6.00,6.0,0,0,0,0,0,30,156,190,346
+2018,2,DST,nfl,San Francisco 49ers,SF,DET,home,5.00,2.0,0,0,1,0,0,27,329,98,427
+2018,2,DST,nfl,Houston Texans,HOU,TEN,away,5.00,1.0,0,0,0,0,0,20,183,100,283
+2018,2,DST,nfl,Pittsburgh Steelers,PIT,KC,home,5.00,1.0,0,1,1,0,0,42,322,127,449
+2018,2,DST,nfl,Atlanta Falcons,ATL,CAR,home,5.00,2.0,1,0,0,0,0,24,318,121,439
+2018,2,DST,nfl,Minnesota Vikings,MIN,GB,away,4.00,4.0,0,0,0,0,0,29,253,98,351
+2018,2,DST,nfl,New York Giants,NYG,DAL,away,4.00,0.0,0,0,0,0,0,20,160,138,298
+2018,2,DST,nfl,Arizona Cardinals,ARI,LA,away,4.00,2.0,1,0,0,0,0,34,342,90,432
+2018,2,DST,nfl,New England Patriots,NE,JAX,away,4.00,0.0,1,0,1,0,0,31,376,104,480
+2018,2,DST,nfl,Carolina Panthers,CAR,ATL,away,2.00,0.0,1,0,0,0,0,31,272,170,442
+2018,2,DST,nfl,Buffalo Bills,BUF,LAC,home,2.00,2.0,0,0,0,0,0,31,240,109,349
+2018,2,DST,nfl,Kansas City Chiefs,KC,PIT,away,1.00,1.0,0,0,0,0,0,37,442,33,475
+2018,2,DST,nfl,Baltimore Ravens,BAL,CIN,away,0.00,0.0,0,0,0,0,0,34,265,108,373

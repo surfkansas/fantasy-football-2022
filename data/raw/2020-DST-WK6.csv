@@ -1,0 +1,29 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2020,6,DST,nfl,Tampa Bay Buccaneers,TB,GB,home,22.00,5.0,2,0,0,0,1,10,107,94,201
+2020,6,DST,nfl,Pittsburgh Steelers,PIT,CLE,home,21.00,4.0,2,0,0,0,1,7,145,75,220
+2020,6,DST,nfl,Arizona Cardinals,ARI,DAL,away,18.00,3.0,2,0,2,0,0,10,247,97,344
+2020,6,DST,nfl,New York Giants,NYG,WAS,home,17.00,3.0,1,0,1,0,1,19,251,86,337
+2020,6,DST,nfl,Denver Broncos,DEN,NE,away,17.00,4.0,2,0,1,0,0,12,171,117,288
+2020,6,DST,nfl,Miami Dolphins,MIA,NYJ,home,15.00,3.0,1,0,0,0,0,0,148,115,263
+2020,6,DST,nfl,Chicago Bears,CHI,CAR,away,14.00,4.0,2,0,1,0,0,16,191,112,303
+2020,6,DST,nfl,New England Patriots,NE,DEN,home,10.00,2.0,2,0,0,0,0,18,164,135,299
+2020,6,DST,nfl,Detroit Lions,DET,JAX,away,9.00,1.0,1,0,1,0,0,16,231,44,275
+2020,6,DST,nfl,Houston Texans,HOU,TEN,away,8.00,2.0,1,0,1,1,0,42,344,263,607
+2020,6,DST,nfl,Baltimore Ravens,BAL,PHI,away,8.00,6.0,0,0,1,0,0,28,170,194,364
+2020,6,DST,nfl,Atlanta Falcons,ATL,MIN,away,8.00,1.0,3,0,0,0,0,23,333,32,365
+2020,6,DST,nfl,San Francisco 49ers,SF,LA,home,8.00,0.0,1,0,0,1,0,16,198,113,311
+2020,6,DST,nfl,New York Jets,NYJ,MIA,away,7.00,2.0,2,0,0,0,0,24,192,110,302
+2020,6,DST,nfl,Washington Football Team,WAS,NYG,away,7.00,1.0,1,0,0,0,0,20,108,132,240
+2020,6,DST,nfl,Kansas City Chiefs,KC,BUF,away,6.00,0.0,1,0,0,0,0,17,122,84,206
+2020,6,DST,nfl,Indianapolis Colts,IND,CIN,home,5.00,2.0,1,0,0,0,0,27,300,98,398
+2020,6,DST,nfl,Cincinnati Bengals,CIN,IND,away,5.00,1.0,1,0,1,0,0,31,371,59,430
+2020,6,DST,nfl,Minnesota Vikings,MIN,ATL,home,4.00,2.0,0,0,1,0,0,40,363,99,462
+2020,6,DST,nfl,Buffalo Bills,BUF,KC,home,4.00,1.0,0,0,1,0,0,26,221,245,466
+2020,6,DST,nfl,Carolina Panthers,CAR,CHI,home,3.00,0.0,1,0,0,0,0,23,198,63,261
+2020,6,DST,nfl,Philadelphia Eagles,PHI,BAL,home,3.00,3.0,0,0,0,0,0,30,173,182,355
+2020,6,DST,nfl,Tennessee Titans,TEN,HOU,home,2.00,2.0,0,0,0,0,0,36,320,92,412
+2020,6,DST,nfl,Cleveland Browns,CLE,PIT,away,2.00,2.0,0,0,0,0,0,38,148,129,277
+2020,6,DST,nfl,Jacksonville Jaguars,JAX,DET,home,2.00,0.0,1,0,0,0,0,34,223,180,403
+2020,6,DST,nfl,Dallas Cowboys,DAL,ARI,home,1.00,1.0,0,0,0,0,0,38,177,261,438
+2020,6,DST,nfl,Los Angeles Rams,LA,SF,away,1.00,0.0,0,0,0,0,0,24,268,122,390
+2020,6,DST,nfl,Green Bay Packers,GB,TB,away,0.00,0.0,0,0,0,0,0,38,166,158,324

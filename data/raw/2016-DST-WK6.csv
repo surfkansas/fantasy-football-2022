@@ -1,0 +1,31 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2016,6,DST,nfl,San Diego Chargers,SD,DEN,home,15.00,2.0,0,1,2,0,0,13,220,84,304
+2016,6,DST,nfl,Arizona Cardinals,ARI,NYJ,home,15.00,1.0,2,0,0,0,0,3,197,33,230
+2016,6,DST,nfl,Philadelphia Eagles,PHI,WAS,away,15.00,0.0,1,0,0,0,2,27,263,230,493
+2016,6,DST,nfl,Kansas City Chiefs,KC,OAK,away,13.00,2.0,1,0,1,0,0,10,221,64,285
+2016,6,DST,nfl,Dallas Cowboys,DAL,GB,away,13.00,1.0,1,0,3,0,0,16,294,78,372
+2016,6,DST,nfl,Chicago Bears,CHI,JAX,home,10.00,2.0,1,0,1,0,0,17,263,54,317
+2016,6,DST,nfl,Miami Dolphins,MIA,PIT,home,10.00,2.0,2,0,0,0,0,15,169,128,297
+2016,6,DST,nfl,Washington Redskins,WAS,PHI,home,9.00,5.0,0,0,0,0,0,20,145,94,239
+2016,6,DST,nfl,Seattle Seahawks,SEA,ATL,home,9.00,4.0,1,0,1,0,0,24,310,52,362
+2016,6,DST,nfl,Buffalo Bills,BUF,SF,home,9.00,3.0,0,0,1,0,0,16,167,133,300
+2016,6,DST,nfl,New England Patriots,NE,CIN,home,8.00,2.0,0,1,0,0,0,17,237,120,357
+2016,6,DST,nfl,Baltimore Ravens,BAL,NYG,away,8.00,1.0,2,0,1,0,0,27,397,38,435
+2016,6,DST,nfl,Tennessee Titans,TEN,CLE,home,7.00,6.0,0,0,0,0,0,26,301,40,341
+2016,6,DST,nfl,Denver Broncos,DEN,SD,away,7.00,2.0,0,0,2,0,0,21,166,99,265
+2016,6,DST,nfl,San Francisco 49ers,SF,BUF,away,7.00,3.0,0,0,2,0,0,45,179,313,492
+2016,6,DST,nfl,New Orleans Saints,NO,CAR,home,6.00,2.0,1,0,1,0,0,38,303,103,406
+2016,6,DST,nfl,Houston Texans,HOU,IND,home,6.00,3.0,1,0,0,0,0,23,231,161,392
+2016,6,DST,nfl,Green Bay Packers,GB,DAL,home,6.00,2.0,1,0,1,0,0,30,233,191,424
+2016,6,DST,nfl,Jacksonville Jaguars,JAX,CHI,away,5.00,1.0,0,0,0,0,0,16,297,92,389
+2016,6,DST,nfl,Atlanta Falcons,ATL,SEA,away,4.00,1.0,0,0,0,1,0,26,261,72,333
+2016,6,DST,nfl,Indianapolis Colts,IND,HOU,away,4.00,1.0,1,0,0,0,0,26,256,158,414
+2016,6,DST,nfl,Cleveland Browns,CLE,TEN,away,4.00,2.0,1,0,0,0,0,28,270,137,407
+2016,6,DST,nfl,Cincinnati Bengals,CIN,NE,away,3.00,3.0,0,0,0,0,0,35,358,79,437
+2016,6,DST,nfl,Detroit Lions,DET,LA,home,3.00,1.0,1,0,0,0,0,28,311,76,387
+2016,6,DST,nfl,New York Giants,NYG,BAL,home,3.00,2.0,0,0,0,0,0,23,293,98,391
+2016,6,DST,nfl,Carolina Panthers,CAR,NO,away,3.00,1.0,1,0,0,0,0,41,460,63,523
+2016,6,DST,nfl,Pittsburgh Steelers,PIT,MIA,away,2.00,0.0,0,0,0,1,0,30,252,222,474
+2016,6,DST,nfl,Oakland Raiders,OAK,KC,home,2.00,1.0,0,0,0,0,0,26,223,183,406
+2016,6,DST,nfl,Los Angeles Rams,LA,DET,away,1.00,1.0,0,0,0,0,0,31,265,83,348
+2016,6,DST,nfl,New York Jets,NYJ,ARI,away,0.00,0.0,0,0,0,0,0,28,225,171,396

@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2017,4,DST,nfl,Seattle Seahawks,SEA,IND,home,23.00,3.0,1,0,1,0,2,18,139,98,237
+2017,4,DST,nfl,Houston Texans,HOU,TEN,home,22.00,2.0,4,0,1,0,1,14,109,86,195
+2017,4,DST,nfl,Buffalo Bills,BUF,ATL,away,17.00,1.0,2,0,1,0,1,17,242,147,389
+2017,4,DST,nfl,Pittsburgh Steelers,PIT,BAL,away,17.00,4.0,2,0,1,0,0,9,206,82,288
+2017,4,DST,nfl,New Orleans Saints,NO,MIA,away,16.00,4.0,1,0,0,0,0,0,128,58,186
+2017,4,DST,nfl,Jacksonville Jaguars,JAX,NYJ,away,16.00,5.0,1,0,1,0,1,23,215,256,471
+2017,4,DST,nfl,Detroit Lions,DET,MIN,away,15.00,2.0,0,0,3,0,0,7,197,87,284
+2017,4,DST,nfl,Green Bay Packers,GB,CHI,home,13.00,1.0,2,0,2,0,0,14,205,103,308
+2017,4,DST,nfl,San Francisco 49ers,SF,ARI,away,12.00,6.0,1,0,0,0,0,18,317,51,368
+2017,4,DST,nfl,Kansas City Chiefs,KC,WAS,home,12.00,0.0,0,0,1,0,1,20,220,111,331
+2017,4,DST,nfl,Denver Broncos,DEN,OAK,home,12.00,3.0,1,0,0,0,0,10,230,24,254
+2017,4,DST,nfl,Cincinnati Bengals,CIN,CLE,away,11.00,2.0,1,0,0,0,0,7,170,45,215
+2017,4,DST,nfl,Minnesota Vikings,MIN,DET,home,10.00,6.0,0,0,0,0,0,14,154,97,251
+2017,4,DST,nfl,Indianapolis Colts,IND,SEA,away,9.00,3.0,2,1,0,0,0,46,283,194,477
+2017,4,DST,nfl,Arizona Cardinals,ARI,SF,home,9.00,3.0,1,0,0,0,0,15,210,95,305
+2017,4,DST,nfl,Oakland Raiders,OAK,DEN,away,8.00,4.0,0,0,0,0,0,16,155,143,298
+2017,4,DST,nfl,New York Jets,NYJ,JAX,home,7.00,1.0,1,0,0,0,0,20,136,175,311
+2017,4,DST,nfl,Los Angeles Rams,LA,DAL,away,6.00,2.0,1,0,1,0,0,30,251,189,440
+2017,4,DST,nfl,New England Patriots,NE,CAR,home,6.00,2.0,1,0,1,0,0,33,304,140,444
+2017,4,DST,nfl,Cleveland Browns,CLE,CIN,home,5.00,3.0,0,0,1,0,0,31,264,86,350
+2017,4,DST,nfl,Miami Dolphins,MIA,NO,home,5.00,1.0,0,0,0,0,0,20,261,86,347
+2017,4,DST,nfl,Philadelphia Eagles,PHI,LAC,away,5.00,2.0,0,0,1,0,0,24,342,58,400
+2017,4,DST,nfl,Washington Redskins,WAS,KC,away,4.00,4.0,0,0,0,0,0,29,261,168,429
+2017,4,DST,nfl,Tennessee Titans,TEN,HOU,away,4.00,2.0,1,0,0,0,0,57,272,173,445
+2017,4,DST,nfl,Baltimore Ravens,BAL,PIT,home,4.00,1.0,1,0,0,0,0,26,208,173,381
+2017,4,DST,nfl,Atlanta Falcons,ATL,BUF,home,4.00,3.0,0,0,0,0,0,23,164,117,281
+2017,4,DST,nfl,Carolina Panthers,CAR,NE,away,3.00,3.0,0,0,0,0,0,30,293,80,373
+2017,4,DST,nfl,Los Angeles Chargers,LAC,PHI,home,2.00,1.0,0,0,0,0,0,26,240,214,454
+2017,4,DST,nfl,New York Giants,NYG,TB,away,2.00,1.0,0,0,0,0,0,25,323,111,434
+2017,4,DST,nfl,Chicago Bears,CHI,GB,away,2.00,2.0,0,0,0,0,0,35,169,91,260
+2017,4,DST,nfl,Dallas Cowboys,DAL,LA,home,1.00,1.0,0,0,0,0,0,35,244,168,412
+2017,4,DST,nfl,Tampa Bay Buccaneers,TB,NYG,home,1.00,0.0,0,0,0,0,0,23,288,91,379

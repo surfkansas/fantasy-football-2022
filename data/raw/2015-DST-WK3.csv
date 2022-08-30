@@ -1,0 +1,33 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,sacks,interceptions,safeties,fumble_recoveries,blocked_kicks,defensive_touchdowns,points_against,passing_yards_allowed,rushing_yards_allowed,total_yards_allowed
+2015,3,DST,nfl,Arizona Cardinals,ARI,SF,home,31.00,2.0,4,1,0,0,2,7,53,103,156
+2015,3,DST,nfl,Philadelphia Eagles,PHI,NYJ,away,19.00,1.0,3,0,1,0,1,17,276,47,323
+2015,3,DST,nfl,Denver Broncos,DEN,DET,away,19.00,4.0,2,0,1,1,0,12,262,28,290
+2015,3,DST,nfl,Seattle Seahawks,SEA,CHI,home,18.00,2.0,0,0,0,0,1,0,48,98,146
+2015,3,DST,nfl,Minnesota Vikings,MIN,SD,home,18.00,4.0,1,0,1,0,1,14,279,90,369
+2015,3,DST,nfl,Buffalo Bills,BUF,MIA,away,18.00,2.0,3,0,0,0,1,14,289,102,391
+2015,3,DST,nfl,Pittsburgh Steelers,PIT,STL,away,14.00,2.0,1,0,0,0,0,6,187,71,258
+2015,3,DST,nfl,St. Louis Rams,STL,PIT,home,14.00,5.0,1,0,0,0,0,12,197,62,259
+2015,3,DST,nfl,Indianapolis Colts,IND,TEN,away,13.00,3.0,2,0,0,0,1,33,345,88,433
+2015,3,DST,nfl,Oakland Raiders,OAK,CLE,away,13.00,5.0,1,0,1,0,0,20,316,39,355
+2015,3,DST,nfl,New York Giants,NYG,WAS,home,12.00,1.0,2,1,1,1,0,21,305,88,393
+2015,3,DST,nfl,Baltimore Ravens,BAL,CIN,home,12.00,2.0,1,0,1,0,1,28,372,86,458
+2015,3,DST,nfl,Houston Texans,HOU,TB,home,9.00,0.0,1,0,0,0,0,9,261,57,318
+2015,3,DST,nfl,Green Bay Packers,GB,KC,home,9.00,7.0,1,0,0,0,0,28,251,75,326
+2015,3,DST,nfl,New Orleans Saints,NO,CAR,away,8.00,1.0,0,0,0,0,1,27,312,119,431
+2015,3,DST,nfl,New England Patriots,NE,JAX,home,8.00,2.0,1,0,0,0,0,17,236,57,293
+2015,3,DST,nfl,Tampa Bay Buccaneers,TB,HOU,away,7.00,1.0,1,0,0,0,0,19,227,186,413
+2015,3,DST,nfl,Tennessee Titans,TEN,IND,home,7.00,3.0,2,0,0,0,0,35,245,133,378
+2015,3,DST,nfl,Detroit Lions,DET,DEN,home,6.00,1.0,1,0,1,0,0,24,313,41,354
+2015,3,DST,nfl,Carolina Panthers,CAR,NO,home,6.00,1.0,1,0,1,0,0,22,310,70,380
+2015,3,DST,nfl,Washington Redskins,WAS,NYG,away,6.00,0.0,0,0,0,0,1,32,279,84,363
+2015,3,DST,nfl,Chicago Bears,CHI,SEA,away,5.00,4.0,0,0,0,0,0,26,212,159,371
+2015,3,DST,nfl,Atlanta Falcons,ATL,DAL,away,4.00,2.0,1,0,0,0,0,28,220,127,347
+2015,3,DST,nfl,New York Jets,NYJ,PHI,home,4.00,1.0,0,0,1,0,0,24,108,123,231
+2015,3,DST,nfl,Cincinnati Bengals,CIN,BAL,away,3.00,0.0,1,0,0,0,0,24,362,36,398
+2015,3,DST,nfl,San Francisco 49ers,SF,ARI,away,3.00,1.0,1,0,0,0,0,47,307,139,446
+2015,3,DST,nfl,Cleveland Browns,CLE,OAK,home,3.00,0.0,0,0,1,0,0,27,314,155,469
+2015,3,DST,nfl,Jacksonville Jaguars,JAX,NE,away,2.00,2.0,0,0,0,0,0,51,346,125,471
+2015,3,DST,nfl,San Diego Chargers,SD,MIN,away,2.00,0.0,1,0,0,0,0,31,121,163,284
+2015,3,DST,nfl,Kansas City Chiefs,KC,GB,away,1.00,1.0,0,0,0,0,0,38,325,123,448
+2015,3,DST,nfl,Dallas Cowboys,DAL,ATL,home,1.00,1.0,0,0,0,0,0,39,280,158,438
+2015,3,DST,nfl,Miami Dolphins,MIA,BUF,home,0.00,0.0,0,0,0,0,0,41,277,151,428

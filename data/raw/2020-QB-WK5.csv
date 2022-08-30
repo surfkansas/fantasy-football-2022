@@ -1,0 +1,36 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pass_attempts,pass_completions,pass_yards,pass_touchdowns,pass_interceptions,pass_2points,rush_attempts,rush_yards,rush_touchdowns,rush_2points,receptions,reception_yards,reception_touchdowns,reception_2points,fumbles_lost,fumble_recovery_touchdowns
+2020,5,QB,ryan-tannehill-tannery01,Ryan Tannehill,TEN,BUF,home,35.00,28,21,195,3,0,0,4,42,1,0,0,0,0,0,0,0
+2020,5,QB,justin-herbert-herbeju01,Justin Herbert,LAC,NO,away,34.00,34,20,264,4,0,0,4,8,0,0,0,0,0,0,0,0
+2020,5,QB,ryan-fitzpatrick-fitzpry01,Ryan Fitzpatrick,MIA,SF,away,33.00,28,22,350,3,0,0,3,16,0,0,0,0,0,0,0,0
+2020,5,QB,patrick-mahomes-mahompa01,Patrick Mahomes,KC,LV,home,33.00,43,22,340,2,1,1,6,21,1,0,0,0,0,0,0,0
+2020,5,QB,deshaun-watson-watsode03,Deshaun Watson,HOU,JAX,home,30.00,35,25,359,3,2,0,2,25,0,0,0,0,0,0,0,0
+2020,5,QB,derek-carr-carrde03,Derek Carr,LV,KC,away,29.00,31,22,347,3,1,0,4,1,0,0,0,0,0,0,0,0
+2020,5,QB,russell-wilson-wilsoru01,Russell Wilson,SEA,MIN,home,29.00,32,20,217,3,1,0,5,58,0,0,0,0,0,0,0,0
+2020,5,QB,jared-goff-goffja01,Jared Goff,LA,WAS,away,28.00,30,21,309,2,1,0,3,0,1,0,0,0,0,0,0,0
+2020,5,QB,kyler-murray-murraky01,Kyler Murray,ARI,NYJ,away,28.00,37,27,380,1,1,0,9,31,1,0,0,0,0,0,0,0
+2020,5,QB,ben-roethlisberger-roethbe01,Ben Roethlisberger,PIT,PHI,home,27.00,34,27,239,3,0,0,2,-2,0,0,0,0,0,0,0,0
+2020,5,QB,teddy-bridgewater-bridgte01,Teddy Bridgewater,CAR,ATL,away,24.00,36,27,313,2,0,0,3,3,0,0,0,0,0,0,0,0
+2020,5,QB,gardner-minshew-minshga01,Gardner Minshew,JAX,HOU,away,24.00,49,31,301,2,0,0,4,18,0,0,0,0,0,0,1,0
+2020,5,QB,drew-brees-breesdr01,Drew Brees,NO,LAC,home,23.00,47,33,325,1,1,0,1,1,1,0,0,0,0,0,0,0
+2020,5,QB,carson-wentz-wentzca02,Carson Wentz,PHI,PIT,away,21.00,35,20,258,2,2,1,4,11,0,0,0,0,0,0,0,0
+2020,5,QB,josh-allen-allenjo06,Josh Allen,BUF,TEN,away,19.00,41,26,263,2,2,0,4,18,0,0,0,0,0,0,0,0
+2020,5,QB,kirk-cousins-cousiki01,Kirk Cousins,MIN,SEA,away,18.00,39,27,249,2,1,0,1,2,0,0,0,0,0,0,1,0
+2020,5,QB,baker-mayfield-mayfiba01,Baker Mayfield,CLE,IND,home,18.00,37,21,247,2,2,0,2,17,0,0,0,0,0,0,0,0
+2020,5,QB,lamar-jackson-jacksla06,Lamar Jackson,BAL,CIN,home,17.00,37,19,180,2,1,0,2,3,0,0,0,0,0,0,0,0
+2020,5,QB,tom-brady-bradyto01,Tom Brady,TB,CHI,away,16.00,41,25,253,1,0,0,3,0,0,0,0,0,0,0,0,0
+2020,5,QB,joe-flacco-flaccjo01,Joe Flacco,NYJ,ARI,home,15.00,33,18,195,1,0,0,4,20,0,0,0,0,0,0,0,0
+2020,5,QB,nick-foles-folesni01,Nick Foles,TB,CHI,away,13.00,42,30,243,1,1,0,1,-1,0,0,0,0,0,0,0,0
+2020,5,QB,dak-prescott-prescda01,Dak Prescott,DAL,NYG,home,11.00,21,14,166,0,1,0,2,7,0,0,1,11,1,0,0,0
+2020,5,QB,daniel-jones-jonesda20,Daniel Jones,NYG,DAL,away,9.00,33,20,222,0,0,1,2,-7,0,0,0,0,0,0,1,0
+2020,5,QB,kyle-allen-allenky01,Kyle Allen,LA,WAS,away,8.00,13,9,74,0,0,0,1,7,1,0,0,0,0,0,0,0
+2020,5,QB,cj-beathard-beathcj01,C.J. Beathard,SF,MIA,home,8.00,18,9,94,1,0,0,0,0,0,0,0,0,0,0,1,0
+2020,5,QB,taysom-hill-hillta01,Taysom Hill,NO,LAC,home,7.00,1,0,0,0,0,0,3,13,1,0,0,0,0,0,0,0
+2020,5,QB,matt-ryan-ryanma01,Matt Ryan,ATL,CAR,home,7.00,37,21,226,0,1,0,1,-1,0,0,0,0,0,0,0,0
+2020,5,QB,joe-burrow-burrojo02,Joe Burrow,CIN,BAL,away,5.00,30,19,183,0,1,0,3,10,0,0,0,0,0,0,1,0
+2020,5,QB,philip-rivers-riverph01,Philip Rivers,IND,CLE,away,5.00,33,21,243,0,2,0,1,-1,0,0,0,0,0,0,0,0
+2020,5,QB,andy-dalton-daltoan02,Andy Dalton,DAL,NYG,home,3.00,11,9,111,0,0,0,1,0,0,0,0,0,0,0,1,0
+2020,5,QB,alex-smith-smithal04,Alex Smith,WAS,LA,home,1.00,17,9,37,0,0,0,1,1,0,0,0,0,0,0,0,0
+2020,5,QB,matt-barkley-barklma01,Matt Barkley,BUF,TEN,away,0.00,5,3,22,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,5,QB,robert-griffin-griffro02,Robert Griffin III,BAL,CIN,home,0.00,0,0,0,0,0,0,1,-1,0,0,0,0,0,0,0,0
+2020,5,QB,jalen-hurts-hurtsja01,Jalen Hurts,PHI,PIT,away,0.00,1,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,5,QB,jimmy-garoppolo-garopji01,Jimmy Garoppolo,SF,MIA,home,-1.00,17,7,77,0,2,0,0,0,0,0,0,0,0,0,0,0

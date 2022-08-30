@@ -1,0 +1,36 @@
+year,week,position,player_code,player_name,team,opponent,home_away,fantasy_points,pass_attempts,pass_completions,pass_yards,pass_touchdowns,pass_interceptions,pass_2points,rush_attempts,rush_yards,rush_touchdowns,rush_2points,receptions,reception_yards,reception_touchdowns,reception_2points,fumbles_lost,fumble_recovery_touchdowns
+2013,4,QB,drew-brees-breesdr01,Drew Brees,NO,MIA,home,40.00,39,30,413,4,0,0,4,2,0,0,0,0,0,0,0,0
+2013,4,QB,peyton-manning-mannipe01,Peyton Manning,DEN,PHI,home,37.00,34,28,327,4,0,0,0,0,0,0,0,0,0,0,0,0
+2013,4,QB,philip-rivers-riverph01,Philip Rivers,SD,DAL,home,32.00,42,35,401,3,1,0,0,0,0,0,0,0,0,0,0,0
+2013,4,QB,alex-smith-smithal04,Alex Smith,KC,NYG,home,28.00,41,24,288,3,2,0,7,37,0,0,0,0,0,0,0,0
+2013,4,QB,matt-ryan-ryanma01,Matt Ryan,ATL,NE,home,26.00,54,34,421,2,1,0,0,0,0,0,0,0,0,0,0,0
+2013,4,QB,tom-brady-bradyto01,Tom Brady,NE,ATL,away,24.00,31,20,316,2,0,0,5,-2,0,0,0,0,0,0,0,0
+2013,4,QB,jake-locker-lockeja02,Jake Locker,TEN,NYJ,home,24.00,24,18,149,3,0,0,3,17,0,0,0,0,0,0,0,0
+2013,4,QB,brian-hoyer-hoyerbr01,Brian Hoyer,CIN,CLE,away,22.00,38,25,269,2,0,0,4,7,0,0,0,0,0,0,0,0
+2013,4,QB,andrew-luck-luckan01,Andrew Luck,IND,JAX,away,22.00,35,21,257,2,1,0,2,26,0,0,0,0,0,0,0,0
+2013,4,QB,tony-romo-romoto01,Tony Romo,DAL,SD,away,22.00,37,27,246,2,0,0,1,15,0,0,0,0,0,0,0,0
+2013,4,QB,matt-schaub-schauma01,Matt Schaub,HOU,SEA,home,22.00,49,31,355,2,2,0,1,5,0,0,0,0,0,0,0,0
+2013,4,QB,matt-cassel-cassema01,Matt Cassel,MIN,PIT,home,21.00,25,16,248,2,0,0,2,5,0,0,0,0,0,0,0,0
+2013,4,QB,jay-cutler-cutleja01,Jay Cutler,CHI,DET,away,21.00,47,27,317,2,3,2,1,9,0,0,0,0,0,0,1,0
+2013,4,QB,colin-kaepernick-kaepeco01,Colin Kaepernick,SF,STL,away,18.00,23,15,167,2,0,0,3,11,0,0,0,0,0,0,1,0
+2013,4,QB,ben-roethlisberger-roethbe01,Ben Roethlisberger,PIT,MIN,away,18.00,51,36,383,1,1,0,0,0,0,0,0,0,0,0,1,0
+2013,4,QB,matthew-stafford-staffma01,Matthew Stafford,DET,CHI,home,18.00,35,23,242,1,1,0,5,8,1,0,0,0,0,0,1,0
+2013,4,QB,robert-griffin-griffro02,Robert Griffin III,WAS,OAK,away,16.00,31,18,227,1,0,0,3,10,0,0,0,0,0,0,0,0
+2013,4,QB,joe-flacco-flaccjo01,Joe Flacco,BAL,BUF,away,15.00,50,25,347,2,5,0,0,0,0,0,0,0,0,0,0,0
+2013,4,QB,michael-vick-vickmi01,Michael Vick,PHI,DEN,away,13.00,27,14,248,0,0,0,8,41,0,0,0,0,0,0,0,0
+2013,4,QB,ryan-tannehill-tannery01,Ryan Tannehill,MIA,NO,away,12.00,35,22,249,1,3,0,4,48,0,0,0,0,0,0,1,0
+2013,4,QB,sam-bradford-bradfsa01,Sam Bradford,STL,SF,home,11.00,41,19,202,1,1,0,3,-4,0,0,0,0,0,0,1,0
+2013,4,QB,matt-flynn-flynnma01,Matt Flynn,WAS,OAK,away,11.00,32,21,227,1,1,0,3,4,0,0,0,0,0,0,2,0
+2013,4,QB,eli-manning-manniel01,Eli Manning,NYG,KC,away,11.00,37,18,217,1,1,0,2,12,0,0,0,0,0,0,2,0
+2013,4,QB,carson-palmer-palmeca01,Carson Palmer,ARI,TB,away,11.00,38,21,248,1,2,0,4,6,0,0,0,0,0,0,0,0
+2013,4,QB,geno-smith-smithge04,Geno Smith,NYJ,TEN,away,11.00,34,23,289,1,2,0,3,7,0,0,0,0,0,0,2,0
+2013,4,QB,ryan-fitzpatrick-fitzpry01,Ryan Fitzpatrick,TEN,NYJ,home,10.00,8,3,108,1,0,0,2,-2,0,0,0,0,0,0,0,0
+2013,4,QB,russell-wilson-wilsoru01,Russell Wilson,SEA,HOU,away,9.00,23,12,123,0,1,0,10,77,0,0,0,0,0,0,0,0
+2013,4,QB,mike-glennon-glennmi01,Mike Glennon,TB,ARI,home,8.00,43,24,193,1,2,0,2,-1,0,0,0,0,0,0,1,0
+2013,4,QB,nick-foles-folesni01,Nick Foles,PHI,DEN,away,7.00,4,3,49,1,0,0,0,0,0,0,0,0,0,0,0,0
+2013,4,QB,ej-manuel-manueej01,E.J. Manuel,BUF,BAL,home,7.00,22,10,167,1,2,0,11,1,0,0,0,0,0,0,1,0
+2013,4,QB,andy-dalton-daltoan02,Andy Dalton,CIN,CLE,away,6.00,42,23,206,0,1,0,4,13,0,0,0,0,0,0,1,0
+2013,4,QB,blaine-gabbert-gabbebl01,Blaine Gabbert,JAX,IND,home,2.00,32,17,179,0,3,0,2,10,0,0,0,0,0,0,0,0
+2013,4,QB,matt-hasselbeck-hassema01,Matt Hasselbeck,IND,JAX,away,1.00,3,2,37,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,4,QB,chase-daniel-daniech01,Chase Daniel,KC,NYG,home,0.00,0,0,0,0,0,0,2,-2,0,0,0,0,0,0,0,0
+2013,4,QB,brock-osweiler-osweibr01,Brock Osweiler,DEN,PHI,home,0.00,3,2,10,0,0,0,2,3,0,0,0,0,0,0,0,0
